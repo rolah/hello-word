@@ -1,0 +1,31 @@
+﻿<div style="background-color:#808080">
+    @{
+        Func<string, string[]> splitName = (name) => name.Split(' ');
+    }
+
+    <div style="float:left;margin-bottom:10px; width:100%">
+        <div style="font-weight:bold">
+            @{
+                var fileName = Model.ContentItem.Bio.Headshot.FileName;
+                if (!string.IsNullOrEmpty(@fileName))
+                {
+                    <img src="@Url.Content(fileName)" alt="@Model.Title" style="float:left; margin-right:10px; width:100px;">
+                }
+            }
+
+            <a href="@Model.ContentItem.AutoroutePart.DisplayAlias">
+                @Model.ContentItem.TitlePart.Title
+            </a>
+
+            Plays @Model.ContentItem.Bio.Instruments.Value for Daisy's Gone.
+        
+            <p />
+            Originally from @Model.ContentItem.Bio.Birthplace.Value and currently lives in
+            @Model.ContentItem.Bio.LivesIn.Value.<p />
+
+        </div>
+
+        @Html.Raw(Model.ContentItem.BodyPart.Text)
+        <p/>
+    </div>
+</div>

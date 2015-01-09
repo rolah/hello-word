@@ -1,0 +1,44 @@
+﻿@*<!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>@ViewBag.Title</title>
+    </head>
+    <body>
+        <div>
+            @RenderBody()
+        </div>
+    </body>
+    </html>*@
+@{
+    Style.Include("site.css");
+}
+
+<div id="main">
+    @if (Model.Navigation != null)
+    {
+        <div id="layout-navigation" class="group">
+            @Display(Model.Navigation)
+        </div>
+    }
+
+    @if (Model.Content != null)
+    {
+        @Display(Model.Content)
+    }
+
+    @if (Model.TripelThird != null)
+    {
+        <div id="tripel-third">
+            @Display(Model.TripelThird)
+        </div>
+    }
+    
+    @if (Model.MoreContent != null)
+    {
+        <div id="more-conent">
+            @Display(Model.MoreContent)
+        </div>    
+    }
+</div>

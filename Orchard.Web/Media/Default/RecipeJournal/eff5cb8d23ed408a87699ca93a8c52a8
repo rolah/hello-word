@@ -1,0 +1,5 @@
+<RecipeJournal>
+  <Status>Failed</Status>
+  <Message>Executing step Feature.</Message>
+  <Message>Recipe execution with id eff5cb8d23ed408a87699ca93a8c52a8 was cancelled because the "Feature" step failed to execute. The following exception was thrown: Failed to get state for feature FacebookSDK. Refer to the error logs for more information.</Message>
+</RecipeJournal>

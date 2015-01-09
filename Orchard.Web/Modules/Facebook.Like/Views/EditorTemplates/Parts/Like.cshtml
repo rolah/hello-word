@@ -1,0 +1,54 @@
+﻿@model Facebook.Like.Models.LikePart
+
+<fieldset>
+  <legend>Facebook Like Widget</legend>
+            
+  <div class="editor-label">
+    @Html.LabelFor(model => model.Show_Faces)
+  </div>
+  <div class="editor-field">
+    @Html.CheckBoxFor(model => model.Show_Faces)
+    @Html.ValidationMessageFor(model => model.Show_Faces)
+  </div>
+
+  <div class="editor-label">
+    @Html.LabelFor(model => model.Width)
+  </div>
+  <div class="editor-field">
+    @Html.TextBoxFor(model => model.Width)
+    @Html.ValidationMessageFor(model => model.Width)
+  </div>
+
+  <div class="editor-label">
+    @Html.LabelFor(model => model.Font)
+  </div>
+  <div class="editor-field">
+    @Html.TextBoxFor(model => model.Font)
+    @Html.ValidationMessageFor(model => model.Font)
+  </div>
+
+  <div class="editor-label">
+    @Html.LabelFor(model => model.Colorsheme)
+  </div>
+  <div class="editor-field">
+    @Html.DropDownListFor(model => model.Colorsheme, new SelectList(new[] { new SelectListItem { Text = "light", Value = "light" }, new SelectListItem { Text = "dark", Value = "dark" } }, "Text", "Value"))
+    @Html.ValidationMessageFor(model => model.Colorsheme)
+  </div>
+
+  <div class="editor-label">
+    @Html.LabelFor(model => model.LayoutStyle)
+  </div>
+  <div class="editor-field">
+    @Html.DropDownListFor(model => model.LayoutStyle, new SelectList(new[] { new SelectListItem { Text = "standard", Value = "standard", Selected = true }, new SelectListItem { Text = "button_count", Value = "button_count", Selected = false }, new SelectListItem { Text = "box_count", Value = "box_count", Selected = false } }, "Text", "Value"))
+    @Html.ValidationMessageFor(model => model.LayoutStyle)
+  </div>
+
+  <div class="editor-label">
+    @Html.LabelFor(model => model.Verb)
+  </div>
+  <div class="editor-field">
+    @Html.DropDownListFor(model => model.Verb, new SelectList(new[] { new SelectListItem { Text = "like", Value = "like", Selected = true }, new SelectListItem { Text = "recommend", Value = "recommend", Selected = true } }, "Text", "Value"))
+    @Html.ValidationMessageFor(model => model.Verb)
+  </div>
+            
+</fieldset>

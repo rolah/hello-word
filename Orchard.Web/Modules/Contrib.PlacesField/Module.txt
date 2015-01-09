@@ -1,0 +1,13 @@
+﻿Name: Contrib.PlacesField
+AntiForgery: enabled
+Author: rolah
+Website: 
+Version: 1.0
+OrchardVersion: 1.8
+Description: Description for the module
+Features:
+    Contrib.PlacesField:
+		Name: Places Field
+        Description: Description for feature Contrib.PlacesField.
+		Category: Fields
+		Dependencies: Orchard.jquery, Common, Settings

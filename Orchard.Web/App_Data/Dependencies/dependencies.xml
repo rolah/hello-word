@@ -121,8 +121,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>JWPlayer</ModuleName>
-    <VirtualPath>~/Modules/JWPlayer/JWPlayer.csproj</VirtualPath>
-    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/JWPlayer/bin/JWPlayer.dll</VirtualPath>
+    <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>

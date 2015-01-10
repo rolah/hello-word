@@ -143,7 +143,7 @@ namespace Orchard.Mvc.Routes {
             }
 
             public IAsyncResult BeginProcessRequest(HttpContext context, AsyncCallback cb, object extraData) {
-                _scope = _workContextAccessor.CreateWorkContextScope(new HttpContextWrapper(context));
+               _scope = _workContextAccessor.CreateWorkContextScope(new HttpContextWrapper(context));
                 try {
                     return _httpAsyncHandler.BeginProcessRequest(context, cb, extraData);
                 }

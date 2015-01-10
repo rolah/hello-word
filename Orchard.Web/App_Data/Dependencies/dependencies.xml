@@ -120,6 +120,12 @@
     <References />
   </Dependency>
   <Dependency>
+    <ModuleName>JWPlayer</ModuleName>
+    <VirtualPath>~/Modules/JWPlayer/JWPlayer.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>Lucene</ModuleName>
     <VirtualPath>~/Modules/Lucene/bin/Lucene.dll</VirtualPath>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>

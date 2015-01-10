@@ -37,6 +37,12 @@
     <Hash>23cc4af6171112ca</Hash>
   </Dependency>
   <Dependency>
+    <ExtensionId>JWPlayer</ExtensionId>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/JWPlayer/JWPlayer.csproj</VirtualPath>
+    <Hash>48ed6aec3f615211</Hash>
+  </Dependency>
+  <Dependency>
     <ExtensionId>Lucene</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/Lucene/bin/Lucene.dll</VirtualPath>

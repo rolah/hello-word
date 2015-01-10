@@ -98,6 +98,7 @@
     <Compile Include="Migrations.cs" />
     <Compile Include="Models\JWPlayerPart.cs" />
     <Compile Include="Models\JWPlayerPartRecord.cs" />
+    <Compile Include="ResourceManifest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />

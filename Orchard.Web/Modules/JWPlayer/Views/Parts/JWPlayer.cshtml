@@ -1,5 +1,8 @@
-﻿@using Orchard.UI.Resources
-@{ Script.Require("jwplayer").AtHead(); }
+﻿@*@using Orchard.UI.Resources
+@{ Script.Require("jwplayer.js").AtHead(); }*@
+
+@using Orchard.UI.Resources
+@{ Script.Include("jwplayer.js").AtLocation(ResourceLocation.Head); }
 
 <div id='mediaspace'>This text will be replaced</div>
 <script type='text/javascript'>

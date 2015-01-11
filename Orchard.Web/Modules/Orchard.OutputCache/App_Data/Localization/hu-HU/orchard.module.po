@@ -1,0 +1,216 @@
+msgctxt "~/Modules/Orchard.OutputCache/Module.txt"
+msgid "Output Cache"
+msgstr "Output Cache"
+
+msgctxt "~/Modules/Orchard.OutputCache/Module.txt"
+msgid "Sébastien Ros"
+msgstr "Sébastien Ros"
+
+msgctxt "~/Modules/Orchard.OutputCache/Module.txt"
+msgid "http://orchardproject.net/"
+msgstr "http://orchardproject.net"
+
+#. "Orchard.OutputCache.Description"
+msgctxt "~/Modules/Orchard.OutputCache/Module.txt"
+msgid "Adds Output Caching functionality."
+msgstr "Kimeneti gyorsítótárazás funkcionalitást ad."
+
+msgctxt "~/Modules/Orchard.OutputCache/Module.txt"
+msgid "Performance"
+msgstr "Teljesítmény"
+
+#. "Settings"
+msgctxt "Orchard.OutputCache.AdminMenu"
+msgid "Settings"
+msgstr "Beállítások"
+
+#: "Orchard.OutputCache.AdminMenu"
+msgctxt "Orchard.OutputCache.AdminMenu"
+msgid "Cache"
+msgstr "Gyorsítótár"
+
+#: "Orchard.OutputCache.AdminMenu"
+msgctxt "Orchard.OutputCache.AdminMenu"
+msgid "Statistics"
+msgstr "Statisztika"
+
+#. "Not allowed to manage cache"
+msgctxt "Orchard.OutputCache.Controllers.AdminController"
+msgid "Not allowed to manage cache"
+msgstr "Nem kezelheti a gyorsítótárat"
+
+#: "Orchard.OutputCache.Controllers.AdminController"
+msgctxt "Orchard.OutputCache.Controllers.AdminController"
+msgid "Cache Settings saved successfully."
+msgstr "Gyorsítótár beállítások sikeresen elmentve."
+
+#: "Orchard.OutputCache.Controllers.AdminController"
+msgctxt "Orchard.OutputCache.Controllers.AdminController"
+msgid "Could not save Cache Settings."
+msgstr "Nem sikerült a gyorsítótár beállítások mentése."
+
+#. "Not allowed to manage cache"
+msgctxt "Orchard.OutputCache.Controllers.StatisticsController"
+msgid "Not allowed to manage cache"
+msgstr "Nem kezelheti a gyorsítótárat"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Cache Settings"
+msgstr "Gyorsítótár beállítások"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Default Cache Duration"
+msgstr "Alapértelmezett gyorsítótár érvényességi idő"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Number of seconds the pages should be kept in cache on the server."
+msgstr "Az oldalak szerveren való gyorsítótárazásának időtartama másodpercben."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Max Age"
+msgstr "Maximális érvényességi idő"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "When defined, a cache-control header with a max-age property will be added. Use this in order to enable kernel cache on IIS."
+msgstr "Ha ez meg van adva, akkor a gyorsítótár-kezelő bővül egy maximális élettartamot meghatározó tulajdonsággal. Erre az IIS-ben a kernel szintű gyorsítótár használatához van szükség."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Headers"
+msgstr "Fejlécek"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Ignore no-cache headers"
+msgstr "No-cache fejlécek figyelmen kívül hagyása"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "When checked, any request containing a 'Content-Cache: no-cache' header will still return cached values if available."
+msgstr "Ha bejelöli, akkor minden olyan lekérés, amely tartalmazza a 'Content-Cache: no-cache' fejlécet a cache-ből fog betöltődni, ha elérhető."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Vary Query String Parameters"
+msgstr "Megkülönböztetés URL paraméterek alapján"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "When defined, using comma separated values, sets caching to vary via specified query string parameters"
+msgstr "Ha meg van adva vesszővel elválasztott értékek formájában, akkor a gyorsítótárazásnál a megadott URL paramétereket is figyelembe fogja venni, hogy különbséget tegyen az oldalak között."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Vary Request Headers"
+msgstr "Lekérés fejlécek változtatása"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "When defined, using comma separated values, sets caching to vary via specified request headers."
+msgstr "Ha megad egy vesszővel elválasztott listát, akkor a gyorsítótárazást eszerint változtatja a megadott lekérés fejléceken keresztül."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Ignored urls"
+msgstr "Mellőzendő URL-ek"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgstr "Adja meg a relatív útvonalakat, pl. /,/About. Soronként egy útvonalat írjon be."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "You can add comments by starting the line with #."
+msgstr "Sor eleji # karakterrel írhat megjegyzéseket."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Culture"
+msgstr "Kulturális környezet"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Differentiate cultures"
+msgstr "Kulturális környezetek megkülönböztetése"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "When checked, the cached content will differ per culture too. For better performance, leave this unchecked if your website uses only one culture."
+msgstr "Ha ez be van jelölve, akkor a gyorsítótárazott tartalmak kulturális környezetenként eltérőek lesznek. Teljesítménybeli okokból hagyja bejelöletlenül, ha az oldalán csak egy kulturális környezet van telepítve."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Debug mode"
+msgstr "Debug mód"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Render caching information in cached pages"
+msgstr "Gyorsítótárazott oldalakon gyorsítótárazással kapcsolatos információk megjelenítése"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Route"
+msgstr "Útvonal"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Priority"
+msgstr "Prioritás"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Duration"
+msgstr "Érvényességi idő"
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Leave empty to use default duration, 0 to disable caching on this route."
+msgstr "Hagyja üresen az alapértelmezett érvényességi idő használatához, írjon be 0-t a gyorsítótárazás letiltásához ezen az útvonalon."
+
+#: "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Cache Statistics"
+msgstr "Gyorsítótár statisztikái"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Evict All"
+msgstr "Minden ürítése"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Cached pages"
+msgstr "Gyorsítótárazott oldalak"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Url"
+msgstr "URL"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Cached On"
+msgstr "Gyorsítótárazás időpontja"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Cached Until"
+msgstr "Gyorsítótárban tartás vége"
+
+#: "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgctxt "~/Modules/Orchard.OutputCache/Views/Statistics/Index.cshtml"
+msgid "Evict"
+msgstr "Ürítés"
+

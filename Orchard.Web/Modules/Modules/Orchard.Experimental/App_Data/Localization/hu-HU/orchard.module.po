@@ -1,0 +1,384 @@
+#: Orchard.Experimental.Commands.ProfilingCommands
+#| msgid "Finished adding profiling data"
+msgctxt "Orchard.Experimental.Commands.ProfilingCommands"
+msgid "Finished adding profiling data"
+msgstr "Profiling adatok hozzáadása befejeződött"
+
+#: Orchard.Experimental.Commands.ProfilingCommands
+#| msgid "Creating user failed. The authentication provider returned an error. Aborting..."
+msgctxt "Orchard.Experimental.Commands.ProfilingCommands"
+msgid "Creating user failed. The authentication provider returned an error. Aborting..."
+msgstr "Felhasználó hozzáadása sikertelen. A hitelesítő hibát jelzett. Megszakítás..."
+
+#: Orchard.Experimental.Commands.ProfilingCommands
+#| msgid "Adding users completed successfully"
+msgctxt "Orchard.Experimental.Commands.ProfilingCommands"
+msgid "Adding users completed successfully"
+msgstr "Felhasználók hozzáadása sikeres"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "An assortment of debugging tools."
+msgstr "Hibakereső eszközök"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.Name"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Experimental"
+msgstr "Kísérleti"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.Description"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "An assortment of debugging tools."
+msgstr "Hibakereső eszközök"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.Category"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Profiling.Name"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Profiling"
+msgstr "Profiling"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Profiling.Description"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Tools to help profile Orchard."
+msgstr "Az Orchard profiling-ját támogató eszközök."
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Profiling.Category"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.WebCommandLine.Name"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Web Command Line"
+msgstr "Webes parancssor"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.WebCommandLine.Description"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Enables site administrators to execute Orchard.exe commands via web interface"
+msgstr "A webhely rendszergazdái számára lehetővé teszi az Orchard.exe parancsok webes felületen keresztüli futtatását"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.WebCommandLine.Category"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.TestingLists.Name"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Testing Lists"
+msgstr "Listák tesztelése"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.TestingLists.Description"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Adds some content definitions to help test lists"
+msgstr "A listák tesztelését néhány tartalom meghatározásának hozzáadásával segíti"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.TestingLists.Category"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+
+#: Orchard.Experimental.AdminMenu
+#| msgid "Configuration"
+msgctxt "Orchard.Experimental.AdminMenu"
+msgid "Configuration"
+msgstr "Konfiguráció"
+
+#: Orchard.Experimental.AdminMenu
+#| msgid "Experimental"
+msgctxt "Orchard.Experimental.AdminMenu"
+msgid "Experimental"
+msgstr "Kísérleti"
+
+#: Orchard.Experimental.Commands.ProfilingCommands
+#| msgid "The authentication provider returned an error"
+msgctxt "Orchard.Experimental.Commands.ProfilingCommands"
+msgid "The authentication provider returned an error"
+msgstr "A hitelesítő hibát jelzett"
+
+#: Orchard.Experimental.Controllers.CommandsController
+#| msgid "Error executing command: {0}"
+msgctxt "Orchard.Experimental.Controllers.CommandsController"
+msgid "Error executing command: {0}"
+msgstr "Hiba a parancs végrehajtásakor: {0}"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Simulated error goes here."
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "Simulated error goes here."
+msgstr "Ide kerül a szimulált hiba."
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Notifier works without BaseViewModel"
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "Notifier works without BaseViewModel"
+msgstr "Az értesítő BaseViewModel nélkül működik"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Site Name"
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "Site Name"
+msgstr "Webhely neve"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "some default/pre-pop value..."
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "some default/pre-pop value..."
+msgstr "néhány alapértelmezett/előre kitöltött érték..."
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Admin Username"
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "Admin Username"
+msgstr "Rendszergazda felhasználónév"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Admin Password"
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "Admin Password"
+msgstr "Rendszergazda jelszó"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "Finish Setup"
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "Finish Setup"
+msgstr "Telepítés befejezése"
+
+#: Orchard.Experimental.Controllers.HomeController
+#| msgid "This is a test"
+msgctxt "Orchard.Experimental.Controllers.HomeController"
+msgid "This is a test"
+msgstr "Ez egy teszt"
+
+#: ~/Modules/Orchard.Experimental/Views/Commands/Execute.cshtml
+#| msgid "Command line"
+msgctxt "~/Modules/Orchard.Experimental/Views/Commands/Execute.cshtml"
+msgid "Command line"
+msgstr "Parancssor"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "{0} Content Type"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "{0} Content Type"
+msgstr "{0} tartalomtípus"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Content"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "Content"
+msgstr "Tartalom"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Content Item"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "Content Item"
+msgstr "Tartalomelemek"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Id:"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "Id:"
+msgstr "Azonosító:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Version:"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "Version:"
+msgstr "Verzió:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "ContentType:"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "ContentType:"
+msgstr "Tartalomtípus:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "DisplayText:"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "DisplayText:"
+msgstr "Megjelenítendő szöveg:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Links:"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "Links:"
+msgstr "Hivatkozások:"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "view"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "view"
+msgstr "nézet"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "edit"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "edit"
+msgstr "szerkeszt"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "Content Item Parts"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "Content Item Parts"
+msgstr "Tartalomelem részek"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Details.cshtml
+#| msgid "{0} #{1} v{2}"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Details.cshtml"
+msgid "{0} #{1} v{2}"
+msgstr "{0} #{1} v{2}"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "Content"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Index.cshtml"
+msgid "Content"
+msgstr "Tartalom"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "Content Types"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Index.cshtml"
+msgid "Content Types"
+msgstr "Tartalomtípusok"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "Content Items"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Index.cshtml"
+msgid "Content Items"
+msgstr "Tartalomelemek"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "{0}: {1}"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Index.cshtml"
+msgid "{0}: {1}"
+msgstr "{0}: {1}"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "view"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Index.cshtml"
+msgid "view"
+msgstr "nézet"
+
+#: ~/Modules/Orchard.Experimental/Views/Content/Index.cshtml
+#| msgid "edit"
+msgctxt "~/Modules/Orchard.Experimental/Views/Content/Index.cshtml"
+msgid "edit"
+msgstr "szerkeszt"
+
+#: ~/Modules/Orchard.Experimental/Views/DefinitionTemplates/ExperimentalSettings.cshtml
+#| msgid "Show debug links"
+msgctxt "~/Modules/Orchard.Experimental/Views/DefinitionTemplates/ExperimentalSettings.cshtml"
+msgid "Show debug links"
+msgstr "Hibakeresési hivatkozások megjelenítése"
+
+#: ~/Modules/Orchard.Experimental/Views/EditorTemplates/Parts/Experimental.ShowDebugLink.cshtml
+#| msgid "{0} #{1} v{2}"
+msgctxt "~/Modules/Orchard.Experimental/Views/EditorTemplates/Parts/Experimental.ShowDebugLink.cshtml"
+msgid "{0} #{1} v{2}"
+msgstr "{0} #{1} v{2}"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Experimental"
+msgctxt "~/Modules/Orchard.Experimental/Views/Home/Index.cshtml"
+msgid "Experimental"
+msgstr "Kísérleti"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Contents"
+msgctxt "~/Modules/Orchard.Experimental/Views/Home/Index.cshtml"
+msgid "Contents"
+msgstr "Tartalmak"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Metadata"
+msgctxt "~/Modules/Orchard.Experimental/Views/Home/Index.cshtml"
+msgid "Metadata"
+msgstr "Metaadatok"
+
+#: ~/Modules/Orchard.Experimental/Views/Home/Index.cshtml
+#| msgid "Test Unauthorized Request"
+msgctxt "~/Modules/Orchard.Experimental/Views/Home/Index.cshtml"
+msgid "Test Unauthorized Request"
+msgstr "Jogosulatlan kérés tesztelése"
+
+#: ~/Modules/Orchard.Experimental/Views/Metadata/Index.cshtml
+#| msgid "Merge Changes"
+msgctxt "~/Modules/Orchard.Experimental/Views/Metadata/Index.cshtml"
+msgid "Merge Changes"
+msgstr "Módosítások egyesítése"
+
+#: ~/Modules/Orchard.Experimental/Views/Parts/Experimental.ShowDebugLink.cshtml
+#| msgid "{0} #{1} v{2}"
+msgctxt "~/Modules/Orchard.Experimental/Views/Parts/Experimental.ShowDebugLink.cshtml"
+msgid "{0} #{1} v{2}"
+msgstr "{0} #{1} v{2}"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Experimental"
+msgstr "Kísérleti"
+
+#: ~/Modules/Orchard.Experimental/Views/EditorTemplates/Parts/Experimental.ShowDebugLink.cshtml
+#| msgid "Experimental: editing {0}"
+msgctxt "~/Modules/Orchard.Experimental/Views/EditorTemplates/Parts/Experimental.ShowDebugLink.cshtml"
+msgid "Experimental: editing {0}"
+msgstr "Kísérleti: {0} szerkesztése"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.LockLogging.Name"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Lock Logging"
+msgstr "Zárlat naplózása"
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.LockLogging.Description"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Logs extra diagnostic information for Sql CE if a deadlock timeout occurs"
+msgstr "További diagnosztikai adatokat naplóz Sql CE adabázisnál, ha patthelyzet időtúllépés történik."
+
+#: ~/Modules/Orchard.Experimental/Module.txt
+#| msgid "Orchard.Experimental.LockLogging.Category"
+msgctxt "~/Modules/Orchard.Experimental/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+
+#: Orchard.Experimental.AdminMenu
+#| msgid "Debug"
+msgctxt "Orchard.Experimental.AdminMenu"
+msgid "Debug"
+msgstr "Hibakeresés"
+
+#: Orchard.Experimental.Controllers.CommandsController
+#| msgid "Not authorized to use the web console"
+msgctxt "Orchard.Experimental.Controllers.CommandsController"
+msgid "Not authorized to use the web console"
+msgstr "Nem használhatja a webkonzolt"
+

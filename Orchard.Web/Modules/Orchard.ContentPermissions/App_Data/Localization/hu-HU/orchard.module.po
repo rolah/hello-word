@@ -1,0 +1,155 @@
+msgctxt "~/Modules/Orchard.ContentPermissions/Module.txt"
+msgid "Orchard.ContentPermissions"
+msgstr "Orchard.ContentPermissions"
+
+msgctxt "~/Modules/Orchard.ContentPermissions/Module.txt"
+msgid "Chris Pyle, S�bastien Ros"
+msgstr "Chris Pyle, Sébastien Ros"
+
+msgctxt "~/Modules/Orchard.ContentPermissions/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Orchard.ContentPermissions.Description"
+msgctxt "~/Modules/Orchard.ContentPermissions/Module.txt"
+msgid "Allows item-level front end view permissions."
+msgstr "Tartalomelem-szintű hozzáféréskezelést tesz lehetővé."
+
+msgctxt "~/Modules/Orchard.ContentPermissions/Module.txt"
+msgid "Content Item Permissions"
+msgstr "Content Item Permissions"
+
+msgctxt "~/Modules/Orchard.ContentPermissions/Module.txt"
+msgid "Security"
+msgstr "Biztonság"
+
+#: "Orchard.ContentPermissions.Drivers.ContentPermissionsPartDriver"
+msgctxt "Orchard.ContentPermissions.Drivers.ContentPermissionsPartDriver"
+msgid "Could not update permissions"
+msgstr "Nem sikerült a hozzáférési szintek beállítása"
+
+#. "Permissions applied"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml"
+msgid "Permissions applied"
+msgstr "Hozzáférési szintek beállítva"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/Parts.ContentPermissions.SummaryAdmin.cshtml"
+msgid "Protected"
+msgstr "Védett"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Those permissions will be applied by default to any content item of this type. Users with sufficient permissions can change them for each content item."
+msgstr "Ezek a hozzáférési szintek lesznek alapértelmezésben hozzárendelve az összes ilyen típusú tartalomelemhez. A megfelelő hozzáféréssel rendelkező felhasználók az elemek hozzáféréseit egyenként is be tudják állítani."
+
+#. "Role"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Role"
+msgstr "Szerepkör"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "View any content"
+msgstr "Bármely tartalom megtekintése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Edit any content"
+msgstr "Bármilyen tartalom szerkesztése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Publish any content"
+msgstr "Bármilyen tartalom közzététele"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Delete any content"
+msgstr "Bármilyen tartalom törlése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "View own content"
+msgstr "Saját tartalom megtekintése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Edit own content"
+msgstr "Saját tartalom szerkesztése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Publish own content"
+msgstr "Saját tartalom közzététele"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Delete own content"
+msgstr "Saját tartalom törlése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Only show those roles in the editor:"
+msgstr "Csak az alábbi szerepkörök mutatása a szerkesztőben:"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/DefinitionTemplates/ContentPermissionsPartViewModel.cshtml"
+msgid "Uncheck the roles for which you don't want the editor to change the permissions for."
+msgstr "Szüntesse meg a bejelölést azoknál a szerepköröknél, amelyeket nem akar megjeleníteni a szerkesztőben."
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Enable Content Item access control"
+msgstr "Tartalomelem hozzáférési szintek beállításainak engedélyezése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Check to define custom permissions for this content item."
+msgstr "Jelölje be, hogy egyedi hozzáférési szinteket definiálhasson ehhez a tartalomelemhez."
+
+#. "Role"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Role"
+msgstr "Szerepkör"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "View this item"
+msgstr "Ennek az elemnek a megtekintése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Edit this item"
+msgstr "Ennek az elemnek a szerkesztése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Publish this item"
+msgstr "Ennek az elemnek a közzététele"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Delete this item"
+msgstr "Ennek az elemnek a törlése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "View own"
+msgstr "Saját megtekintése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Edit own"
+msgstr "Saját szerkesztése"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Publish own"
+msgstr "Saját közzététele"
+
+#: "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgctxt "~/Modules/Orchard.ContentPermissions/Views/EditorTemplates/Parts.ContentPermissions.cshtml"
+msgid "Delete own"
+msgstr "Saját törlése"
+

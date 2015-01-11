@@ -1,0 +1,41 @@
+msgctxt "~/Modules/Markdown/Module.txt"
+msgid "Markdown"
+msgstr "Markdown"
+
+msgctxt "~/Modules/Markdown/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Markdown/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net "
+
+msgctxt "~/Modules/Markdown/Module.txt"
+msgid "The Markdown module enables rich text contents to be created using the Markdown syntax."
+msgstr "A Markdown modul lehetővé teszi formázott szövegek létrehozását a Markdown szintaxissal."
+
+#: "Markdown.Handlers.MarkdownSiteSettingsPartHandler"
+msgctxt "Markdown.Handlers.MarkdownSiteSettingsPartHandler"
+msgid "Markdown"
+msgstr "Markdown"
+
+#: "~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml"
+msgctxt "~/Modules/Markdown/Views/Body-Markdown.Editor.cshtml"
+msgid "Insert/Update Media"
+msgstr "Média beszúrása/frissítése"
+
+#: "~/Modules/Markdown/Views/EditorTemplates/Parts/Markdown.MarkdownSiteSettings.cshtml"
+msgctxt "~/Modules/Markdown/Views/EditorTemplates/Parts/Markdown.MarkdownSiteSettings.cshtml"
+msgid "Markdown"
+msgstr "Markdown"
+
+#: "~/Modules/Markdown/Views/EditorTemplates/Parts/Markdown.MarkdownSiteSettings.cshtml"
+msgctxt "~/Modules/Markdown/Views/EditorTemplates/Parts/Markdown.MarkdownSiteSettings.cshtml"
+msgid "Use Markdown to write Blog Post"
+msgstr "Markdown használata szövegek írásához"
+
+#: "~/Modules/Markdown/Views/EditorTemplates/Parts/Markdown.MarkdownSiteSettings.cshtml"
+msgctxt "~/Modules/Markdown/Views/EditorTemplates/Parts/Markdown.MarkdownSiteSettings.cshtml"
+msgid "Enable to change the default editor for all blog posts to Markdown."
+msgstr "Engedélyezze, hogy az alapértelmezett szövegszerkeszőt a Markdown-ra cserélhesse."
+

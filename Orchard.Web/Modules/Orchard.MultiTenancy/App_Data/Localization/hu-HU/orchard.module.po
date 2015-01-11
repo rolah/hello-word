@@ -1,0 +1,376 @@
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "Multi Tenancy"
+msgstr "Több társoldal"
+
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.MultiTenancy/Module.txt"
+msgid "The multi-tenancy module enables multiple Orchard sites to run in isolation inside of a single web application, improving site density on a single server or hosted account."
+msgstr "A több oldalt kiszolgáló (multi-tenancy) modul több Orchard webhely számára egyetlen webes alkalmazáson belüli, elszigetelt futást tesz lehetővé, ezáltal fokozza az egykiszolgálós vagy tárolt fiókos webhelysűrűséget."
+
+#: "Orchard.MultiTenancy.AdminMenu"
+msgctxt "Orchard.MultiTenancy.AdminMenu"
+msgid "Tenants"
+msgstr "Társoldalak"
+
+#: "Orchard.MultiTenancy.AdminMenu"
+msgctxt "Orchard.MultiTenancy.AdminMenu"
+msgid "List"
+msgstr "Lista"
+
+#: "Orchard.MultiTenancy.Commands.TenantCommand"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "List of tenants"
+msgstr "Tásroldalak listája"
+
+#. "---------------------------"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "---------------------------"
+msgstr "---------------------------"
+
+#. "Name: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Name: "
+msgstr "Név:"
+
+#. "Provider: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Provider: "
+msgstr "Szolgáltató:"
+
+#. "ConnectionString: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "ConnectionString: "
+msgstr "ConnectionString:"
+
+#. "Data Table Prefix: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Data Table Prefix: "
+msgstr "Adattábla-előtag:"
+
+#. "Request Url Host: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Request Url Host: "
+msgstr "Lekérés URL, gazdagép:"
+
+#. "Request Url Prefix: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Request Url Prefix: "
+msgstr "Lekérés URL, előtag:"
+
+#. "State: "
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "State: "
+msgstr "Állapot:"
+
+#: "Orchard.MultiTenancy.Commands.TenantCommand"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Creating tenant"
+msgstr "Társoldal létrehozása"
+
+#: "Orchard.MultiTenancy.Commands.TenantCommand"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Tenant: "
+msgstr "Társoldal:"
+
+#: "Orchard.MultiTenancy.Commands.TenantCommand"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid " was not found"
+msgstr " nem található"
+
+#: "Orchard.MultiTenancy.Commands.TenantCommand"
+msgctxt "Orchard.MultiTenancy.Commands.TenantCommand"
+msgid "Tenant Settings:"
+msgstr "Társoldal beállításai:"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Cannot create tenant"
+msgstr "A társoldal nem hozható létre"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't create tenant"
+msgstr "A társoldal nem hozható létre"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Invalid tenant name. Must contain characters only and no spaces."
+msgstr "Érvénytelen társoldal név. Csak karaktereket tartalmazhat szóköz nélkül."
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Creating Tenant failed: {0}"
+msgstr "A társoldal létrehozása nem sikerült: {0}"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Cannot edit tenant"
+msgstr "A társoldal nem szerkeszthető"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't edit tenant"
+msgstr "A társoldal nem szerkeszthető"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Failed to edit tenant: {0} "
+msgstr "A társoldal szerkesztése nem sikerült: {0} "
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't disable tenant"
+msgstr "A társoldal nem tiltható le"
+
+#: "Orchard.MultiTenancy.Controllers.AdminController"
+msgctxt "Orchard.MultiTenancy.Controllers.AdminController"
+msgid "Couldn't enable tenant"
+msgstr "A társoldal nem tiltható le"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Add New Tenant"
+msgstr "Új társoldal hozzáadása"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "The name of the tenant as it will be displayed in the admin."
+msgstr "A társoldal neve, ahogyan az admin menüben megjelenik."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Host"
+msgstr "Gazdagép"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Example: If host is \"orchardproject.net\", the tenant site URL is \"http://orchardproject.net/\""
+msgstr "Példa: Ha a gazdagép \"orchardproject.net\", akkor a társoldal URL-je \"http://orchardproject.net/\""
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "You may define multiple domains using the comma (,) as a separator. Use the '*.' prefix to map all subdomains."
+msgstr "Vessző elválasztásával több domain-t is megadhat. Használja a '*.' előtagot minden aldomain használatához."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "URL prefix"
+msgstr "URL-előtag"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "(Optional) Example: If prefix is \"site1\", the tenant URL prefix is \"http://orchardproject.net/site1\""
+msgstr "(Opcionális) Például: ha az előtag \"oldal1\", akkor a társoldal URL-előtagja: \\http://orchardproject.hu/oldal1\""
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Database Setup"
+msgstr "Adatbázis beállításai"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Allow the tenant to set up the database"
+msgstr "A társoldalak számára lehetővé teszi az adatbázis beállítását"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Use built-in data storage (SQL Server Compact)"
+msgstr "Beépített adattároló (SQL Server Compact) használata"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Use an existing SQL Server (or SQL Express) database"
+msgstr "Meglévő SQL Server (vagy SQL Express) adatbázis használata"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Connection string"
+msgstr "Connection string"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Example:"
+msgstr "Példa:"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgstr "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Database Table Prefix"
+msgstr "Adatbázistábla előtag"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Available Themes"
+msgstr "Elérhető témák"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Select the Themes which should be available for this tenant. If none is selected, they will all be available."
+msgstr "Válassza ki a társoldalak számára elérhető témákat. Ha egyet sem választ ki, mindet engedélyezi."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Available Modules"
+msgstr "Rendelkezésre álló modulok"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Select the Modules which should be available for this tenant. If none is selected, they will all be available."
+msgstr "Válassza ki a társoldalak számára elérhető témákat. Ha egyet sem választ ki, mindet engedélyezi."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Add.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Edit Tenant"
+msgstr "Társoldal szerkesztése"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Host"
+msgstr "Gazdagép"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Example: If host is \"orchardproject.net\", the tenant site URL is \"http://orchardproject.net/\""
+msgstr "Példa: Ha a gazdagép \"orchardproject.net\", akkor a társoldal URL-je \"http://orchardproject.net/\""
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "URL prefix"
+msgstr "URL-előtag"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "(Optional) Example: If prefix is \"site1\", the tenant URL prefix is \"http://orchardproject.net/site1\""
+msgstr "(Opcionális) Például: ha az előtag \"oldal1\", akkor a társoldal URL-előtagja: \\http://orchardproject.hu/oldal1\""
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Database Setup"
+msgstr "Adatbázis beállításai"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Warning: If you don't know what you're doing you *will* (likely) send this tenant into a downward spiral of irrecoverable disrepair. Have a nice day."
+msgstr "Figyelmeztetés: Ha Ön nem rendelkezik kellő hozzáértéssel, akkor (valószínű, hogy) ezt a társoldalat fokozódó, helyrehozhatatlan károsodások egész sorozatának fogja kitenni. További jó munkát kívánunk."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Allow the tenant to set up the database"
+msgstr "Adatbázis beállításának engedélyezése a társoldal számára"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Use built-in data storage (SQL Server Compact)"
+msgstr "Beépített adattároló (SQL Server Compact) használata"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Use an existing SQL Server (or SQL Express) database"
+msgstr "Meglévő SQL Server (vagy SQL Express) adatbázis használata"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Connection string"
+msgstr "Connection string"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Example:"
+msgstr "Példa:"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgstr "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Database Table Prefix"
+msgstr "Adatbázistábla előtag"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Available Themes"
+msgstr "Elérhető témák"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Select the Themes which should be available for this tenant. If none is selected, they will all be available."
+msgstr "Válassza ki a társoldalak számára elérhető témákat. Ha egyet sem választ ki, mindet engedélyezi."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Available Modules"
+msgstr "Rendelkezésre álló modulok"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Select the Modules which should be available for this tenant. If none is selected, they will all be available."
+msgstr "Válassza ki ennek a társoldalnak elérhető modulokat. Ha egyet sem választ ki, mindet engedélyezi."
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid "List of Site's Tenants"
+msgstr "Társoldalak listája"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid "Add a Tenant"
+msgstr "Társoldal hozzáadása"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForDisabled.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForDisabled.cshtml"
+msgid "Resume"
+msgstr "Visszaállítás"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForInvalid.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForInvalid.cshtml"
+msgid "Make Valid*"
+msgstr "Érvényesítés*"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForRunning.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForRunning.cshtml"
+msgid "Suspend"
+msgstr "Felfüggesztés"
+
+#: "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForUninitialized.cshtml"
+msgctxt "~/Modules/Orchard.MultiTenancy/Views/Admin/DisplayTemplates/ActionsForUninitialized.cshtml"
+msgid "Set Up"
+msgstr "Beállítás"
+

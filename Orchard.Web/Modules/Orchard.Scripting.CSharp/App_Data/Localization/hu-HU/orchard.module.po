@@ -1,0 +1,77 @@
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "C# Scripting"
+msgstr "C# parancsfájlkezelés"
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "Description for the module"
+msgstr "C#-fordító szolgáltatás"
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "Provides C# compiler services."
+msgstr "C#-fordító szolgáltatás."
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "Scripting"
+msgstr "Parancsfájlkezelés"
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "Provides a Script Validation part."
+msgstr "Biztosít egy Script Validation tartalomrészt."
+
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Module.txt"
+msgid "Script Validation"
+msgstr "Script-alapú validáció"
+
+#: "Orchard.Scripting.CSharp.Activities.DecisionActivity"
+msgctxt "Orchard.Scripting.CSharp.Activities.DecisionActivity"
+msgid "Misc"
+msgstr "Egyéb"
+
+#: "Orchard.Scripting.CSharp.Activities.DecisionActivity"
+msgctxt "Orchard.Scripting.CSharp.Activities.DecisionActivity"
+msgid "Evaluates an expression."
+msgstr "Egy kifejezés kiértékelése."
+
+#: "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgctxt "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgid "Possible Outcomes."
+msgstr "Választási lehetőségek."
+
+#: "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgctxt "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgid "A comma-separated list of possible outcomes."
+msgstr "A lehetséges kimenetelek vesszővel elválasztott listája."
+
+#: "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgctxt "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgid "Script"
+msgstr "Szkript"
+
+#: "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgctxt "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgid "The script to run every time the Decision Activity is invoked. You can use ContentItem, Services, WorkContext, and T(). Call SetOutcome(string outcome) to define the outcome of the activity."
+msgstr "A lefuttatandó szkript, amely a Decision Activity aktiválásakor lefut. Használhatja a ContentItem, Services, WorkContext és T() változókat. A SetOutcome(string outcome) függvény meghívásával meghatározhatja a folyamat kimenetelét."
+
+#: "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgctxt "Orchard.Scripting.CSharp.Forms.DecisionForms"
+msgid "You must provide a Script"
+msgstr "Meg kell adnia egy szkriptet"
+
+#: "~/Modules/Orchard.Scripting.CSharp/Views/DefinitionTemplates/ScriptValidationPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Views/DefinitionTemplates/ScriptValidationPartSettings.cshtml"
+msgid "Script"
+msgstr "Parancsfájl"
+
+#: "~/Modules/Orchard.Scripting.CSharp/Views/DefinitionTemplates/ScriptValidationPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Scripting.CSharp/Views/DefinitionTemplates/ScriptValidationPartSettings.cshtml"
+msgid "The script to run everytime the content item is edited. You can use ContentItem, Services, WorkContext, T() and AddModelError()."
+msgstr "The lefuttatandó script, ami a tartalomelem szerkesztésekor minden esetben lefut. A következő változókat/metódusokat lehet használni: ContentItem, Services, WorkContext, T() és AddModelError()."
+

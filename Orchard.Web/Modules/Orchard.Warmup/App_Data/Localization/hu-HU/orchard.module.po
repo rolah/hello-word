@@ -1,0 +1,126 @@
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "Warmup"
+msgstr "Készenlét"
+
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Warmup/Module.txt"
+msgid "Provides a mecanism to generate a static version of pages for being used during application warm up."
+msgstr "Az alkalmazás készenlétben tartását segíti elő oldalak statikus verzióinak a generálásával."
+
+#: "Orchard.Warmup.AdminMenu"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Settings"
+msgstr "Beállítások"
+
+#: "Orchard.Warmup.AdminMenu"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Performance"
+msgstr "Teljesítmény"
+
+#: "Orchard.Warmup.AdminMenu"
+msgctxt "Orchard.Warmup.AdminMenu"
+msgid "Warmup"
+msgstr "Készenlét"
+
+#: "Orchard.Warmup.Commands.WarmupCommands"
+msgctxt "Orchard.Warmup.Commands.WarmupCommands"
+msgid "Generation finished"
+msgstr "Generálás befejeződött"
+
+#. "Not authorized to manage settings"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Not authorized to manage settings"
+msgstr "Beállítások kezelése nem engedélyezett"
+
+#: "Orchard.Warmup.Controllers.AdminController"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "\"{0}\" is an invalid warmup url."
+msgstr "\"{0}\" érvénytelen készenléti URL."
+
+#: "Orchard.Warmup.Controllers.AdminController"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Delay must be greater than zero."
+msgstr "A késleltetésnek nullánál nagyobbnak kell lennie."
+
+#: "Orchard.Warmup.Controllers.AdminController"
+msgctxt "Orchard.Warmup.Controllers.AdminController"
+msgid "Warmup updated successfully."
+msgstr "A készenlét frissítése sikerült."
+
+#: "Orchard.Warmup.Services.SettingsBanner"
+msgctxt "Orchard.Warmup.Services.SettingsBanner"
+msgid "The Warmup feature needs the <a href=\"{0}\">Base Url site setting</a> to be set."
+msgstr "A készenlét funkcióhoz az <a href=\"{0}\">Alap URL beállítás</a> értékét meg kell adni."
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Performance"
+msgstr "Teljesítmény"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "The paths below will be requested using {0} as a base url. You can change the base url on the {1}. "
+msgstr "{0} lesz az alap URL a lenti útvonalak lekérésekor. Az alap URL-t az {1} oldalán lehet módosítani."
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "General Settings page"
+msgstr "Általános beállítások"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This must be a set of relative paths, e.g., /, /About. Please ensure that you enter only one path per line."
+msgstr "Ezeknek relatív útvonalaknak kell lenniük, pl. /, /kapcsolat. Egy sorba csak egy útvonalat írjon."
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages periodically"
+msgstr "Készenléti oldalak ciklikus generálása"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Every"
+msgstr "Minden"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "minutes"
+msgstr "percben"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Generate warmup pages any time some content is published"
+msgstr "Készenléti oldalak újragenerálása, ha a tartalom változik"
+
+#. "Status"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Status"
+msgstr "Állapot"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "This is a table of the reports in your application"
+msgstr "Ez az alkalmazás jelentéseinek a táblázata"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Path"
+msgstr "Útvonal"
+
+#: "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Date generated"
+msgstr "Generálás dátuma"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.Warmup/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "Mentés"
+

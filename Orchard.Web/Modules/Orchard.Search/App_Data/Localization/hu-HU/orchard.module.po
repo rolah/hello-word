@@ -1,0 +1,229 @@
+#. "Orchard.Search.Name"
+#. "Orchard.Search.Category"
+#. "Orchard.Search.Content.Category"
+#. "Orchard.Search.ContentPicker.Category"
+#. "Orchard.Search.MediaLibrary.Category"
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Search"
+msgstr "Keresés"
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "The search module enables the management of the search index and provides the front-end searching user interface."
+msgstr "A Search (keresés) modul lehetővé teszi a keresőindex kezelését és felhasználói keresőfelületet biztosít."
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Standard interface to Orchard's built-in search."
+msgstr "Az Orchard beépített keresőjének alapértelmezett felülete."
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Admin Content Search"
+msgstr "Admin tartalom-kereső"
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Provides a Content Search tab in Admin."
+msgstr "Lehetővé teszi a tartalmak közötti keresést az admin felületen."
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Content Picker Search"
+msgstr "Tartalomválasztó kereső"
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Provides a search tab in Content Picker."
+msgstr "Hozzáad egy \"Keresés\" fület a Tartalomválasztóhoz."
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Media Library Search"
+msgstr "Media Library Search"
+
+msgctxt "~/Modules/Orchard.Search/Module.txt"
+msgid "Provides search menu item in the Media Library explorer."
+msgstr "Biztosít egy kereső menüt a Médiatár-ban való való kereséshez."
+
+#: "Orchard.Search.ContentAdminMenu"
+msgctxt "Orchard.Search.ContentAdminMenu"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Search.ContentAdminMenu"
+msgctxt "Orchard.Search.ContentAdminMenu"
+msgid "Search"
+msgstr "Keresés"
+
+#: "Orchard.Search.ContentPickerNavigationProvider"
+msgctxt "Orchard.Search.ContentPickerNavigationProvider"
+msgid "Content Picker"
+msgstr "Tartalomkiválasztó"
+
+#: "Orchard.Search.ContentPickerNavigationProvider"
+msgctxt "Orchard.Search.ContentPickerNavigationProvider"
+msgid "Search Content"
+msgstr "Tartalom keresése"
+
+#: "Orchard.Search.Commands.SearchCommands"
+msgctxt "Orchard.Search.Commands.SearchCommands"
+msgid "Invalid index name."
+msgstr "Érvénytelen index név."
+
+#. "Invalid search query: {0}"
+msgctxt "Orchard.Search.Controllers.AdminController"
+msgid "Invalid search query: {0}"
+msgstr "Érvénytelen keresési feltétel: {0}"
+
+#. "Invalid search query: {0}"
+msgctxt "Orchard.Search.Controllers.ContentPickerController"
+msgid "Invalid search query: {0}"
+msgstr "Érvénytelen keresési feltétel: {0}"
+
+#: "Orchard.Search.Controllers.SearchController"
+msgctxt "Orchard.Search.Controllers.SearchController"
+msgid "Please define a default search index"
+msgstr "Kérem adja meg az alapértelmezett keresőindexet"
+
+#. "Invalid search query: {0}"
+msgctxt "Orchard.Search.Controllers.SearchController"
+msgid "Invalid search query: {0}"
+msgstr "Érvénytelen keresés: {0}"
+
+#: "Orchard.Search.Handlers.SearchSettingsPartHandler"
+msgctxt "Orchard.Search.Handlers.SearchSettingsPartHandler"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Search/Views/SearchContentTab.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/SearchContentTab.cshtml"
+msgid "Search Content"
+msgstr "Tartalom keresése"
+
+#. "Search"
+msgctxt "~/Modules/Orchard.Search/Views/SearchContentTab.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Search/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/Admin/Index.cshtml"
+msgid "Search Content"
+msgstr "Tartalom keresése"
+
+#. "Search"
+msgctxt "~/Modules/Orchard.Search/Views/Admin/Index.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Search/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/Admin/Index.cshtml"
+msgid "There are no results"
+msgstr "Nincs találat"
+
+#: "~/Modules/Orchard.Search/Views/ContentPicker/NoIndex.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/ContentPicker/NoIndex.cshtml"
+msgid "You need to enable a search index module."
+msgstr "Engedélyeznie kell egy keresőindex modult."
+
+#: "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgid "Show Search tab"
+msgstr "Keresés-fül megjelenítése"
+
+#: "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgid "Uncheck to hide the Search tab from the picker window."
+msgstr "Szüntesse meg a kijelölést, hogy a Keresés-fül ne jelenjen meg a tartalomválasztó ablakban."
+
+#: "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgid "Search index"
+msgstr "Keresőindex"
+
+#: "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgid "The index to use when displaying this tab."
+msgstr "Ennek a fülnek megjelenítésekor használandó index."
+
+#: "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgid "Content Types and Parts"
+msgstr "Tartalomelemek és tartalomrészek"
+
+#: "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/DefinitionTemplates/ContentPickerSearchFieldSettings.cshtml"
+msgid "A comma separated value of all the content types or content parts to display."
+msgstr "A megjelenítendő tartalomtípusok és tartalomrészes vesszővel elválasztott listája."
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Indexes"
+msgstr "Indexek"
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Select which index to use in search queries."
+msgstr "Válassza ki a kereséshez használt indexet."
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Fields"
+msgstr "Mezők"
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Check any property which should be used for search queries."
+msgstr "Jelöljön ki minden tulajdonságot, ami a kereséseknél használandó."
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "There is currently no index to search from. Please update your index, and check if some indexable content exists."
+msgstr "Jelenleg nincs keresésre alkalmas index. Frissítse az indexeket és ellenőrizze, hogy van-e indexelhető tartalom."
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Localization"
+msgstr "Lokalizáció"
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "Narrow search to current culture only"
+msgstr "Keresés leszűkítése a jelenlegi kulturális környezetre"
+
+#: "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/EditorTemplates/Parts/Search.SiteSettings.cshtml"
+msgid "If checked, search results will only include content items localized in the current culture of the request."
+msgstr "Ha bejelöli, akkor a keresési találatok között csak a lekérésnek megfelelő lokalizációjú elemek fognak megjelenni."
+
+#: "~/Modules/Orchard.Search/Views/Parts/Search.SearchForm.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/Parts/Search.SearchForm.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#. "There is <em>one</em> result"
+msgctxt "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgid "There is <em>one</em> result"
+msgstr "<em>Egy</em> találat"
+
+#: "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgid "<em>zero</em> results"
+msgstr "<em>Nincs</em> találat"
+
+#: "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgctxt "~/Modules/Orchard.Search/Views/Search/Index.cshtml"
+msgid "<em>{1} - {2}</em> of <em>{0}</em> results"
+msgstr "<em>{1} – {2}</em> a(z) <em>{0}</em> találatból"
+

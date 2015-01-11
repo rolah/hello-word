@@ -1,0 +1,126 @@
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "Publish Later"
+msgstr "Közzététel később"
+
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.PublishLater/Module.txt"
+msgid "The PublishLater module introduces draft creation and scheduled publishing functionality."
+msgstr "A PublishLater modul piszkozat-létrehozási és ütemezett közzétételi funkciókat vezet be."
+
+#: "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgctxt "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgid "You cannot schedule a publishing date in the past."
+msgstr "A közzétételt nem lehet múltbeli időpontra ütemezni."
+
+#: "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgctxt "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgid "'{0} {1}' could not be parsed as a valid date and time."
+msgstr "'{0} {1}' nem értelmezhető, mint érvényes dátum és idő."
+
+#: "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgctxt "Orchard.PublishLater.Drivers.PublishLaterPartDriver"
+msgid "Both the date and time need to be specified for when this is to be published. If you don't want to schedule publishing then click Save or Publish Now."
+msgstr "A közzététel idejének meghatározásához a dátumot és az időpontot is meg kell adni. Ha nem kívánja ütemezni a közzétételt, kattintson a Mentés vagy a Közzététel most gombra."
+
+#: "Orchard.PublishLater.Services.PublishLaterService"
+msgctxt "Orchard.PublishLater.Services.PublishLaterService"
+msgid "Couldn't publish selected content."
+msgstr "A kijelölt tartalom nem tehető közzé."
+
+#: "Orchard.PublishLater.Services.XmlRpcHandler"
+msgctxt "Orchard.PublishLater.Services.XmlRpcHandler"
+msgid "The username or e-mail or password provided is incorrect."
+msgstr "A megadott felhasználónév, e-mail vagy jelszó hibás."
+
+#: "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgid "Publish"
+msgstr "Közzététel"
+
+#: "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/EditorTemplates/Parts/PublishLater.cshtml"
+msgid "Publish Later"
+msgstr "Közzététel később"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.cshtml"
+msgid "Published: {0}"
+msgstr "Közzétéve: {0}"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgid "Published: {0}"
+msgstr "Közzétéve: {0}"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.Summary.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Online"
+msgstr "Elérhető"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is currently online"
+msgstr "Az oldal jelenleg elérhető"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Published"
+msgstr "Közzétéve"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Offline"
+msgstr "Nem elérhető"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is currently offline"
+msgstr "Az oldal jelenleg nem elérhető"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Not Published"
+msgstr "Nincs közzétéve"
+
+#. "Draft"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Draft"
+msgstr "Piszkozat"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page has a draft"
+msgstr "Az oldal piszkozattal rendelkezik"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "No Draft"
+msgstr "Nincs piszkozat"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Published: {0}"
+msgstr "Közzétéve: {0}"
+
+#. "Scheduled"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "Scheduled"
+msgstr "Ütemezett"
+
+#: "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.PublishLater/Views/Parts/PublishLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is scheduled for publishing"
+msgstr "Az oldal közzététele be van ütemezve"
+

@@ -1,0 +1,506 @@
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "Lists"
+msgstr "Listák"
+
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Lists/Module.txt"
+msgid "Introduces a preconfigured container-enabled content type."
+msgstr "Előkonfigurált, tárolásra alkalmas (container) tartalomtípust vezet be."
+
+#: "Orchard.Lists.AdminMenu"
+msgctxt "Orchard.Lists.AdminMenu"
+msgid "Lists"
+msgstr "Listák"
+
+#. "New {0}"
+msgctxt "Orchard.Lists.AdminMenu"
+msgid "New {0}"
+msgstr "Új {0}"
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't publish selected lists."
+msgstr "Nem sikerült a kijelöl listák publikálása."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Lists successfully published."
+msgstr "Lista sikeresen közzétéve."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't unpublish selected lists."
+msgstr "Nem sikerült a kijelölt listák publikálása."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Lists successfully unpublished."
+msgstr "Lista közzététele sikeresen visszavonva."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't remove selected lists."
+msgstr "Nem sikerült eltávolítani a kijelölt listákat."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Lists successfully removed."
+msgstr "Lista sikeresen eltávolítva."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "{0} was moved to <a href=\"{1}\">{2}</a>"
+msgstr "{0} áthelyezve <a href=\"{1}\">{2}</a>-ra/re"
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "{0} was moved from <a href=\"{3}\">{4}</a> to <a href=\"{1}\">{2}</a>"
+msgstr "{0} áthelyezve <a href=\"{3}\">{4}</a>-ról/ről <a href=\"{1}\">{2}</a>-ra/re"
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "{0} is already part of this list and was moved to the top."
+msgstr "{0} már szerepel ebben listában és a lista elejére lett helyezve."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "The list has been reversed."
+msgstr "A lista megfordult."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "The list has been shuffled."
+msgstr "A lista meg van keverve."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "The list has been sorted."
+msgstr "A lista rendezve lett."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Please select an operation to perform on the list."
+msgstr "Kérem válassza ki a listán végrehajtandó műveletet."
+
+#. "Please select the list to move the items to."
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Please select the list to move the items to."
+msgstr "Válassza ki a listát, ahová az elemeket át kell helyezni."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't move selected content."
+msgstr "A kiválasztott tartalmat nem sikerült áthelyezni."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "One or more items could not be moved to '{0}' because it is restricted to containing items of type '{1}'."
+msgstr "Egy vagy több elemet nem lehet a '{0}' listára helyezni, mert az csak '{1}' típusú elemeket tartalmazhat."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully moved to <a href=\"{0}\">{1}</a>."
+msgstr "A tartalom áthelyezése <a href=\"{0}\">{1}</a> listára sikerült."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't remove selected content from the list."
+msgstr "A kiválasztott tartalmat nem sikerült eltávolítani a listáról."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully removed from the list."
+msgstr "A tartalom törlése a listáról sikerült."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't remove selected content."
+msgstr "A kiválasztott tartalmat nem sikerült eltávolítani."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully removed."
+msgstr "A tartalom törlése sikerült."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't unpublish selected content."
+msgstr "A kiválasztott tartalmat nem sikerült visszavonni."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully unpublished."
+msgstr "A tartalom visszavonása sikerült."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Couldn't publish selected content."
+msgstr "A kiválasztott tartalmat nem sikerült közzétenni."
+
+#: "Orchard.Lists.Controllers.AdminController"
+msgctxt "Orchard.Lists.Controllers.AdminController"
+msgid "Content successfully published."
+msgstr "A tartalom közzététele sikerült."
+
+#: "Orchard.Lists.Forms.ListFilterForm"
+msgctxt "Orchard.Lists.Forms.ListFilterForm"
+msgid "List"
+msgstr "Lista"
+
+#: "Orchard.Lists.Forms.ListFilterForm"
+msgctxt "Orchard.Lists.Forms.ListFilterForm"
+msgid "Select a list."
+msgstr "Válasszon egy listát."
+
+#: "Orchard.Lists.Helpers.StringExtensions"
+msgctxt "Orchard.Lists.Helpers.StringExtensions"
+msgid "{0} or {1}"
+msgstr "{0} vagy {1}"
+
+#. "Lists"
+msgctxt "Orchard.Lists.Projections.ListFilter"
+msgid "Lists"
+msgstr "Listák"
+
+#: "Orchard.Lists.Projections.ListFilter"
+msgctxt "Orchard.Lists.Projections.ListFilter"
+msgid "List"
+msgstr "Lista"
+
+#: "Orchard.Lists.Projections.ListFilter"
+msgctxt "Orchard.Lists.Projections.ListFilter"
+msgid "Specific list"
+msgstr "Megadott lista"
+
+#: "Orchard.Lists.Projections.ListFilter"
+msgctxt "Orchard.Lists.Projections.ListFilter"
+msgid "No list was selected"
+msgstr "Nincs kijelölt lista"
+
+#: "Orchard.Lists.Projections.ListFilter"
+msgctxt "Orchard.Lists.Projections.ListFilter"
+msgid "Show items from the following list: {0}"
+msgstr "Az alábbi listában szereplő elemek megjelenítése: {0}"
+
+#: "Orchard.Lists.Projections.ListSortCriteria"
+msgctxt "Orchard.Lists.Projections.ListSortCriteria"
+msgid "List item position"
+msgstr "Listaelem-pozíció"
+
+#. "Position"
+msgctxt "Orchard.Lists.Projections.ListSortCriteria"
+msgid "Position"
+msgstr "Pozíció"
+
+#: "Orchard.Lists.Projections.ListSortCriteria"
+msgctxt "Orchard.Lists.Projections.ListSortCriteria"
+msgid "Sorts the results by position"
+msgstr "Pozíció alapján rendezi az eredményeket"
+
+#: "~/Modules/Orchard.Lists/Views/Breadcrumbs.ContentItem.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Breadcrumbs.ContentItem.cshtml"
+msgid "New {0}"
+msgstr "Új {0}"
+
+#: "~/Modules/Orchard.Lists/Views/Content.SummaryAdminCondensed.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Content.SummaryAdminCondensed.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: "~/Modules/Orchard.Lists/Views/Content.SummaryAdminCondensed.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Content.SummaryAdminCondensed.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Lists/Views/Content.SummaryAdminCondensed.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Content.SummaryAdminCondensed.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Lists/Views/Dialog.CloseButton.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Dialog.CloseButton.cshtml"
+msgid "Close"
+msgstr "Bezár"
+
+#: "~/Modules/Orchard.Lists/Views/ListNavigation.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListNavigation.cshtml"
+msgid "Previous"
+msgstr "Előző"
+
+#: "~/Modules/Orchard.Lists/Views/ListNavigation.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListNavigation.cshtml"
+msgid "Next"
+msgstr "Következő"
+
+#: "~/Modules/Orchard.Lists/Views/ListView.Condensed.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListView.Condensed.cshtml"
+msgid "'{0}' has no content items."
+msgstr "'{0}' nem tartalmaz elemeket."
+
+#: "~/Modules/Orchard.Lists/Views/ListView.Condensed.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListView.Condensed.cshtml"
+msgid "There was an error updating the positions. Please try again."
+msgstr "Hiba történt a pozíciók frissítésekor. Kérem próbálja újra."
+
+#: "~/Modules/Orchard.Lists/Views/ListView.Condensed.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListView.Condensed.cshtml"
+msgid "Items"
+msgstr "Elemek"
+
+#: "~/Modules/Orchard.Lists/Views/ListView.Default.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListView.Default.cshtml"
+msgid "'{0}' has no content items."
+msgstr "'{0}' nem tartalmaz elemeket."
+
+#: "~/Modules/Orchard.Lists/Views/ListView.Default.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListView.Default.cshtml"
+msgid "There was an error updating the positions. Please try again."
+msgstr "Hiba történt a pozíciók frissítésekor. Kérem próbálja újra."
+
+#: "~/Modules/Orchard.Lists/Views/ListView.Default.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/ListView.Default.cshtml"
+msgid "Items"
+msgstr "Elemek"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Move to..."
+msgstr "Áthelyezés ide..."
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Remove from List"
+msgstr "Eltávolítás a listáról"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Move to List..."
+msgstr "Áthelyezés listára..."
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "List Operations:"
+msgstr "Lista műveletek:"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Choose operation..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Shuffle"
+msgstr "Keverés"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Reverse"
+msgstr "Megfordítás"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Sort"
+msgstr "Rendezés"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Sort by..."
+msgstr "Rendezési szempont..."
+
+#. "Recently Created"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Recently Created"
+msgstr "Legutoljára létrehozva"
+
+#. "Recently Modified"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Recently Modified"
+msgstr "Legutoljára módosítva"
+
+#. "Recently Published"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Recently Published"
+msgstr "Legutoljára közzétéve"
+
+#. "Title"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Ascending"
+msgstr "Növekvő"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.BulkActions.cshtml"
+msgid "Ordered by"
+msgstr "Sorbarendezés e szerint"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml"
+msgid "Contained Items ({0})"
+msgstr "Tartalmazott elemek ({0})"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Contained.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.ItemCount.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.ItemCount.SummaryAdmin.cshtml"
+msgid "Empty"
+msgstr "Üres"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.ItemCount.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.ItemCount.SummaryAdmin.cshtml"
+msgid "1 Item"
+msgstr "1 elem"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgid "{0} Properties"
+msgstr "{0} tulajdonságai"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgid "New {0}"
+msgstr "Új {0}"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgid "New Content"
+msgstr "Új tartalom"
+
+#: "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Parts.Container.Manage.cshtml"
+msgid "Choose Items"
+msgstr "Válasszon elemeket"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Manage Lists"
+msgstr "Listák kezelése"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "New List"
+msgstr "Új lista"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "There are no lists yet. <a href=\"{0}\">Create a List<a/>."
+msgstr "Még nincsnek listák. <a href=\"{0}\">Hozzon létre egyet<a/>."
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Show"
+msgstr "Megjelenít"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "any (show all)"
+msgstr "bármely (mindet mutat)"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "Ordered by"
+msgstr "Sorbarendezés e szerint"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "recently created"
+msgstr "legutóbb létrehozva"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "recently modified"
+msgstr "legutóbb módosítva"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/Index.cshtml"
+msgid "recently published"
+msgstr "legutóbb közzétéve"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/List.cshtml"
+msgid "Manage {0}"
+msgstr "{0} kezelése"
+
+#: "~/Modules/Orchard.Lists/Views/Admin/SelectType.cshtml"
+msgctxt "~/Modules/Orchard.Lists/Views/Admin/SelectType.cshtml"
+msgid "Create New List"
+msgstr "Új lista"
+

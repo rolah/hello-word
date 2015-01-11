@@ -1,0 +1,401 @@
+#. "Orchard.Email.Name"
+msgctxt "~/Modules/Orchard.Email/Module.txt"
+msgid "Email Messaging"
+msgstr "E-mailküldés"
+
+msgctxt "~/Modules/Orchard.Email/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Email/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Email/Module.txt"
+msgid "The Email Messaging module adds Email sending functionalities."
+msgstr "Az E-mailküldés (Email Messaging) modul e-mail küldési képességeket biztosít."
+
+msgctxt "~/Modules/Orchard.Email/Module.txt"
+msgid "Messaging"
+msgstr "Üzenetküldés"
+
+#. "Done"
+msgctxt "Orchard.Email.Activities.EmailActivity"
+msgid "Done"
+msgstr "Kész"
+
+#: "Orchard.Email.Activities.EmailActivity"
+msgctxt "Orchard.Email.Activities.EmailActivity"
+msgid "Messaging"
+msgstr "Messaging"
+
+#: "Orchard.Email.Activities.EmailActivity"
+msgctxt "Orchard.Email.Activities.EmailActivity"
+msgid "Sends an email to a specific user."
+msgstr "Egy e-mail küldése egy adott felhasználónak."
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Send to"
+msgstr "Címzett"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Email Addresses"
+msgstr "Email címek"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Specify a comma-separated list of recipient email addresses. To include a display name, use the following format: John Doe &lt;john.doe@outlook.com&gt;"
+msgstr "Vesszővel elválasztva sorolja fel a címzettek email címeit. Egy megjelnítési név hozzáadásához használja a következő formátumot: Gipsz Jakab &lt;gipsz.jakab@outlook.com&gt;"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Subject"
+msgstr "Tárgy"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "The subject of the email message."
+msgstr "Az email tárgya."
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Body"
+msgstr "Szövegtörzs"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "The body of the email message."
+msgstr "Az email szövege."
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Queued"
+msgstr "Várólistán"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Check send it as a queued job."
+msgstr "Jelölje be, hogy várólistás feladatként legyen feldolgozva."
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Priority"
+msgstr "Prioritás"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Low"
+msgstr "Alacsony"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "Normal"
+msgstr "Normál"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "High"
+msgstr "Magas"
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "You must specify at least one recipient."
+msgstr "Legalább egy címzettet meg kell adni."
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "You must provide a Subject."
+msgstr "Adja meg az email tárgyát."
+
+#: "Orchard.Email.Forms.EmailForm"
+msgctxt "Orchard.Email.Forms.EmailForm"
+msgid "You must provide a Body."
+msgstr "Adja meg az email szövegét."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Send to"
+msgstr "Címzett"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Owner"
+msgstr "Tulajdonos"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "The owner of the content item in context, such as a blog post's author."
+msgstr "Az aktuális tartalomelem tulajdonosa, például a blogbejegyzés szerzője."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Author"
+msgstr "Szerző"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "The current user when this action executes."
+msgstr "Az aktuális felhasználó a művelet végrehajtásakor."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Site Admin"
+msgstr "Webhely adminisztátor"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "The site administrator."
+msgstr "A webhely adminisztátora."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Other:"
+msgstr "Egyéb:"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "E-mail"
+msgstr "Email"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Specify a comma-separated list of e-mail recipients."
+msgstr "Adja meg az email címzettjeinek vesszővel elválasztott listáját."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Subject"
+msgstr "Tárgy"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "The subject of the e-mail."
+msgstr "Az e-mail tárgya."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "Body"
+msgstr "Szövegtörzs"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "The body of the e-mail."
+msgstr "Az e-mail szövege."
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "You must select at least one recipient"
+msgstr "Legalább egy címzettet választania kell"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "You must provide a Subject"
+msgstr "Adja meg az email tárgyát"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "You must provide a Body"
+msgstr "Adja meg az email szövegét"
+
+#: "Orchard.Email.Forms.MailForms"
+msgctxt "Orchard.Email.Forms.MailForms"
+msgid "You must provide an e-mail address"
+msgstr "Meg kell adnia egy e-mail címet"
+
+#: "Orchard.Email.Handlers.SmtpSettingsPartHandler"
+msgctxt "Orchard.Email.Handlers.SmtpSettingsPartHandler"
+msgid "Email"
+msgstr "E-mail"
+
+#: "Orchard.Email.Rules.MailActions"
+msgctxt "Orchard.Email.Rules.MailActions"
+msgid "Send an e-mail"
+msgstr "Egy e-mail küldése"
+
+#: "Orchard.Email.Rules.MailActions"
+msgctxt "Orchard.Email.Rules.MailActions"
+msgid "Messaging"
+msgstr "Üzenetkezelés"
+
+#: "Orchard.Email.Rules.MailActions"
+msgctxt "Orchard.Email.Rules.MailActions"
+msgid "Messages"
+msgstr "Üzenetek"
+
+#: "Orchard.Email.Rules.MailActions"
+msgctxt "Orchard.Email.Rules.MailActions"
+msgid "Send e-mail"
+msgstr "E-mail küldése"
+
+#: "Orchard.Email.Rules.MailActions"
+msgctxt "Orchard.Email.Rules.MailActions"
+msgid "Sends an e-mail to a specific user."
+msgstr "Egy e-mail küldése egy adott felhasználónak."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Send to"
+msgstr "Címzett"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Owner"
+msgstr "Tulajdonos"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "The owner of the content item in context, such as a blog post's author."
+msgstr "Az aktuális tartalomelem tulajdonosa, például a blogbejegyzés szerzője."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Author"
+msgstr "Szerző"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "The current user when this action executes."
+msgstr "A felhasználó, aki a műveletet végrehatja."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Site Admin"
+msgstr "Webhely adminisztátora"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "The site administrator."
+msgstr "A webhely adminisztátora."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Other:"
+msgstr "Egyéb:"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "E-mail"
+msgstr "E-mail"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Specify a comma-separated list of e-mail recipients."
+msgstr "Az e-mail címeket vesszővel kell elválasztani."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Subject"
+msgstr "Tárgy"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "The subject of the e-mail."
+msgstr "Az e-mail tárgya."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "Body"
+msgstr "Szövegtörzs"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "The body of the e-mail."
+msgstr "Az e-mail szövege."
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "You must select at least one recipient"
+msgstr "Legalább egy címzettet választania kell"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "You must provide a Subject"
+msgstr "Nem adta meg a e-mail tárgyát"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "You must provide a Body"
+msgstr "Nem adta meg az e-mail szövegét"
+
+#: "Orchard.Email.Rules.MailForms"
+msgctxt "Orchard.Email.Rules.MailForms"
+msgid "You must provide an e-mail address"
+msgstr "Meg kell adnia az e-mail címét."
+
+#: "Orchard.Email.Services.MissingSettingsBanner"
+msgctxt "Orchard.Email.Services.MissingSettingsBanner"
+msgid "The <a href=\"{0}\">SMTP settings</a> need to be configured."
+msgstr "Az <a href=\"{0}\">SMTP beállítások</a> nincsenek kitöltve."
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Email"
+msgstr "E-mail"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Sender email address"
+msgstr "Feladó e-mail címe"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "The default email address to use as a sender."
+msgstr "Az alapértelmezett email-cím, mint a feladó."
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Host name"
+msgstr "Host neve"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "The SMTP server domain, e.g. <i>smtp.mailprovider.com</i>."
+msgstr "Az SMTP-szerver domain-je, pl. <i>smtp.mailprovider.com</i>."
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Port number"
+msgstr "Port száma"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "The SMTP server port, usually 25."
+msgstr "Az SMTP-szerver portja, általában 25."
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Enable SSL communications"
+msgstr "SSL kommunikáció engedélyezése"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Check if the SMTP server requires SSL communications."
+msgstr "Jelölje be, ha az SMTP-szerver megköveteli az SSL-en keresztüli kommunikációt."
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Require credentials"
+msgstr "Hitelesítő adatok kérése"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "User name"
+msgstr "Felhasználónév"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "The username for authentication."
+msgstr "Felhasználónév a hitelesítéshez."
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "Password"
+msgstr "Jelszó"
+
+#: "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgctxt "~/Modules/Orchard.Email/Views/EditorTemplates/Parts/SmtpSettings.cshtml"
+msgid "The password for authentication."
+msgstr "Jelszó a hitelesítéshez."
+

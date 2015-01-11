@@ -1,0 +1,846 @@
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "TaxonomyMenuItem.Name"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Taxonomy Main Menu"
+msgstr "Osztályozás főmenü"
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "TaxonomyMenuItem.Description"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Displays Taxonomies on main menu."
+msgstr "A Taxonomies megjelenítése a főmenüben."
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "TaxonomyMenuItem.Category"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "The term {0} already exists at this level"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "The term {0} already exists at this level"
+msgstr "Már létezik a {0} kifejezés ezen a szinten"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Not allowed to manage terms"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Not allowed to manage terms"
+msgstr "Nem engedélyezett a kifejezések szerkesztése"
+
+#: Contrib.Taxonomies.Drivers.TaxonomyMenuItemPartDriver
+#| msgid "Menu item name is required"
+msgctxt "Contrib.Taxonomies.Drivers.TaxonomyMenuItemPartDriver"
+msgid "Menu item name is required"
+msgstr "A menüpont nevét kötelező kitölteni"
+
+#: Contrib.Taxonomies.Drivers.TaxonomyPartDriver
+#| msgid "A taxonomy with the same name already exists"
+msgctxt "Contrib.Taxonomies.Drivers.TaxonomyPartDriver"
+msgid "A taxonomy with the same name already exists"
+msgstr "Már létezik ilyen nevű osztály"
+
+#: Contrib.Taxonomies.Drivers.TermPartDriver
+#| msgid "The term {0} already exists at this level"
+msgctxt "Contrib.Taxonomies.Drivers.TermPartDriver"
+msgid "The term {0} already exists at this level"
+msgstr "A {0} kifejezés már létezik ezen a szinten"
+
+#: Contrib.Taxonomies.Drivers.TermPartDriver
+#| msgid "Unknown taxonomy: {0}"
+msgctxt "Contrib.Taxonomies.Drivers.TermPartDriver"
+msgid "Unknown taxonomy: {0}"
+msgstr "Ismeretlen osztály: {0}"
+
+#: Contrib.Taxonomies.Drivers.TermWidgetPartDriver
+#| msgid "Unknown taxonomy: {0}"
+msgctxt "Contrib.Taxonomies.Drivers.TermWidgetPartDriver"
+msgid "Unknown taxonomy: {0}"
+msgstr "Ismeretlen osztály: {0}"
+
+#: Contrib.Taxonomies.Drivers.TermWidgetPartDriver
+#| msgid "Unknown term: {0}"
+msgctxt "Contrib.Taxonomies.Drivers.TermWidgetPartDriver"
+msgid "Unknown term: {0}"
+msgstr "Ismeretlen kifejezés: {0}"
+
+#: Contrib.Taxonomies.Projections.TermsFilter
+#| msgid "Taxonomy"
+msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
+msgid "Taxonomy"
+msgstr "Osztály"
+
+#: Contrib.Taxonomies.Projections.TermsFilter
+#| msgid "Has Terms"
+msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
+msgid "Has Terms"
+msgstr "Vannak kifejezései"
+
+#: Contrib.Taxonomies.Projections.TermsFilter
+#| msgid "Categorized content items"
+msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
+msgid "Categorized content items"
+msgstr "Kategorizált tartalomelemek"
+
+#: Contrib.Taxonomies.Projections.TermsFilter
+#| msgid "Any term"
+msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
+msgid "Any term"
+msgstr "Bármely kifejezés"
+
+#: Contrib.Taxonomies.Projections.TermsFilter
+#| msgid "Categorized with {0}"
+msgctxt "Contrib.Taxonomies.Projections.TermsFilter"
+msgid "Categorized with {0}"
+msgstr "A {0} kategóriába tartoznak"
+
+#: Contrib.Taxonomies.Projections.TermsFilterForms
+#| msgid "Terms"
+msgctxt "Contrib.Taxonomies.Projections.TermsFilterForms"
+msgid "Terms"
+msgstr "Kifejezések"
+
+#: Contrib.Taxonomies.Projections.TermsFilterForms
+#| msgid "Select some terms."
+msgctxt "Contrib.Taxonomies.Projections.TermsFilterForms"
+msgid "Select some terms."
+msgstr "Válasszon kifejezéseket"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Taxonomies.TermContentItems.List.cshtml
+#| msgid "There is no content associated to this term."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Taxonomies.TermContentItems.List.cshtml"
+msgid "There is no content associated to this term."
+msgstr "Ehhez a kifejezéshez nincs tartalom társítva."
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Terms"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Terms"
+msgstr "Kifejezések"
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "Restrictions"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "Restrictions"
+msgstr "Korlátozások"
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "Help text"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "Help text"
+msgstr "Tipp"
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "The help text is written under the field when authors are editing the content item."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are editing the content item."
+msgstr "A tipp a mező alatt jelenik meg akkor, amikor a szerkesztők a tartalmi elemet módosítják."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Taxonomy"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Taxonomy"
+msgstr "Osztály"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Select the taxonomy whose terms will be rendered in the menu."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Select the taxonomy whose terms will be rendered in the menu."
+msgstr "Válassza ki azokat osztályokat, amelyek kifejezéseit meg kívánja jeleníteni a menüben."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Root Term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Root Term"
+msgstr "Gyökérelem (kifejezés)"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "- Parent Taxonomy -"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "- Parent Taxonomy -"
+msgstr "- Szülő osztály -"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Select the root term to display"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Select the root term to display"
+msgstr "Válassza ki a megjelenítendő gyökérelemet (kifejezést)"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Number of levels to display"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Number of levels to display"
+msgstr "Megjelenítendő szintek száma"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Enter \"0\" to render all sub-levels."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Enter \"0\" to render all sub-levels."
+msgstr "Írjon be \"0\"-t az összes szint megjelenítéséhez."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Display top level menu item"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Display top level menu item"
+msgstr "Menüpont elhelyezése a főmenüben"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "When checked, the selected term to display will be rendered as a root element in the menu."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "When checked, the selected term to display will be rendered as a root element in the menu."
+msgstr "Bejelölés esetén a kiválasztott kifejezés gyökérelemként jelenik a menüben."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Hide empty entries"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Hide empty entries"
+msgstr "Üres bejegyzések elrejtése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "When checked, any term which has no content item associated to it won't be rendered."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "When checked, any term which has no content item associated to it won't be rendered."
+msgstr "Bejelölés esetén azok a kifejezések, amelyekhez nem tartozik tartalomelem, nem lesznek megjelenítve."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "Display content count"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "Display content count"
+msgstr "Tartalmak számának megjelenítése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml
+#| msgid "When checked, the number of content items is rendered following the term name."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Menu.cshtml"
+msgid "When checked, the number of content items is rendered following the term name."
+msgstr "Bejelölés esetén a tartalomelem száma követi majd a kifejezés nevét."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Taxonomy"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Taxonomy"
+msgstr "Osztály"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Select a taxonomy."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Select a taxonomy."
+msgstr "Válasszon oszályt."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Term"
+msgstr "Kifejezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "- None -"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "- None -"
+msgstr "- Egyik sem -"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Select the term whose content items will be displayed."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Select the term whose content items will be displayed."
+msgstr "Válassza ki a kifejezéseket, amelyekhez tartozó tartalomelemek megjelenjenek."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Field"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Field"
+msgstr "Mezőnév"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Optional. You can specify which field name to use if several terms references are defined on the same content type."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Optional. You can specify which field name to use if several terms references are defined on the same content type."
+msgstr "Választható. Megadhatja, hogy melyik mezőnevet kívánja használni, ha egy tartalomtípushoz több kifejezés van hozzárendelve."
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Number of items to display"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Number of items to display"
+msgstr "Megjelenítendő elemek száma"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Order By"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Order By"
+msgstr "Rendezés szempontja"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Recently created"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Recently created"
+msgstr "Legutoljára létrehozva"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Recently published"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Recently published"
+msgstr "Legutoljára közzétéve"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Recently modified"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Recently modified"
+msgstr "Legutoljára módosítva"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Content Type"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Content Type"
+msgstr "Tartalomtípus"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "- Any -"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "- Any -"
+msgstr "- Bármely -"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml
+#| msgid "Select which Content Type you want to display"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermWidget.cshtml"
+msgid "Select which Content Type you want to display"
+msgstr "Válassza ki a megjelenítendő tartalomtípusokat"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Parts/Taxonomies.Menu.cshtml
+#| msgid " ({0})"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Parts/Taxonomies.Menu.cshtml"
+msgid " ({0})"
+msgstr "({0})"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Parts/TermWidget.List.cshtml
+#| msgid "There are no items for this term."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Parts/TermWidget.List.cshtml"
+msgid "There are no items for this term."
+msgstr "Ehhez a kifejezéshez nem tartoznak elemek."
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Manage terms for {0}"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Manage terms for {0}"
+msgstr "{0} kifejezéseinek kezelése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Edit"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Taxonomies"
+msgstr "Osztályozás"
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Sébastien Ros"
+msgstr "Sébastien Ros"
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "http://orchardtaxonomies.codeplex.com"
+msgstr "http://orchardtaxonomies.codeplex.com"
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "The taxonomy module is providing custom categorization of arbitrary content types."
+msgstr "Az osztályozás modul tetszőleges tartalomtípusok egyedi kategorizálását biztosítja."
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Contrib.Taxonomies.Name"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Taxonomies"
+msgstr "Osztályozás"
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Contrib.Taxonomies.Description"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Categorize a content item."
+msgstr "Egy tartalomelem kategorizálása."
+
+#: ~/Modules/Contrib.Taxonomies/Module.txt
+#| msgid "Contrib.Taxonomies.Category"
+msgctxt "~/Modules/Contrib.Taxonomies/Module.txt"
+msgid "Content"
+msgstr "Tartalom"
+
+#: Contrib.Taxonomies.AdminMenu
+#| msgid "Taxonomies"
+msgctxt "Contrib.Taxonomies.AdminMenu"
+msgid "Taxonomies"
+msgstr "Osztályozás"
+
+#: Contrib.Taxonomies.AdminMenu
+#| msgid "Manage Taxonomies"
+msgctxt "Contrib.Taxonomies.AdminMenu"
+msgid "Manage Taxonomies"
+msgstr "Osztályozás kezelése"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "Couldn't delete taxonomy"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "Couldn't delete taxonomy"
+msgstr "Az osztályt nem sikerült törölni"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "Couldn't create taxonomy"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "Couldn't create taxonomy"
+msgstr "Az osztályt nem sikerült létrehozni"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "A taxonomy with the same name already exists"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "A taxonomy with the same name already exists"
+msgstr "Már létezik osztály ezzel a névvel"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "Couldn't edit taxonomy"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "Couldn't edit taxonomy"
+msgstr "Az osztályt nem sikerült módosítani"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "Couldn't import terms"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "Couldn't import terms"
+msgstr "A kifejezéseket nem sikerült betölteni."
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "A term with the same name already exist in this taxonomy: {0}"
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "A term with the same name already exist in this taxonomy: {0}"
+msgstr "Már létezik kifejezés ezzel a névvel ebben az osztályban: {0}"
+
+#: Contrib.Taxonomies.Controllers.AdminController
+#| msgid "The terms have been imported successfully."
+msgctxt "Contrib.Taxonomies.Controllers.AdminController"
+msgid "The terms have been imported successfully."
+msgstr "A kifejezések betöltése sikerült."
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Couldn't delete term"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Couldn't delete term"
+msgstr "A kifejezést nem sikerült törölni"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "{0} term have been removed."
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "{0} term have been removed."
+msgstr "{0} kifejezés törölve."
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Not allowed to create terms"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Not allowed to create terms"
+msgstr "Nem hozhat létre kifejezéseket"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Not allowed to select terms"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Not allowed to select terms"
+msgstr "Nem választhat kifejezéseket"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Couldn't create term"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Couldn't create term"
+msgstr "Nem hozhat létre kifejezést"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "The {0} term has been created."
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "The {0} term has been created."
+msgstr "{0} kifejezés létrehozása sikerült."
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Not allowed to manage taxonomies"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Not allowed to manage taxonomies"
+msgstr "Nem kezelheti az osztályozást"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Couldn't edit taxonomy"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Couldn't edit taxonomy"
+msgstr "Nem sikerült módosítani az osztályt"
+
+#: Contrib.Taxonomies.Controllers.TermAdminController
+#| msgid "Term information updated"
+msgctxt "Contrib.Taxonomies.Controllers.TermAdminController"
+msgid "Term information updated"
+msgstr "A kifejezés módosítva"
+
+#: Contrib.Taxonomies.Drivers.TermPartDriver
+#| msgid "The term {0} already exists in this taxonomy"
+msgctxt "Contrib.Taxonomies.Drivers.TermPartDriver"
+msgid "The term {0} already exists in this taxonomy"
+msgstr "{0} kifejezés már létezik ebben az osztályban"
+
+#: Contrib.Taxonomies.Services.TaxonomyService
+#| msgid "The term {0} already exists in this taxonomy"
+msgctxt "Contrib.Taxonomies.Services.TaxonomyService"
+msgid "The term {0} already exists in this taxonomy"
+msgstr "{0} kifejezés már létezik ebben az osztályban"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Parts.Taxonomies.TermContentItems.List.cshtml
+#| msgid "There is no content associated to this term."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Parts.Taxonomies.TermContentItems.List.cshtml"
+msgid "There is no content associated to this term."
+msgstr "Ehhez a kifejezéshez nincs tartalom társítva."
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Create.cshtml
+#| msgid "Create New Taxonomy"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Create.cshtml"
+msgid "Create New Taxonomy"
+msgstr "Új osztály létrehozása"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Edit.cshtml
+#| msgid "Taxonomy Properties"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Edit.cshtml"
+msgid "Taxonomy Properties"
+msgstr "Osztály tulajdonságai"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "Import Terms for {0}"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "Import Terms for {0}"
+msgstr "{0} kifejezéseinek betöltése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "One term per line, followed by a semi-colon and the slug"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "One term per line, followed by a semi-colon and the slug"
+msgstr "Soronként egy kifejezés, amit pontosvesszővel elválasztva az URL-csonk követ"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "Hierarchies are defined using tabs (handled in this editor zone)"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "Hierarchies are defined using tabs (handled in this editor zone)"
+msgstr "A hierarchiákat tabulátorok definiálják (kezelve vannak ebben a szerkesztőzónában)"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "e.g,"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "e.g,"
+msgstr "pl."
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "Red; red"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "Red; red"
+msgstr "Vörös, vörös"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "Blue; blue"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "Blue; blue"
+msgstr "Kék; kék"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "Light Blue; light-blue"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "Light Blue; light-blue"
+msgstr "Világoskék; világoskék"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml
+#| msgid "Import"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Import.cshtml"
+msgid "Import"
+msgstr "Betöltés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Manage Taxonomies"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Manage Taxonomies"
+msgstr "Osztályozás kezelése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Remove"
+msgstr "Törlése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Add a taxonomy"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Add a taxonomy"
+msgstr "Új osztály"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "This is a table of the taxonomies in your application"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "This is a table of the taxonomies in your application"
+msgstr "E webhelyem található osztályok táblázata"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Megnevezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Properties"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Vocabulary"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Vocabulary"
+msgstr "Szótár"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml
+#| msgid "Import"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Admin/Index.cshtml"
+msgid "Import"
+msgstr "Betöltés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "Select a taxonomy"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "Select a taxonomy"
+msgstr "Osztály választása"
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "Choose a taxonomy ..."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "Choose a taxonomy ..."
+msgstr "Osztály választása..."
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "Restrict selectable elements to leaves only"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "Restrict selectable elements to leaves only"
+msgstr "Választás korlátozása levelekre (végpontokra)"
+
+#: ~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml
+#| msgid "Allow only one term to be selected"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/DefinitionTemplates/TaxonomyFieldSettings.cshtml"
+msgid "Allow only one term to be selected"
+msgstr "Csak egy kifejezést lehet választani"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml
+#| msgid "Show on main menu"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml"
+msgid "Show on main menu"
+msgstr "Megjelenítés a főmenün"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml
+#| msgid "Menu text"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml"
+msgid "Menu text"
+msgstr "Menü szövege"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml
+#| msgid "Position"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TaxonomyMenuItem.cshtml"
+msgid "Position"
+msgstr "Pozíció"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml
+#| msgid "Selectable"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml"
+msgid "Selectable"
+msgstr "Választható"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml
+#| msgid "Uncheck if users should not be able to select this term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml"
+msgid "Uncheck if users should not be able to select this term"
+msgstr "Törölje a jelölést, ha a felhasználók nem választhatják ezt a kifejezést"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml
+#| msgid "If specified, will be used to sort terms at the same level"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.Term.Fields.cshtml"
+msgid "If specified, will be used to sort terms at the same level"
+msgstr "Ha megadja, akkor az azonos szinten lévő kifejezések sorrendjét határozza meg"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermsWidget.cshtml
+#| msgid "For Taxonomy"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermsWidget.cshtml"
+msgid "For Taxonomy"
+msgstr "Osztály"
+
+#: ~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermsWidget.cshtml
+#| msgid "Show the terms for which taxonomy? "
+msgctxt "~/Modules/Contrib.Taxonomies/Views/EditorTemplates/Parts/Taxonomies.TermsWidget.cshtml"
+msgid "Show the terms for which taxonomy? "
+msgstr "Melyik osztály kifejezéseit jelenítse meg?"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Items/Content-Term.Edit.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Items/Content-Term.Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Items/Taxonomies.Term.cshtml
+#| msgid "Save"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Items/Taxonomies.Term.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/Items/Taxonomy.List.cshtml
+#| msgid "Contents associated with {0}"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/Items/Taxonomy.List.cshtml"
+msgid "Contents associated with {0}"
+msgstr "{0} társított tartalmai"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Create.cshtml
+#| msgid "Create New Term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Create.cshtml"
+msgid "Create New Term"
+msgstr "Új kifejezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Edit.cshtml
+#| msgid "Term properties"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Edit.cshtml"
+msgid "Term properties"
+msgstr "Kifejezés tulajdonságai"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Manage vocabulary for {0}"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Manage vocabulary for {0}"
+msgstr "{0} szótárának kezelése"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Művelet választása..."
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Remove"
+msgstr "Törlés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Add a term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Add a term"
+msgstr "Kifejezés felvétele"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "This is a table of the terms in your application"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "This is a table of the terms in your application"
+msgstr "Az alábbi táblázatban láthatóak a kifejezések"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Name"
+msgstr "Megnevezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Properties"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml
+#| msgid "Move"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/Index.cshtml"
+msgid "Move"
+msgstr "Áthelyezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml
+#| msgid "Parent term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml"
+msgid "Parent term"
+msgstr "Szülő kifejezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml
+#| msgid "- None -"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml"
+msgid "- None -"
+msgstr "- nincs -"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml
+#| msgid "By selecting a parent term you can create hierarchies"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml"
+msgid "By selecting a parent term you can create hierarchies"
+msgstr "Szülő kifejezés választásával hierarchiát lehet létrehozni"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml
+#| msgid "Select"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/MoveTerm.cshtml"
+msgid "Select"
+msgstr "Választás"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml
+#| msgid "Parent term"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml"
+msgid "Parent term"
+msgstr "Szülő kifejezés"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml
+#| msgid "- None -"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml"
+msgid "- None -"
+msgstr "- nincs -"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml
+#| msgid "By selecting a parent term you can create hierarchies"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml"
+msgid "By selecting a parent term you can create hierarchies"
+msgstr "Szülő kifejezés választásával hierarchiát lehet létrehozni"
+
+#: ~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml
+#| msgid "Select"
+msgctxt "~/Modules/Contrib.Taxonomies/Views/TermAdmin/SelectTerm.cshtml"
+msgid "Select"
+msgstr "Választ"
+

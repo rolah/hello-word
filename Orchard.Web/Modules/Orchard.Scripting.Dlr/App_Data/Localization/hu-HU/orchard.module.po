@@ -1,0 +1,16 @@
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "DLR Scripting"
+msgstr "DLR-parancsfájlok"
+
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Scripting.Dlr/Module.txt"
+msgid "The DLR scripting module enables the possibility to execute scripts using the DLR."
+msgstr "A DLR parancsfájlkezelés (DLR scripting) modul lehetővé teszi parancsfájlok DLR használatával történő végrehajtását."
+

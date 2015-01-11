@@ -1,0 +1,25 @@
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "SafeMode"
+msgstr "SafeMode"
+
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "Jonathan Wall"
+msgstr "Jonathan Wall"
+
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "The Orchard Theme for setup and failure conditions."
+msgstr "Orchard téma telepítéshez és hibahelyzetekhez."
+
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "hidden"
+msgstr "rejtett"
+
+msgctxt "~/Themes/SafeMode/Theme.txt"
+msgid "http://www.orchardproject.net"
+msgstr "http://www.orchardproject.net"
+
+#: "~/Themes/SafeMode/Views/Layout.cshtml"
+msgctxt "~/Themes/SafeMode/Views/Layout.cshtml"
+msgid "Welcome to Orchard"
+msgstr "Üdvözli az Orchard"
+

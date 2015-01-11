@@ -1,0 +1,87 @@
+#. "Orchard.Scripting.Lightweight.Category"
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting"
+msgstr "Parancsfájlkezelés"
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "The scripting module enables the possibility to execute scripts using a simple custom scripting language."
+msgstr "A parancsfájlkezelés (scripting) modul parancsfájlok egyszerű, egyedi parancsfájlnyelv használatával történő végrehajtását teszi lehetővé."
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Lightweight scripting"
+msgstr "Könnyű parancsfájlkezelés"
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Custom lightweight and simple scripting language."
+msgstr "Egyedi, könnyű és egyszerű parancsfájlnyelv."
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Scripting Rules"
+msgstr "Parancsfájlkezelési szabályok"
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Rules for the Scripting modules"
+msgstr "A parancsfájlkezelés modulok szabályai"
+
+msgctxt "~/Modules/Orchard.Scripting/Module.txt"
+msgid "Rules"
+msgstr "Szabályok"
+
+#: "Orchard.Scripting.ScriptExpressionEvaluator"
+msgctxt "Orchard.Scripting.ScriptExpressionEvaluator"
+msgid "Syntax error: {0}"
+msgstr "Szintaktikai hiba: {0}"
+
+#. "Conditions"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Conditions"
+msgstr "Feltételek"
+
+#: "Orchard.Scripting.Rules.ConditionActions"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Script condition"
+msgstr "Parancsfájlkezelési feltétel"
+
+#: "Orchard.Scripting.Rules.ConditionActions"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Evaluates a boolean using a scripting engine."
+msgstr "Logikai értéket ad vissza a parancsfájlkezelési motorral."
+
+#: "Orchard.Scripting.Rules.ConditionActions"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "There are currently no scripting engine enabled"
+msgstr "Jelenleg nincs engedélyezett parancsfájlkezelési motor"
+
+#: "Orchard.Scripting.Rules.ConditionActions"
+msgctxt "Orchard.Scripting.Rules.ConditionActions"
+msgid "Expression is not a boolean value"
+msgstr "A kifejezés nem logikai érték"
+
+#: "Orchard.Scripting.Rules.ConditionForms"
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Description"
+msgstr "Leírás"
+
+#: "Orchard.Scripting.Rules.ConditionForms"
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Message that will be displayed in the Actions list."
+msgstr "Az üzenet a műveletek listában fog megjelenni."
+
+#: "Orchard.Scripting.Rules.ConditionForms"
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Condition"
+msgstr "Feltétel"
+
+#: "Orchard.Scripting.Rules.ConditionForms"
+msgctxt "Orchard.Scripting.Rules.ConditionForms"
+msgid "Enter a valid boolean expression to evaluate."
+msgstr "Adjon meg egy kiértékelendő logikai kifejezést."
+

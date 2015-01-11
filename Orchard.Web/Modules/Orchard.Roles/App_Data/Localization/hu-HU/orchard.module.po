@@ -1,0 +1,392 @@
+#. "Orchard.Roles.Name"
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Roles"
+msgstr "Szerepkörök"
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "The roles module is adding the ability to assign roles to users. It's also providing a set of default roles for which other modules can define default permissions."
+msgstr "A Roles (szerepkörök) modul képességet biztosít szerepkörök felhasználókhoz történő hozzárendeléséhez. Ezen felül alapértelmezett szerepkör-készletet is biztosít, amelyek számára más modulok alapértelmezett engedélyeket határozhatnak meg."
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Standard user roles."
+msgstr "Felhasználói szerepkörök"
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Core"
+msgstr "Core"
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Roles Workflows Activities"
+msgstr "Roles Workflows Activities"
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Provides a role based activities."
+msgstr "Szerepkörökre alapuló munkafolyam tevékenységeket nyújt."
+
+msgctxt "~/Modules/Orchard.Roles/Module.txt"
+msgid "Workflows"
+msgstr "Munkafolyamok"
+
+#: "Orchard.Roles.AdminMenu"
+msgctxt "Orchard.Roles.AdminMenu"
+msgid "Users"
+msgstr "Felhasználók"
+
+#: "Orchard.Roles.AdminMenu"
+msgctxt "Orchard.Roles.AdminMenu"
+msgid "Roles"
+msgstr "Szerepkörök"
+
+#: "Orchard.Roles.Activities.AssignRoleActivity"
+msgctxt "Orchard.Roles.Activities.AssignRoleActivity"
+msgid "User"
+msgstr "Felhasználó"
+
+#: "Orchard.Roles.Activities.AssignRoleActivity"
+msgctxt "Orchard.Roles.Activities.AssignRoleActivity"
+msgid "Assign specific roles to the current content item if it's a user."
+msgstr "Megadott szerepkör hozzáadása az aktuális tartalomelemhez, amennyiben az egy felhasználó."
+
+#. "Done"
+msgctxt "Orchard.Roles.Activities.AssignRoleActivity"
+msgid "Done"
+msgstr "Kész"
+
+#: "Orchard.Roles.Activities.IsInRoleActivity"
+msgctxt "Orchard.Roles.Activities.IsInRoleActivity"
+msgid "Conditions"
+msgstr "Feltételek"
+
+#: "Orchard.Roles.Activities.IsInRoleActivity"
+msgctxt "Orchard.Roles.Activities.IsInRoleActivity"
+msgid "Whether the current user is in a specific role."
+msgstr "Amennyiben az aktuális felhasználó egy megadott szerepkörbe tartozik."
+
+#. "Yes"
+msgctxt "Orchard.Roles.Activities.IsInRoleActivity"
+msgid "Yes"
+msgstr "Igen"
+
+#. "No"
+msgctxt "Orchard.Roles.Activities.IsInRoleActivity"
+msgid "No"
+msgstr "Nem"
+
+#: "Orchard.Roles.Activities.UserTaskActivity"
+msgctxt "Orchard.Roles.Activities.UserTaskActivity"
+msgid "Tasks"
+msgstr "Feladatok"
+
+#: "Orchard.Roles.Activities.UserTaskActivity"
+msgctxt "Orchard.Roles.Activities.UserTaskActivity"
+msgid "Wait for a user to execute a specific task."
+msgstr "Várakozik, amíg a felhasználó végre nem hajt egy bizonyos feladatot."
+
+#. "List of Roles"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "List of Roles"
+msgstr "Szerepkörök listája"
+
+#. "--------------------------"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "{0}"
+msgstr "{0}"
+
+#. "List of Permissions"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "List of Permissions"
+msgstr "Engedélyek listája"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "List of Users"
+msgstr "Felhasználók listája"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Adding role {0} to user {1}"
+msgstr "{0} szerepkör hozzáadása {1} felhasználóhoz"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Removing role {0} from user {1}"
+msgstr "{0} szerepkör eltávolítása {1} felhasználótól"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Adding permission {0} to role {1}"
+msgstr "{0} engedély hozzáadása {1} szerepkörhöz"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Removing permission {0} from role {1}"
+msgstr "{0} engedély eltávolítása a(z) {1} szerepkörről"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Role {0} already exists"
+msgstr "A(z) {0} szerepkör már létezik"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Creating role {0}"
+msgstr "{0} szerepkör létrehozása"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Role {0} doesn't exist"
+msgstr "A(z) {0} szerepkör nem létezik"
+
+#: "Orchard.Roles.Commands.RoleCommands"
+msgctxt "Orchard.Roles.Commands.RoleCommands"
+msgid "Deleting role {0}"
+msgstr "{0} szerepkör törlése"
+
+#. "Not authorized to manage roles"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Not authorized to manage roles"
+msgstr "Nincs jogosultsága a szerepkörök kezeléséhez"
+
+#. "Role name can't be empty"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Role name can't be empty"
+msgstr "A szerepkör nevét ki kell tölteni"
+
+#. "Role with same name already exists"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Role with same name already exists"
+msgstr "Már létezik ilyen nevű szerepkör"
+
+#: "Orchard.Roles.Controllers.AdminController"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Your Role has been saved."
+msgstr "A szerepkör mentése megtörtént."
+
+#: "Orchard.Roles.Controllers.AdminController"
+msgctxt "Orchard.Roles.Controllers.AdminController"
+msgid "Role was successfully deleted."
+msgstr "A szerepkör törölve."
+
+#: "Orchard.Roles.Drivers.UserRolesPartDriver"
+msgctxt "Orchard.Roles.Drivers.UserRolesPartDriver"
+msgid "Adding role {0} to user {1}"
+msgstr "{0} szerepkör hozzáadása {1} felhasználóhoz"
+
+#: "Orchard.Roles.Drivers.UserRolesPartDriver"
+msgctxt "Orchard.Roles.Drivers.UserRolesPartDriver"
+msgid "Removing role {0} from user {1}"
+msgstr "{0} szerepkör eltávolítása {1} felhasználótól"
+
+#: "Orchard.Roles.Drivers.UserTaskDriver"
+msgctxt "Orchard.Roles.Drivers.UserTaskDriver"
+msgid "Not authorized to trigger {0}."
+msgstr "Nincs engedélye {0}-t aktiválni."
+
+#: "Orchard.Roles.Forms.SelectRolesForms"
+msgctxt "Orchard.Roles.Forms.SelectRolesForms"
+msgid "Roles"
+msgstr "Szerepkörök"
+
+#: "Orchard.Roles.Forms.SelectRolesForms"
+msgctxt "Orchard.Roles.Forms.SelectRolesForms"
+msgid "Select some roles."
+msgstr "Válasszon ki szerepköröket."
+
+#: "Orchard.Roles.Forms.SelectRolesForms"
+msgctxt "Orchard.Roles.Forms.SelectRolesForms"
+msgid "Any"
+msgstr "Bármely"
+
+#: "Orchard.Roles.Forms.UserTaskForms"
+msgctxt "Orchard.Roles.Forms.UserTaskForms"
+msgid "Roles"
+msgstr "Szerepkörök"
+
+#: "Orchard.Roles.Forms.UserTaskForms"
+msgctxt "Orchard.Roles.Forms.UserTaskForms"
+msgid "Select some roles."
+msgstr "Válasszon ki szerepköröket."
+
+#: "Orchard.Roles.Forms.UserTaskForms"
+msgctxt "Orchard.Roles.Forms.UserTaskForms"
+msgid "Available actions."
+msgstr "Elérhető tevékenységek."
+
+#: "Orchard.Roles.Forms.UserTaskForms"
+msgctxt "Orchard.Roles.Forms.UserTaskForms"
+msgid "A comma separated list of actions."
+msgstr "A tevékenységek vesszővel elválasztott listája."
+
+#: "Orchard.Roles.Forms.UserTaskForms"
+msgctxt "Orchard.Roles.Forms.UserTaskForms"
+msgid "Any"
+msgstr "Bármely"
+
+#: "Orchard.Roles.Services.RolesBasedAuthorizationService"
+msgctxt "Orchard.Roles.Services.RolesBasedAuthorizationService"
+msgid "A security exception occurred in the content management system."
+msgstr "A tartalomkezelő rendszerben biztonsági kivétel történt."
+
+#. "Permission {0} was not found in any of the installed modules."
+msgctxt "Orchard.Roles.Services.RoleService"
+msgid "Permission {0} was not found in any of the installed modules."
+msgstr "A(z) {0} engedély egy telepített modulban sem található."
+
+#: "Orchard.Roles.Services.RoleService"
+msgctxt "Orchard.Roles.Services.RoleService"
+msgid "{0} Feature"
+msgstr "{0} funkció"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Add Role"
+msgstr "Szerepkör hozzáadása"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Information"
+msgstr "Információ"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Role Name:"
+msgstr "Szerepkör neve:"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Permissions"
+msgstr "Engedélyek"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "{0} Module"
+msgstr "{0} modul"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Permission"
+msgstr "Engedély"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Allow"
+msgstr "Engedélyezés"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Create.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Edit Role"
+msgstr "Szerepkör szerkesztése"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Information"
+msgstr "Információ"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Role Name:"
+msgstr "Szerepkör neve:"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Permissions"
+msgstr "Engedélyek"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Permission"
+msgstr "Engedély"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Allow"
+msgstr "Engedélyezés"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Effective"
+msgstr "Hatály"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Roles"
+msgstr "Szerepkörök"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Add a role"
+msgstr "Szerepkör hozzáadása"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "This is a table of the roles currently available for use in your application."
+msgstr "Ez az Ön alkalmazásában történő használathoz jelenleg rendelkezésre álló szerepkörök táblája."
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml"
+msgid "Roles"
+msgstr "Szerepkörök"
+
+#: "~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml"
+msgctxt "~/Modules/Orchard.Roles/Views/EditorTemplates/Parts/Roles.UserRoles.cshtml"
+msgid "There are no roles."
+msgstr "Nincsenek szerepkörök"
+

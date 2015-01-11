@@ -1,0 +1,22 @@
+#. "Orchard.Forms.Name"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Forms"
+msgstr "Űrlapok"
+
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "http://orchardforms.codeplex.com"
+msgstr "http://orchardforms.codeplex.com"
+
+#. "Orchard.Forms.Description"
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Provides a system to publish and alter html forms."
+msgstr "Html űrlapok létrehozását és módosítását teszi lehetővé."
+
+msgctxt "~/Modules/Orchard.Forms/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+

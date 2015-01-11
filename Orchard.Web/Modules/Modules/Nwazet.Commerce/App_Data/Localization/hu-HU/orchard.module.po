@@ -1,0 +1,510 @@
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Commerce"
+msgstr "Nwazet kereskedelem"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Bertrand Le Roy, Sipke Schoorstra"
+msgstr "Bertrand Le Roy, Sipke Schoorstra"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "http://nwazet.com"
+msgstr "http://nwazet.com"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce for small online businesses"
+msgstr "Kisebb online üzletekben árusítás"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Commerce"
+msgstr "Nwazet kereskedelem"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce for small online businesses"
+msgstr "Kisebb online üzletekben árusítás"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Commerce.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Kereskedelem"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Shipping"
+msgstr "Nwazet szállítás"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Define shipping options to work with Nwazet Commerce"
+msgstr "Adja meg a Nwazet kereskelemben használt szállítási lehetőségeket"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Shipping.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Kereskedelem"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Google Checkout part that can be added to any content type"
+msgstr "A Google Checkout tartalomrész bármely tartalomtípushoz csatolható"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Google.Checkout.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Kereskedelem"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Name"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Nwazet Referrals"
+msgstr "Nwazet jutalékok"
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Description"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Keeps track of the domain the user came from, in order to honor partner referral fees."
+msgstr "Követi, hogy a felhasználó mely domain-ről érkezett, így lehetővé téve a jutalékok kifizetését."
+
+#: ~/Modules/Nwazet.Commerce/Module.txt
+#| msgid "Nwazet.Referrals.Category"
+msgctxt "~/Modules/Nwazet.Commerce/Module.txt"
+msgid "Commerce"
+msgstr "Kereskedelem"
+
+#: Nwazet.Commerce.Handlers.GoogleCheckoutSettingsPartHandler
+#| msgid "Google Checkout"
+msgctxt "Nwazet.Commerce.Handlers.GoogleCheckoutSettingsPartHandler"
+msgid "Google Checkout"
+msgstr "Google Checkout"
+
+#: Nwazet.Commerce.Menus.ProductAdminMenu
+#| msgid "Commerce"
+msgctxt "Nwazet.Commerce.Menus.ProductAdminMenu"
+msgid "Commerce"
+msgstr "Kereskedelem"
+
+#: Nwazet.Commerce.Menus.ProductAdminMenu
+#| msgid "Products"
+msgctxt "Nwazet.Commerce.Menus.ProductAdminMenu"
+msgid "Products"
+msgstr "Termékek"
+
+#: Nwazet.Commerce.Menus.ShippingAdminMenu
+#| msgid "Commerce"
+msgctxt "Nwazet.Commerce.Menus.ShippingAdminMenu"
+msgid "Commerce"
+msgstr "Kereskedelem"
+
+#: Nwazet.Commerce.Menus.ShippingAdminMenu
+#| msgid "Shipping Methods"
+msgctxt "Nwazet.Commerce.Menus.ShippingAdminMenu"
+msgid "Shipping Methods"
+msgstr "Szállítási módok"
+
+#: Nwazet.Commerce.Services.WeightBasedShippingMethodProvider
+#| msgid "Weight-Based Shipping Method"
+msgctxt "Nwazet.Commerce.Services.WeightBasedShippingMethodProvider"
+msgid "Weight-Based Shipping Method"
+msgstr "Tömeg alapú szállítási mód"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Content Items"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Content Items"
+msgstr "Tartalomelemek"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Sku"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Sku"
+msgstr "Termékazonosító (Sku)"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The SKU for the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The SKU for the product."
+msgstr "A termék azonosítója (SKU)."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Price"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Price"
+msgstr "Ár"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The price of the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The price of the product."
+msgstr "A termék ára."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Is Digital"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Is Digital"
+msgstr "digitális"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "True if this is a digital product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "True if this is a digital product."
+msgstr "Igaz, ha a termék digitális."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Shipping Cost"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Shipping Cost"
+msgstr "Szállítási költség"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The fixed shipping cost of the product."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The fixed shipping cost of the product."
+msgstr "A termék fix szállítási költsége."
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "Weight"
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "Weight"
+msgstr "Tömeg"
+
+#: Nwazet.Commerce.Tokens.ProductTokens
+#| msgid "The weight of the item."
+msgctxt "Nwazet.Commerce.Tokens.ProductTokens"
+msgid "The weight of the item."
+msgstr "A termék tömege."
+
+#: ~/Modules/Nwazet.Commerce/Views/GoogleCheckout.cshtml
+#| msgid "Fast checkout through Google"
+msgctxt "~/Modules/Nwazet.Commerce/Views/GoogleCheckout.cshtml"
+msgid "Fast checkout through Google"
+msgstr "Gyors fizetés Google szolgáltatáson keresztül"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "You don't have any items in your shopping cart."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "You don't have any items in your shopping cart."
+msgstr "Egyetlen termék sincs a kosarában."
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Article"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Article"
+msgstr "Árucikk"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Unit Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Unit Price"
+msgstr "Egységár"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Quantity"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Quantity"
+msgstr "Mennyiség"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Total Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Total Price"
+msgstr "Végösszeg"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Subtotal:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Subtotal:"
+msgstr "Összeg:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml
+#| msgid "Update All"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.cshtml"
+msgid "Update All"
+msgstr "Összes frissítése"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Your Cart"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Your Cart"
+msgstr "A kosara"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Remove"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Update All"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Update All"
+msgstr "Összes frissítése"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Subtotal:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Subtotal:"
+msgstr "Összeg:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml
+#| msgid "Tax and shipping will be calculated at checkout."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShoppingCart.Summary.cshtml"
+msgid "Tax and shipping will be calculated at checkout."
+msgstr "Áfa és szállítási költség fizetéskor lesz felszámolva."
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Google Checkout Merchant Id"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Google Checkout Merchant Id"
+msgstr "Google Checkout kereskedő azonosító"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Google Analytics Id"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Google Analytics Id"
+msgstr "Google Analytics azonosító"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Currency"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Currency"
+msgstr "Pénznem"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Shipping Weight Unit"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Shipping Weight Unit"
+msgstr "Szállítási tömeg alapegysége"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml
+#| msgid "Use Sandbox"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/GoogleCheckoutSettings.cshtml"
+msgid "Use Sandbox"
+msgstr "Sandbox használata"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Sku"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Sku"
+msgstr "Sku-kód (termékazonosító)"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Price"
+msgstr "Ár"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Weight"
+msgstr "Tömeg"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Shipping Cost"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Shipping Cost"
+msgstr "Szállítási költség"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "Specify a shipping cost if you want the shipping cost to be fixed. Otherwise, leave this empty and only specify the weight. The shipping will be computed based on the shipping provider that the customer will pick."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "Specify a shipping cost if you want the shipping cost to be fixed. Otherwise, leave this empty and only specify the weight. The shipping will be computed based on the shipping provider that the customer will pick."
+msgstr "Adjon meg egy szállítási költséget, ha fix költséget szeretne meghatározni. Egyéb esetben hagyja üresen és csak a tömeget írja be. A szállítási költséget a szállítók határozzák meg és a vásárló választhatja ki a szállítót."
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml
+#| msgid "digital product"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/Product.cshtml"
+msgid "digital product"
+msgstr "digitális termék"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Method Name"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Method Name"
+msgstr "Szállítás módja"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "The technical name of the shipping method (this is different from the title, which is the method's friendly name that will be displayed to end-users)."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "The technical name of the shipping method (this is different from the title, which is the method's friendly name that will be displayed to end-users)."
+msgstr "A szállítás módjának technikai neve (különbözik a megnevezéstől, amely a szállítási mód barátságosabb megnevezése, amely a felhasználó felületen jelenik meg)."
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Shipping Company"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Shipping Company"
+msgstr "Szállító cég"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Price"
+msgstr "Ár"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Minimum Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Minimum Weight"
+msgstr "Minimális tömeg"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Maximum Weight"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Maximum Weight"
+msgstr "Maximális tömeg"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Specify the weight interval for which this shipping price is valid. Leave the maximum weight field empty for unlimited weight. The weight will be computed for all non-digital products that don't have a shipping price overload specified."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Specify the weight interval for which this shipping price is valid. Leave the maximum weight field empty for unlimited weight. The weight will be computed for all non-digital products that don't have a shipping price overload specified."
+msgstr "Adja meg a termék tömegének lehetséges intervallumát. Hagyja üresen a maximális tömeg mezőt, ha nem akarja a tömeget limitálni. A tömeg ki lesz számítva minden nem-digitális termék esetén, amelynél nincs megadva fix szállítási költség."
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Areas for which this method is valid:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Areas for which this method is valid:"
+msgstr "A szállítási mód az alábbi területeken elérhető:"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Areas for which this method is not valid:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Areas for which this method is not valid:"
+msgstr "A szállítási mód az alábbi területeken nem elérhető:"
+
+#: ~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml
+#| msgid "Use this to restrict what areas this method is available from. For example, an international shipping method would have World included, but US excluded, so that it can't be selected for domestic shipping."
+msgctxt "~/Modules/Nwazet.Commerce/Views/EditorTemplates/Parts/WeightBasedShippingMethod.cshtml"
+msgid "Use this to restrict what areas this method is available from. For example, an international shipping method would have World included, but US excluded, so that it can't be selected for domestic shipping."
+msgstr "Itt adhatja meg, mely területeken vehetők igénybe az adott szállítási módok. Például a nemzetközi szállítás esetén az egész világra kiterjedően lehet szállítani, de az Egyesült Államokba nem."
+
+#: ~/Modules/Nwazet.Commerce/Views/Parts/Product.AddButton.cshtml
+#| msgid "Add to cart"
+msgctxt "~/Modules/Nwazet.Commerce/Views/Parts/Product.AddButton.cshtml"
+msgid "Add to cart"
+msgstr "Kosárba"
+
+#: ~/Modules/Nwazet.Commerce/Views/Parts/Product.cshtml
+#| msgid "Price"
+msgctxt "~/Modules/Nwazet.Commerce/Views/Parts/Product.cshtml"
+msgid "Price"
+msgstr "Ár"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Manage Products"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Manage Products"
+msgstr "Termékek kezelése"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Create New Product"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Create New Product"
+msgstr "Új termék hozzáadása"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Actions:"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Choose action..."
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Publish Now"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Unpublish"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Apply"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "Ordered by"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "Ordered by"
+msgstr "Sorrend:"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently created"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently created"
+msgstr "legutoljára létrehozva"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently modified"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently modified"
+msgstr "legutoljára módosítva"
+
+#: ~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml
+#| msgid "recently published"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ProductAdmin/List.cshtml"
+msgid "recently published"
+msgstr "legutoljára közzétéve"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Manage Shipping Methods"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Manage Shipping Methods"
+msgstr "Szállítási módok kezelése"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Add a new {0}"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Add a new {0}"
+msgstr "Új {0} hozzáadása"
+
+#: ~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/Nwazet.Commerce/Views/ShippingAdmin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+

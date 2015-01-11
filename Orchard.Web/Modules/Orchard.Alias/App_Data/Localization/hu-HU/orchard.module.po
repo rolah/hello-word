@@ -1,0 +1,253 @@
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "Alias"
+msgstr "Alias"
+
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "Maps friendly urls to specific module actions."
+msgstr "Keresőbarát URL-eket rendelhet a modulok funkcióihoz."
+
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "Alias UI"
+msgstr "Alias UI"
+
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "Admin user interface for Orchard.Alias."
+msgstr "Adminisztrátor felület az Orchard.Alias modulhoz."
+
+msgctxt "~/Modules/Orchard.Alias/Module.txt"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Alias.AdminMenu"
+msgctxt "Orchard.Alias.AdminMenu"
+msgid "Aliases"
+msgstr "Alias-ok"
+
+#. "Not authorized to manage aliases"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "Not authorized to manage aliases"
+msgstr "Nincs jogosultsága az alias-ok kezeléséhez"
+
+#. "Route can't be empty"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "Route can't be empty"
+msgstr "Az elérést ki ki kell tölteni"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "An error occured while creating the alias {0}: {1}. Please check the values are correct."
+msgstr "Hiba történt az alias létrehozásakor: {0}: {1}. Kérem ellenőrizze az értékek helyességét."
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "An error occured while creating the alias {0}"
+msgstr "Hiba történt a(z) {0} alias létrehozásakor"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "Alias {0} created"
+msgstr "{0} alias létrehozva"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "An error occured while editing the alias '{0}': {1}. Please check the values are correct."
+msgstr "Hiba történt az alias szerkesztésekor: '{0}': {1}. Kérem ellenőrizze az értékek helyességét."
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "An error occured while creating the alias '{0}'"
+msgstr "Hiba történt a(z) '{0}' alias létrehozásakor"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "Alias {0} updated"
+msgstr "{0} alias frissítve"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "Alias {0} deleted"
+msgstr "{0} alias törölve"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "<a href=\"{0}\">{0}</a>"
+msgstr "<a href=\"{0}\">{0}</a>"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "<a href=\"{0}\">change</a>"
+msgstr "<a href=\"{0}\">módosít</a>"
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "<a href=\"{0}\" itemprop=\"UnsafeUrl RemoveUrl\">delete</a>"
+msgstr "<a href=\"{0}\" itemprop=\"UnsafeUrl RemoveUrl\">törlés</a> "
+
+#: "Orchard.Alias.Controllers.AdminController"
+msgctxt "Orchard.Alias.Controllers.AdminController"
+msgid "Cannot save alias <i>{0}</i>. It conflicts with existing one pointing to {1}. Please {2} or {3} the existing alias first."
+msgstr "Nem sikerült a(z) <i>{0}</i>. Ütközik egy meglévő, {1}-ra mutató alias-szal. Kérem előbb módosítsa ({2}) vagy törölje ({3}) a meglévő alias-t."
+
+#. "Create Alias"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "Create Alias"
+msgstr "Alias létrehozása"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "Alias Path"
+msgstr "Alias útvonala"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "The path of the alias e.g., my-blog/my-post"
+msgstr "Az alias útvonala, pl. blogom/blogpostom"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "Route Path"
+msgstr "Elérési útvonal"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "The actual route Orchard should call when the path is requested e.g., Blogs/Blog/Item?blogId=18"
+msgstr "A útvonal, amelyet az Orchard használjon lekérés esetén, pl. Blogs/Blog/Item?blogId=18"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Add.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#. "Delete alias"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml"
+msgid "Delete Alias"
+msgstr "Alias törlése"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml"
+msgid "Removing alias '{0}'. Are you sure?"
+msgstr "'{0}' alias törlése. Biztos benne?"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Delete.cshtml"
+msgid "Yes"
+msgstr "Igen"
+
+#. "Edit alias"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "Edit Alias"
+msgstr "Alias szerkesztése"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "Alias Path"
+msgstr "Alias útvonala"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "The path of the alias e.g., my-blog/my-post"
+msgstr "Az alias útvonala, pl. blogom/blogpostom"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "Route Path"
+msgstr "Elérési útvonal"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "The actual route Orchard should call when the path is requested e.g., Blogs/Blog/Item?blogId=18"
+msgstr "A útvonal, amelyet az Orchard használjon lekérés esetén, pl. Blogs/Blog/Item?blogId=18"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Edit.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Manage Aliases"
+msgstr "Alias-ok kezelése"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Add new Alias"
+msgstr "Új alias"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "Rendezés:"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Path"
+msgstr "Útvonal"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "Mutat:"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "Összes"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrés"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Alias"
+msgstr "Alias"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Route"
+msgstr "Elérés"
+
+#: "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Alias/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+

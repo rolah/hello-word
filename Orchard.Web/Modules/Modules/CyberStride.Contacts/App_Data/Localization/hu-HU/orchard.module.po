@@ -1,0 +1,234 @@
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "CyberStride.Contacts"
+msgstr "CyberStride.Contacts"
+
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "CyberStride, LLC"
+msgstr "CyberStride, LLC"
+
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "http://cyberstride.net"
+msgstr "http://cyberstride.net"
+
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "This module allows you to create one or more Contact Pages, alternatively you can assign a ContactForm as a content part or widget to an arbitrary page. In all cases, the posted request will be shown in the admin panel under the Contact Requests menu item, and you may optionally designate an email address to be sent the contact request as well, if you have the Email module configured. 0.9.2 is a minor update to the previous version, improving the output of the email to the admin to include info entered by the user on the form."
+msgstr "E modul segítségével egy vagy több kapcsolatfelvételi oldalt hozhat létre, és korlátlan mennyiségű oldalhoz rendelhet kapcsolatfelvételi űrlapokat tartalomrész vagy widget formájában. Az összes így beérkező üzenet megtalálható lesz az adminisztrátor menü Kapcsolatfelvételi kérések menüpontja alatt és amennyiben telepítve van az E-mail modul, a beérkező üzeneteket egy tetszőleges e-mail címre is továbbíthatja. A 0.9.2 egy kisebb előrelépés az előző verzióhoz képest, amely kiegészítő információkat jelenít meg az üzenetek e-mail formájában való megjenelítésekor."
+
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "CyberStride.Contacts.Name"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "Contact Form"
+msgstr "Kapcsolatfelvételi űrlap"
+
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "CyberStride.Contacts.Description"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "Description for feature CyberStride.Contacts."
+msgstr "A CybertStride.Contacts leírása."
+
+#: ~/Modules/CyberStride.Contacts/Module.txt
+#| msgid "CyberStride.Contacts.Category"
+msgctxt "~/Modules/CyberStride.Contacts/Module.txt"
+msgid "Messaging"
+msgstr "Üzenetküldés"
+
+#: CyberStride.Contacts.AdminMenu
+#| msgid "List"
+msgctxt "CyberStride.Contacts.AdminMenu"
+msgid "List"
+msgstr "Lista"
+
+#: CyberStride.Contacts.Controllers.AdminController
+#| msgid "Contact request not found, please check your URL"
+msgctxt "CyberStride.Contacts.Controllers.AdminController"
+msgid "Contact request not found, please check your URL"
+msgstr "Nem találtam kapcsolatfelvételi kérést, kérem ellenőrizze az URL-t"
+
+#: CyberStride.Contacts.Controllers.AdminController
+#| msgid "Couldn't delete contactRequest"
+msgctxt "CyberStride.Contacts.Controllers.AdminController"
+msgid "Couldn't delete contactRequest"
+msgstr "Nem sikerült a kapcsolatfelvételi kérés törlése"
+
+#: CyberStride.Contacts.Controllers.AdminController
+#| msgid "Item not found"
+msgctxt "CyberStride.Contacts.Controllers.AdminController"
+msgid "Item not found"
+msgstr "Nincs ilyen elem."
+
+#: CyberStride.Contacts.Controllers.ContactController
+#| msgid "Form submission was not from a valid source"
+msgctxt "CyberStride.Contacts.Controllers.ContactController"
+msgid "Form submission was not from a valid source"
+msgstr "Az kitöltött űrlap érvénytelen forrásból érkezett."
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Contact Us"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Contact Us"
+msgstr "Kapcsolatfelvétel"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Email"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Email"
+msgstr "E-mail"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Phone"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Phone"
+msgstr "Telefon"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Company"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Company"
+msgstr "Cég"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Current Website"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Current Website"
+msgstr "Jelenlegi webhely"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Topic of Inquiry"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Topic of Inquiry"
+msgstr "Érdeklődés tárgya"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Details"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Details"
+msgstr "Részletek"
+
+#: ~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml
+#| msgid "Send"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Parts/ContactForm.cshtml"
+msgid "Send"
+msgstr "Küldés"
+
+#: ~/Modules/CyberStride.Contacts/Views/EditorTemplates/Parts.ContactForm.cshtml
+#| msgid "Email notification to: "
+msgctxt "~/Modules/CyberStride.Contacts/Views/EditorTemplates/Parts.ContactForm.cshtml"
+msgid "Email notification to: "
+msgstr "Értesítés ezen az e-mail címen:"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "Manage Contact Requests"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "Manage Contact Requests"
+msgstr "Kapcsolatfelvételi kérések kezelése"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "This is a table of the contact requests of your application"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "This is a table of the contact requests of your application"
+msgstr "Ez a kapcsolatfelvételi kérések táblája"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "Contact Date"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "Contact Date"
+msgstr "Kapcsolatfelvétel dátuma"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "Name"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "Topic"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "Topic"
+msgstr "Tárgy"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "Details"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "Details"
+msgstr "Részletek"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml
+#| msgid "Delete"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/details.cshtml
+#| msgid "Contact request from {0}"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/details.cshtml"
+msgid "Contact request from {0}"
+msgstr "{0} kapcsolatfelvételt kér"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/details.cshtml
+#| msgid "Contact made at {0}"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/details.cshtml"
+msgid "Contact made at {0}"
+msgstr "Kapcsolatfelvétel ideje {0}"
+
+#: ~/Modules/CyberStride.Contacts/Views/Admin/details.cshtml
+#| msgid "Back to List"
+msgctxt "~/Modules/CyberStride.Contacts/Views/Admin/details.cshtml"
+msgid "Back to List"
+msgstr "Vissza a listához"
+
+#: CyberStride.Contacts.AdminMenu
+#| msgid "Contact Requests"
+msgctxt "CyberStride.Contacts.AdminMenu"
+msgid "Contact Requests"
+msgstr "Kapcsolatfelvételi kérések"
+
+#: CyberStride.Contacts.Models.RequiredAttribute
+#| msgid "The {0} field is required."
+msgctxt "CyberStride.Contacts.Models.RequiredAttribute"
+msgid "The {0} field is required."
+msgstr "A {0} mező kitöltése kötelező."
+
+#: CyberStride.Contacts.Models.RequiredAttribute
+#| msgid "The Name is required."
+msgctxt "CyberStride.Contacts.Models.RequiredAttribute"
+msgid "The Name is required."
+msgstr "A név megadása kötelező."
+
+#: CyberStride.Contacts.Controllers.AdminController
+#| msgid "Contact request deleted"
+msgctxt "CyberStride.Contacts.Controllers.AdminController"
+msgid "Contact request deleted"
+msgstr "Kapcsolatfelvételi kérés törölve"
+
+#: CyberStride.Contacts.Controllers.ContactController
+#| msgid "Thanks for your inquiry, someone will respond to you shortly."
+msgctxt "CyberStride.Contacts.Controllers.ContactController"
+msgid "Thanks for your inquiry, someone will respond to you shortly."
+msgstr "Köszönjük az érdelődését, hamarosan válaszolunk!"
+
+#: Orchard.Users.Handlers.ContactMessagesAlteration
+#| msgid "[New Contact Request]: {0}"
+msgctxt "Orchard.Users.Handlers.ContactMessagesAlteration"
+msgid "[New Contact Request]: {0}"
+msgstr "[Új kapcsolatfelvételi kérés]: {0}"
+
+#: Orchard.Users.Handlers.ContactMessagesAlteration
+#| msgid "<p>The visitor <b>{0}</b> with email <b>{1}</b> has requested contact.</p><ul><li>Company: {2}</li><li>Current Website: {3}</li><li>Phone: {4}</li><li>Message: {5}</li></ul>"
+msgctxt "Orchard.Users.Handlers.ContactMessagesAlteration"
+msgid "<p>The visitor <b>{0}</b> with email <b>{1}</b> has requested contact.</p><ul><li>Company: {2}</li><li>Current Website: {3}</li><li>Phone: {4}</li><li>Message: {5}</li></ul>"
+msgstr "<p><b>{0}</b> látogató <b>{1}</b> e-mail címmel kapcsolatfelvételt kér.</p><ul><li>Cég: {2}</li><li>Jelenlegi webhely: {3}</li><li>Telefon: {4}</li><li>Üzenet: {5}</li></ul>"
+

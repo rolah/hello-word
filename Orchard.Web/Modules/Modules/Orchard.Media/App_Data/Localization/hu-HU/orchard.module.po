@@ -1,0 +1,461 @@
+msgctxt "~/Modules/Orchard.Media/Module.txt"
+msgid "Media"
+msgstr "Média"
+
+msgctxt "~/Modules/Orchard.Media/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Media/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Media/Module.txt"
+msgid "The media module offer basic media management features. It currently only supports image files. Storage goes into the current Orchard file system, which can be the server's physical file system or Azure blob storage."
+msgstr "A médiamodul alapszintű médiakezelési funkciókat nyújt. Jelenleg csak képfájlokat támogat. A tárolás a jelenlegi Orchard fájlrendszerbe kerül, amely a kiszolgáló fizikai fájlrendszere, vagy az Azure blob storage lehet."
+
+#: "Orchard.Media.AdminMenu"
+msgctxt "Orchard.Media.AdminMenu"
+msgid "Media"
+msgstr "Média"
+
+#: "Orchard.Media.AdminMenu"
+msgctxt "Orchard.Media.AdminMenu"
+msgid "Media Storage"
+msgstr "Médiatár"
+
+#. "Couldn't delete media folder"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Couldn't delete media folder"
+msgstr "A médiamappát nem sikerült törölni"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Deleting Folder failed: {0}"
+msgstr "A mappa törlése sikertelen: {0}"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Couldn't create media folder"
+msgstr "A médiamappát nem sikerült létrehozni"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media folder created"
+msgstr "Médiamappa létrehozva"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Creating Folder failed: {0}"
+msgstr "A mappa létrehozása sikertelen: {0}"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Editing failed: {0}"
+msgstr "Szerkesztés nem sikerült: {0}"
+
+#. "Couldn't delete media file"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Couldn't delete media file"
+msgstr "A médiafájlt nem sikerült törölni"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media file deleted"
+msgstr "Médiafájl törölve"
+
+#. "Deleting failed: {0}"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Deleting failed: {0}"
+msgstr "A törlés sikertelen: {0}"
+
+#. "Media folder deleted"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media folder deleted"
+msgstr "Médiamappa törölve"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Deleting media folder failed: {0}"
+msgstr "A médiamappa törlése sikertelen: {0}"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Couldn't rename media folder"
+msgstr "A médiamappát nem sikerült átnevezni"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media folder properties modified"
+msgstr "Médiamappa tulajdonságai módosítva"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Modifying media folder properties failed: {0}"
+msgstr "A médiamappa tulajdonságainak módosítása sikertelen: {0}"
+
+#. "Couldn't upload media file"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Couldn't upload media file"
+msgstr "A médiafájlt nem sikerült feltölteni"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Select a file to upload"
+msgstr "Jelölje ki a feltöltendő fájlt"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Uploading media file failed: {0}"
+msgstr "Médiafájl feltöltése sikertelen: {0}"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media file(s) uploaded"
+msgstr "Médiafájl(ok) feltöltve"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "ERROR: You don't have permission to upload media files"
+msgstr "HIBA: Önnek nincs engedélye médiafájlok feltöltésére"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "HEY: You didn't give me a file to upload"
+msgstr "FIGYELEM: Nem adott meg feltöltendő fájlt"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "ERROR: Uploading media file failed: {0}"
+msgstr "HIBA: A médiafájl feltöltése sikertelen: {0}"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media deleted"
+msgstr "Média törölve"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Removing media file failed: {0}"
+msgstr "A médiafájl eltávolítása sikertelen: {0}"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Couldn't modify media file"
+msgstr "A médiafájlt nem sikerült törölni"
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Editing media file failed."
+msgstr "Médiafájl szerkesztése nem sikerült."
+
+#: "Orchard.Media.Controllers.AdminController"
+msgctxt "Orchard.Media.Controllers.AdminController"
+msgid "Media information updated"
+msgstr "Médiainformáció frissítve"
+
+#: "Orchard.Media.Handlers.MediaSettingsPartHandler"
+msgctxt "Orchard.Media.Handlers.MediaSettingsPartHandler"
+msgid "Media"
+msgstr "Média"
+
+#: "Orchard.Media.Services.provides"
+msgctxt "Orchard.Media.Services.provides"
+msgid "New file name \"{0}\" is not allowed. Please provide a file extension."
+msgstr "Az új fájlnév \"{0}\" érvénytelen. Adjon meg fájlkiterjesztést."
+
+#: "Orchard.Media.Services.provides"
+msgctxt "Orchard.Media.Services.provides"
+msgid "New file name \"{0}\" is not allowed."
+msgstr "Az új fájlnév \"{0}\" érvénytelen."
+
+#: "Orchard.Media.Services.provides"
+msgctxt "Orchard.Media.Services.provides"
+msgid "Could not upload file {0}. Supported file types are {1}."
+msgstr "{0} fájl feltöltése nem sikerült. A támogatott fájlkiterjesztések: {1}"
+
+#: "Orchard.Media.Services.XmlRpcHandler"
+msgctxt "Orchard.Media.Services.XmlRpcHandler"
+msgid "Access denied"
+msgstr "Hozzáférés megtagadva"
+
+#. "Add Media"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "Add Media"
+msgstr "Média hozzáadása"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "Media Folders"
+msgstr "Médiamappák"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "File Path <span> - multiple files must be in a zipped folder</span>"
+msgstr "Fájlelérési útvonal <span> – több fájl esetén a fájloknak tömörített (zipelt) mappában kell lenniük</span>"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "Browse"
+msgstr "Tallózás"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "Extract Zip"
+msgstr "Zip kicsomagolása"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "After your files have been uploaded, you can edit the titles and descriptions."
+msgstr "A fájlok feltöltése után a címek és a leírások szerkeszthetők."
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Add.cshtml"
+msgid "Can't upload file. Supported file types are {0}."
+msgstr "Ilyen fájlt nem lehet feltölteni. A támogatott fájltípusok: {0}."
+
+#. "Add a Folder"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgid "Add a Folder"
+msgstr "Mappa hozzáadása"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgid "Media Folders"
+msgstr "Médiamappák"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgid "Folder Name"
+msgstr "Mappa neve"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Create.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#. "Manage Folder"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Manage Folder"
+msgstr "Mappakezelés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Media Folders"
+msgstr "Médiamappák"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Folder Properties"
+msgstr "Mappa tulajdonságai"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Add media"
+msgstr "Média hozzáadása"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Add a folder"
+msgstr "Mappa hozzáadása"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "This is a table of the pages currently available for use in your application."
+msgstr "Ez az Ön alkalmazásában történő felhasználáshoz jelenleg rendelkezésre álló oldalak táblája."
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Author"
+msgstr "Szerző"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Last Updated"
+msgstr "Legutóbbi frissítés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Type"
+msgstr "Típus"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Size"
+msgstr "Méret"
+
+#. "Folder"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Edit.cshtml"
+msgid "Folder"
+msgstr "Mappa"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Edit Media - {0}"
+msgstr "Média szerkesztése – {0}"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Media Folders"
+msgstr "Médiamappák"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Edit Media"
+msgstr "Média szerkesztése"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Dimensions: <span>500 x 375 pixels</span>"
+msgstr "Méretek: <span>500 x 375 képpont</span>"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Size: <span>{0}</span>"
+msgstr "Méret: <span>{0}</span>"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Added on: <span>{0}</span>"
+msgstr "Hozzáadás ideje: <span>{0}</span>"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Embed:"
+msgstr "Beágyazás:"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Copy this html to add this media file to your site."
+msgstr "Ez a médiafájl ennek a html kódnak a másolásával adható hozzá az Ön webhelyéhez."
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditMedia.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#. "Folder Properties"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgid "Folder Properties"
+msgstr "Mappa tulajdonságai"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgid "Media Folders"
+msgstr "Médiamappák"
+
+#: "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgid "Folder Name:"
+msgstr "Mappa neve:"
+
+#. "Save"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/EditProperties.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Media"
+msgstr "Média"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Add a folder"
+msgstr "Mappa hozzáadása"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "This is a table of the media folders currently available for use in your application."
+msgstr "Ez az Ön alkalmazásában történő felhasználáshoz jelenleg rendelkezésre álló médiamappák táblája."
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Author"
+msgstr "Szerző"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Last Updated"
+msgstr "Legutóbbi frissítés"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Type"
+msgstr "Típus"
+
+#: "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Size"
+msgstr "Méret"
+
+#. "Folder"
+msgctxt "~/Modules/Orchard.Media/Views/Admin/Index.cshtml"
+msgid "Folder"
+msgstr "Mappa"
+
+#: "~/Modules/Orchard.Media/Views/EditorTemplates/Parts/Media.MediaSettings.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/EditorTemplates/Parts/Media.MediaSettings.cshtml"
+msgid "Media"
+msgstr "Média"
+
+#: "~/Modules/Orchard.Media/Views/EditorTemplates/Parts/Media.MediaSettings.cshtml"
+msgctxt "~/Modules/Orchard.Media/Views/EditorTemplates/Parts/Media.MediaSettings.cshtml"
+msgid "Upload allowed file types (list of extensions separated by spaces)"
+msgstr "Feltölthető fájltípusok (kiterjesztések listája szóközökkel elválasztva)"
+

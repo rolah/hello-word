@@ -1,0 +1,186 @@
+msgctxt "~/Modules/Orchard.Setup/Module.txt"
+msgid "Setup"
+msgstr "Telepítés"
+
+msgctxt "~/Modules/Orchard.Setup/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Setup/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Setup/Module.txt"
+msgid "The setup module is creating the application's setup experience."
+msgstr "A Setup (telepítés) modul az alkalmazás telepítési élményét hozza létre."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "Site name is required."
+msgstr "A webhely nevét kötelező megadni."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "Site name can be no longer than {0} characters."
+msgstr "A webhelynév legfeljebb {0} karakter hosszú lehet."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "User name is required."
+msgstr "A felhasználónév kötelező."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "User name must be at least {0} characters."
+msgstr "A felhasználónévnek legalább {0} karakter hosszúnak kell lennie."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "User name can be no longer than {0} characters."
+msgstr "A felhasználónév legfeljebb {0} karakter hosszú lehet."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "Password is required."
+msgstr "A jelszó kötelező."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "Password must be at least {0} characters."
+msgstr "A jelszónak legalább {0} karakter hosszúnak kell lennie."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "Password can be no longer than {0} characters."
+msgstr "A jelszó legfeljebb {0} karakter hosszú lehet."
+
+#: "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgctxt "Orchard.Setup.Annotations.SiteNameValidAttribute"
+msgid "Password confirmation is required."
+msgstr "A jelszó megerősítést igényel."
+
+#: "Orchard.Setup.Commands.SetupCommand"
+msgctxt "Orchard.Setup.Commands.SetupCommand"
+msgid "Site \"{0}\" successfully setup to run data provider \"{1}\" (with table prefix \"{2}\") and configured by recipe \"{3}\""
+msgstr "\"{0}\" webhely használatra kész \"{1}\" adatszolgáltatóval (és \"{2}\" tábla előtaggal), \"{3}\" recept alapján konfigurálva"
+
+#: "Orchard.Setup.Controllers.SetupController"
+msgctxt "Orchard.Setup.Controllers.SetupController"
+msgid "A connection string is required"
+msgstr "A connection string szükséges"
+
+#: "Orchard.Setup.Controllers.SetupController"
+msgctxt "Orchard.Setup.Controllers.SetupController"
+msgid "Password confirmation must match"
+msgstr "A jelszónak és a megerősítésének egyeznie kell"
+
+#: "Orchard.Setup.Controllers.SetupController"
+msgctxt "Orchard.Setup.Controllers.SetupController"
+msgid "The table prefix must begin with a letter"
+msgstr "A tábla előtagnak betűvel kell kezdődnie"
+
+#: "Orchard.Setup.Controllers.SetupController"
+msgctxt "Orchard.Setup.Controllers.SetupController"
+msgid "The table prefix must contain letters or digits"
+msgstr "A tábla előtag csak betűket és számokat tartalmazhat"
+
+#: "Orchard.Setup.Controllers.SetupController"
+msgctxt "Orchard.Setup.Controllers.SetupController"
+msgid "No recipes were found in the Setup module"
+msgstr "A Telepítés modulban nincs recept."
+
+#: "Orchard.Setup.Controllers.SetupController"
+msgctxt "Orchard.Setup.Controllers.SetupController"
+msgid "Setup failed: {0}"
+msgstr "A telepítés nem sikerült: {0}"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Get Started"
+msgstr "Kezdő lépések"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Please answer a few questions to configure your site."
+msgstr "Webhelye konfigurálásához válaszoljon néhány kérdésre."
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "What is the name of your site?"
+msgstr "Mi a webhelyének a neve?"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Choose a user name:"
+msgstr "Válasszon felhasználónevet:"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Choose a password:"
+msgstr "Válasszon jelszót:"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Confirm the password:"
+msgstr "Erősítse meg a jelszót:"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "How would you like to store your data?"
+msgstr "Hogyan kívánja tárolni az adatait?"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Use built-in data storage (SQL Server Compact)"
+msgstr "Beépített adattároló (SQL Server Compact) használata"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Use an existing SQL Server, SQL Express database"
+msgstr "Meglévő SQL Server, SQL Express adatbázis használata"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Use an existing MySql database"
+msgstr "Meglévő MySql adatbázis használata"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Connection string"
+msgstr "Connection string"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+msgstr "Data Source=sqlServerName;Initial Catalog=dbName;Persist Security Info=True;User ID=userName;Password=password"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Data Source=serverName;Database=dbName;User Id=userName;Password=password"
+msgstr "Data Source=serverName;Database=dbName;User Id=userName;Password=password"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Database Table Prefix"
+msgstr "Adatbázis tábla előtag"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Choose an Orchard Recipe"
+msgstr "Válasszon egy Orchard receptet"
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Orchard Recipes allow you to setup your site with additional pre-configured options, features and settings out of the box"
+msgstr "Az Orchard Receptek lehetővé teszik webhelyének telepítését előre konfigurált választási lehetőségekkel, funkciókkal és beállításokkal."
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Cooking Orchard Recipe ..."
+msgstr "Orchard recept főzése folyamatban..."
+
+#: "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgctxt "~/Modules/Orchard.Setup/Views/Setup/Index.cshtml"
+msgid "Finish Setup"
+msgstr "Telepítés befejezése"
+

@@ -1,0 +1,315 @@
+#. "{0} (Retrying...)"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "{0} (Retrying...)"
+msgstr "{0} (Újrapróbálkozás...)"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "Error executing command \"{0}\""
+msgstr "Hiba a \"{0}\" parancs futtatásakor"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "Error starting up Orchard command line host"
+msgstr "Hiba az Orchard parancssor indítása során"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "Error shutting down Orchard command line host"
+msgstr "Hiba az Orchard parancssor leállítása során"
+
+#. "{0}"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "{0}"
+msgstr "{0}"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "--------------------------------------------------------------------------------"
+msgstr "--------------------------------------------------------------------------------"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "Exception Details: {0}: {1}"
+msgstr "Kivétel részletei: {0}: {1}"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "Stack Trace:"
+msgstr "Stack Trace:"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "[{0}: {1}]"
+msgstr "{{0}: {1}}"
+
+#: "Orchard.Commands.CommandHostAgent"
+msgctxt "Orchard.Commands.CommandHostAgent"
+msgid "Tenant {0} does not exist"
+msgstr "A(z) {0} társoldal (tenant) nem létezik"
+
+#: "Orchard.Commands.CommandHostEnvironment"
+msgctxt "Orchard.Commands.CommandHostEnvironment"
+msgid "A change of configuration requires the session to be restarted."
+msgstr "A konfiguráció módosítása miatt a munkamenetet újra kell indítani."
+
+#: "Orchard.Commands.DefaultCommandManager"
+msgctxt "Orchard.Commands.DefaultCommandManager"
+msgid "Multiple commands found matching arguments \"{0}\". Commands available: {1}."
+msgstr "A(z) \"{0}\" argumentumoknak több parancs megfelel. Elérhető parancsok: {1}."
+
+#: "Orchard.Commands.DefaultCommandManager"
+msgctxt "Orchard.Commands.DefaultCommandManager"
+msgid "No command found matching arguments \"{0}\". Commands available: {1}."
+msgstr "A(z) \"{0}\" argumentumoknak egy parancs sem felel meg. Elérhető parancsok: {1}."
+
+#: "Orchard.Commands.DefaultOrchardCommandHandler"
+msgctxt "Orchard.Commands.DefaultOrchardCommandHandler"
+msgid "Switch \"{0}\" was not found"
+msgstr "A(z) \"{0}\" kapcsoló nem található"
+
+#: "Orchard.Commands.DefaultOrchardCommandHandler"
+msgctxt "Orchard.Commands.DefaultOrchardCommandHandler"
+msgid "A property \"{0}\" exists but is not decorated with \"{1}\""
+msgstr "A(z) \"{0}\" tulajdonság létezik, de nem rendelkezik \"{1}\" attribútummal"
+
+#: "Orchard.Commands.DefaultOrchardCommandHandler"
+msgctxt "Orchard.Commands.DefaultOrchardCommandHandler"
+msgid "Error converting value \"{0}\" to \"{1}\" for switch \"{2}\""
+msgstr "Hiba a \"{2}\" kapcsoló használata közben a \"{0}\" érték \"{1}\"-ra/re konvertálásakor"
+
+#: "Orchard.Commands.DefaultOrchardCommandHandler"
+msgctxt "Orchard.Commands.DefaultOrchardCommandHandler"
+msgid "(empty)"
+msgstr "(üres)"
+
+#: "Orchard.Commands.DefaultOrchardCommandHandler"
+msgctxt "Orchard.Commands.DefaultOrchardCommandHandler"
+msgid "Command arguments \"{0}\" don't match command definition"
+msgstr "A \"{0}\" argumentum(ok) nem felelnek meg a parancs definíciójával"
+
+#: "Orchard.Commands.DefaultOrchardCommandHandler"
+msgctxt "Orchard.Commands.DefaultOrchardCommandHandler"
+msgid "Method \"{0}\" does not support switch \"{1}\"."
+msgstr "A(z) \"{0}\" metódus nem támogatja a(z) \"{1}\" kapcsolót."
+
+#: "Orchard.Commands.Builtin.HelpCommand"
+msgctxt "Orchard.Commands.Builtin.HelpCommand"
+msgid "List of available commands:"
+msgstr "Elérhető parancsok listája:"
+
+#: "Orchard.Commands.Builtin.HelpCommand"
+msgctxt "Orchard.Commands.Builtin.HelpCommand"
+msgid "---------------------------"
+msgstr "---------------------------"
+
+#: "Orchard.Commands.Builtin.HelpCommand"
+msgctxt "Orchard.Commands.Builtin.HelpCommand"
+msgid "{0}: no help text"
+msgstr "{0}: nincs súgószöveg"
+
+#: "Orchard.Commands.Builtin.HelpCommand"
+msgctxt "Orchard.Commands.Builtin.HelpCommand"
+msgid "Command {0} doesn't exist"
+msgstr "A(z) {0} parancs nem létezik"
+
+#: "Orchard.Data.Migration.DataMigrationNotificationProvider"
+msgctxt "Orchard.Data.Migration.DataMigrationNotificationProvider"
+msgid "Some features need to be upgraded: {0}"
+msgstr "Néhány funkciót frissíteni kell: {0}"
+
+#: "Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter"
+msgctxt "Orchard.Data.Migration.Interpreters.DefaultDataMigrationInterpreter"
+msgid "Error while executing data migration: you need to specify the field's type in order to change its properties"
+msgstr "Hiba történt a data migration végrehajtása közben: tulajdonságainak módosításához meg kell adni a mező típusát"
+
+#: "Orchard.Data.Migration.Interpreters.MySqlCommandInterpreter"
+msgctxt "Orchard.Data.Migration.Interpreters.MySqlCommandInterpreter"
+msgid "Error while executing data migration: you need to specify the field's type in order to change its properties"
+msgstr "Hiba történt a data migration futtatása közben: tulajdonságainak módosításához meg kell adni a mező típusát"
+
+#: "Orchard.DisplayManagement.Implementation.DefaultDisplayManager"
+msgctxt "Orchard.DisplayManagement.Implementation.DefaultDisplayManager"
+msgid "Shape type {0} not found"
+msgstr "A(z) {0} típusú shape nem található"
+
+#: "Orchard.Environment.DefaultHostEnvironment"
+msgctxt "Orchard.Environment.DefaultHostEnvironment"
+msgid "Orchard needs to be restarted due to a configuration change, but was unable to do so.\r\n"
+msgstr "Az Orchard-nak újra kell indulni a konfiguráció megváltozása miatt, de ez nem sikerült.\r\n"
+
+#: "Orchard.Environment.Extensions.ExtensionLoaderCoordinator"
+msgctxt "Orchard.Environment.Extensions.ExtensionLoaderCoordinator"
+msgid "There are multiple extensions with the same name installed in this instance of Orchard.\r\n"
+msgstr "Ebben az Orchard-példányban több azonos nevű bővítmény került telepítésre.\r\n"
+
+#: "Orchard.Environment.Extensions.ExtensionLoaderCoordinator"
+msgctxt "Orchard.Environment.Extensions.ExtensionLoaderCoordinator"
+msgid "Extension '{0}' has been found from the following locations: {1}.\r\n"
+msgstr "A(z) '{0}' funkció a következő helyeken taláható: {1}.\r\n"
+
+#: "Orchard.Environment.Extensions.ExtensionLoaderCoordinator"
+msgctxt "Orchard.Environment.Extensions.ExtensionLoaderCoordinator"
+msgid "This issue can be usually solved by removing or renaming the conflicting extension."
+msgstr "E probléma megoldása általában az ütköző bővítmények eltávolítása vagy átnevezése."
+
+#: "Orchard.Environment.Extensions.ExtensionManager"
+msgctxt "Orchard.Environment.Extensions.ExtensionManager"
+msgid "Error while loading extension '{0}'."
+msgstr "Hiba a(z) '{0}' bővítmény betöltése során."
+
+#: "Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler"
+msgctxt "Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler"
+msgid "Assembly reference '{0}' for project '{1}' cannot be loaded"
+msgstr "A(z) '{0}' DLL-referenciát nem sikerült betölteni a(z) '{1}' projekthez"
+
+#: "Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler"
+msgctxt "Orchard.Environment.Extensions.Compilers.DefaultExtensionCompiler"
+msgid "Error compiling module \"{0}\" from file \"{1}\":\r\n{2}"
+msgstr "Hiba a(z) \"{0}\" modul \"{1}\":\r\n\\{2} file-ból történő fordítása során"
+
+#: "Orchard.Environment.Extensions.Folders.ExtensionHarvester"
+msgctxt "Orchard.Environment.Extensions.Folders.ExtensionHarvester"
+msgid "The extension '{0}' could not be loaded because it has an invalid Path ({1}). It was ignored. The Path if specified must be a valid URL segment. The best bet is to stick with letters and numbers with no spaces."
+msgstr "A(z) '{0}' funkciót nem sikerült betölteni, mert érvénytelen az elérési útvonal ({1}), ezért figyelmen kívül van hagyva. Az elérési útvonalnak, ha meg van adva, érvényes URL-szegmensnek kell lennie. A legjobb módszer, ha csak betűket és számokat tartalmaz, szóközök nélkül."
+
+#: "Orchard.Environment.Extensions.Folders.ExtensionHarvester"
+msgctxt "Orchard.Environment.Extensions.Folders.ExtensionHarvester"
+msgid "The extension '{0}' manifest could not be loaded. It was ignored."
+msgstr "A(z) '{0}' funkció leírását nem sikerült betölteni, ezért figyelmen kívül van hagyva."
+
+#: "Orchard.Environment.Features.FeatureManager"
+msgctxt "Orchard.Environment.Features.FeatureManager"
+msgid "Failed to get state for feature {0}"
+msgstr "Nem sikerült a(z) {0} funkció állapotát beállítani"
+
+#: "Orchard.Environment.Features.FeatureManager"
+msgctxt "Orchard.Environment.Features.FeatureManager"
+msgid "Found {0} states for feature {1}"
+msgstr "A(z) {1} funcióhoz {0} állapotok érhetők el"
+
+#: "Orchard.Events.DefaultOrchardEventBus"
+msgctxt "Orchard.Events.DefaultOrchardEventBus"
+msgid "{0} is not formatted correctly"
+msgstr "{0} formázása hibás"
+
+#: "Orchard.FileSystems.AppData.AppDataFolder"
+msgctxt "Orchard.FileSystems.AppData.AppDataFolder"
+msgid "Unable to make room for file \"{0}\" in \"App_Data\" folder"
+msgstr "Az \"App_Data\" mappában nem biztosítható hely a(z) \"{0}\" fájl számára"
+
+#. "File {0} does not exist"
+msgctxt "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgid "File {0} does not exist"
+msgstr "A(z) {0} fájl nem létezik"
+
+#. "Directory {0} does not exist"
+msgctxt "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgid "Directory {0} does not exist"
+msgstr "A(z) {0} könyvtár nem létezik"
+
+#: "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgctxt "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgid "The folder could not be created at path: {0}. {1}"
+msgstr "A mappa nem hozható létre a következő elérési útvonalon: {0}. {1}"
+
+#. "Directory {0} already exists"
+msgctxt "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgid "Directory {0} already exists"
+msgstr "A(z) {0} könyvtár már létezik"
+
+#. "File {0} already exists"
+msgctxt "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgid "File {0} already exists"
+msgstr "A(z) {0} fájl már létezik"
+
+#: "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgctxt "Orchard.FileSystems.Media.FileSystemStorageProvider"
+msgid "Directory {0} does not have a parent directory"
+msgstr "A(z) {0} könyvtár nem rendelkezik szülő könyvtárral"
+
+#: "Orchard.Localization.Commands.CultureCommands"
+msgctxt "Orchard.Localization.Commands.CultureCommands"
+msgid "Listing Cultures:"
+msgstr "Telepített nyelvi csomagok listája:"
+
+#: "Orchard.Localization.Commands.CultureCommands"
+msgctxt "Orchard.Localization.Commands.CultureCommands"
+msgid "Site Culture is {0}"
+msgstr "A webhely nyelve: {0}"
+
+#: "Orchard.Localization.Commands.CultureCommands"
+msgctxt "Orchard.Localization.Commands.CultureCommands"
+msgid "Setting site culture to {0}"
+msgstr "A webhely nyelvének beállítása erre: {0}"
+
+#. "Supplied culture name {0} is not valid."
+msgctxt "Orchard.Localization.Commands.CultureCommands"
+msgid "Supplied culture name {0} is not valid."
+msgstr "A megadott nyelvi csomag név {0} érvénytelen."
+
+#: "Orchard.Localization.Commands.CultureCommands"
+msgctxt "Orchard.Localization.Commands.CultureCommands"
+msgid "Site culture set to {0} successfully"
+msgstr "A webhely nyelve beállítva erre: {0}"
+
+#: "Orchard.Localization.Commands.CultureCommands"
+msgctxt "Orchard.Localization.Commands.CultureCommands"
+msgid "Adding site cultures {0}"
+msgstr "{0} nyelvek hozzáadása az oldal beállításaihoz"
+
+#: "Orchard.Mvc.DataAnnotations.LocalizedRangeAttribute"
+msgctxt "Orchard.Mvc.DataAnnotations.LocalizedRangeAttribute"
+msgid "The field {0} must be between {1} and {2}."
+msgstr "A(z) {0} mező értékének {1} és {2} között kell lennie."
+
+#: "Orchard.Mvc.DataAnnotations.LocalizedRegularExpressionAttribute"
+msgctxt "Orchard.Mvc.DataAnnotations.LocalizedRegularExpressionAttribute"
+msgid "The field {0} must match the regular expression '{1}'."
+msgstr "A(z) {0} mező értékének illeszkednie kell a '{1}' regex-hez."
+
+#: "Orchard.Mvc.DataAnnotations.LocalizedRequiredAttribute"
+msgctxt "Orchard.Mvc.DataAnnotations.LocalizedRequiredAttribute"
+msgid "The {0} field is required."
+msgstr "A(z) {0} mezőt kötelező kitölteni."
+
+#: "Orchard.Mvc.DataAnnotations.LocalizedStringLengthAttribute"
+msgctxt "Orchard.Mvc.DataAnnotations.LocalizedStringLengthAttribute"
+msgid "The field {0} must be a string with a minimum length of {2} and a maximum length of {1}."
+msgstr "A(z) {0} mező értéke egy karakterlánc kell, hogy legyen, melynek hossza {2} és {1} között van."
+
+#: "Orchard.Mvc.DataAnnotations.LocalizedStringLengthAttribute"
+msgctxt "Orchard.Mvc.DataAnnotations.LocalizedStringLengthAttribute"
+msgid "The field {0} must be a string with a maximum length of {1}."
+msgstr "A(z) {0} mező értékének egy maximum {1} karakter hosszúságú karakterláncnak kell lennie."
+
+#: "Orchard.Security.Authorizer"
+msgctxt "Orchard.Security.Authorizer"
+msgid "{0}. Anonymous users do not have {1} permission."
+msgstr "{0}. A névtelen felhasználók nem rendelkeznek {1} engedéllyel."
+
+#: "Orchard.Security.Authorizer"
+msgctxt "Orchard.Security.Authorizer"
+msgid "{0}. Current user, {2}, does not have {1} permission."
+msgstr "{0}. A jelenlegi felhasználó, {2} nem rendelkezik {1} engedéllyel."
+
+#: "Orchard.UI.Admin.AdminFilter"
+msgctxt "Orchard.UI.Admin.AdminFilter"
+msgid "Can't access the admin"
+msgstr "Nincs hozzáférése az adminfelülethez"
+
+#. "Hello world"
+msgctxt "Orchard.Tests.UI.Notify.NotifierTests"
+msgid "Hello world"
+msgstr "Helló világ"
+
+#. "More Info"
+msgctxt "Orchard.Tests.UI.Notify.NotifierTests"
+msgid "More Info"
+msgstr "További információ"
+
+#. "Boom"
+msgctxt "Orchard.Tests.UI.Notify.NotifierTests"
+msgid "Boom"
+msgstr "Bumm"
+

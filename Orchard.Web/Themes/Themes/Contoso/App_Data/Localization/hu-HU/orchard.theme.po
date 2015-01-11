@@ -1,0 +1,42 @@
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Name"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "Contoso"
+msgstr "Contoso"
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Author"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Description"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "A subtle and simple CMS theme perfect for any modern product or service business website."
+msgstr "Egy kifinomult és egyszerű CMS téma, ami tökéletes bármely modern termék- vagy szolgáltatásorientált üzleti webhely számára."
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Tags"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "business, cms, modern, simple, subtle, product, service"
+msgstr "üzlet, cms, modern, egyszerű, kifinomult, termék, szolgáltatás"
+
+#: ~/Themes/Contoso/Theme.txt
+#| msgid "Website"
+msgctxt "~/Themes/Contoso/Theme.txt"
+msgid "http://www.orchardproject.net"
+msgstr "http://www.orchardproject.net"
+
+#: ~/Themes/Contoso/Views/BadgeOfHonor.cshtml
+#| msgid "&#169; Contoso Company 2010."
+msgctxt "~/Themes/Contoso/Views/BadgeOfHonor.cshtml"
+msgid "&#169; Contoso Company 2010."
+msgstr "&#169; Contoso Company 2010."
+
+#: ~/Themes/Contoso/Views/BadgeOfHonor.cshtml
+#| msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+msgctxt "~/Themes/Contoso/Views/BadgeOfHonor.cshtml"
+msgid "Powered by <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+msgstr "Támogatja az <a href=\"{0}\" target=\"_blank\">Orchard</a>"
+

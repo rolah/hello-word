@@ -1,0 +1,441 @@
+msgctxt "~/Modules/Orchard.MediaProcessing/Module.txt"
+msgid "Media Processing"
+msgstr "Médiaszerkesztő"
+
+msgctxt "~/Modules/Orchard.MediaProcessing/Module.txt"
+msgid "John Murdock, Sébastien Ros"
+msgstr "John Murdock, Sébastien Ros"
+
+msgctxt "~/Modules/Orchard.MediaProcessing/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.MediaProcessing/Module.txt"
+msgid "Module for processing Media e.g. image resizing"
+msgstr "Médiaelemek szerkesztése, pl. képek átméretezése"
+
+#: "Orchard.MediaProcessing.AdminMenu"
+msgctxt "Orchard.MediaProcessing.AdminMenu"
+msgid "Media"
+msgstr "Média"
+
+#: "Orchard.MediaProcessing.AdminMenu"
+msgctxt "Orchard.MediaProcessing.AdminMenu"
+msgid "Profiles"
+msgstr "Profilok"
+
+#: "Orchard.MediaProcessing.Controllers.AdminController"
+msgctxt "Orchard.MediaProcessing.Controllers.AdminController"
+msgid "Not authorized to list media profiles"
+msgstr "Nincs engedélye médiaprofilok megjelenítésére"
+
+#. "Not authorized to manage media profiles"
+msgctxt "Orchard.MediaProcessing.Controllers.AdminController"
+msgid "Not authorized to manage media profiles"
+msgstr "Nincs engedélye médiaprofilok kezelésére"
+
+#: "Orchard.MediaProcessing.Controllers.AdminController"
+msgctxt "Orchard.MediaProcessing.Controllers.AdminController"
+msgid "Not authorized to edit media profiles"
+msgstr "Nincs engedélye médiaprofilok szerkesztésére"
+
+#: "Orchard.MediaProcessing.Controllers.AdminController"
+msgctxt "Orchard.MediaProcessing.Controllers.AdminController"
+msgid "Image Profile {0} deleted"
+msgstr "A(z) {0} képprofil törölve"
+
+#. "Not authorized to manage image profiles"
+msgctxt "Orchard.MediaProcessing.Controllers.FilterController"
+msgid "Not authorized to manage image profiles"
+msgstr "Nincs engedélye képprofilok kezelésére"
+
+#: "Orchard.MediaProcessing.Controllers.FilterController"
+msgctxt "Orchard.MediaProcessing.Controllers.FilterController"
+msgid "Filter deleted"
+msgstr "Szűrő törölve"
+
+#: "Orchard.MediaProcessing.Drivers.ImageProfilePartDriver"
+msgctxt "Orchard.MediaProcessing.Drivers.ImageProfilePartDriver"
+msgid "The Name can't be empty."
+msgstr "A profil nevét meg kell adni"
+
+#: "Orchard.MediaProcessing.Drivers.ImageProfilePartDriver"
+msgctxt "Orchard.MediaProcessing.Drivers.ImageProfilePartDriver"
+msgid "A profile with the same Name already exists."
+msgstr "Már létezik profil ezzel a névvel."
+
+#: "Orchard.MediaProcessing.Drivers.ImageProfilePartDriver"
+msgctxt "Orchard.MediaProcessing.Drivers.ImageProfilePartDriver"
+msgid "The Name can only contain letters and numbers without spaces"
+msgstr "A profil neve csak betűket és számokat tartalmazhat, szóközök nélkül"
+
+#. "Transform"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Transform"
+msgstr "Transzformálás"
+
+#. "Format"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Format"
+msgstr "Formátum"
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Change the format of the image."
+msgstr "Megváltoztatja a kép formátumát."
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Format the image to {0}"
+msgstr "A kép formátumának megváltoztatása a következőre: {0}"
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "The target format of the image."
+msgstr "A kép kimeneti formátuma."
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Quality"
+msgstr "Minőség"
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "JPeg compression quality, from 0 to 100."
+msgstr "JPEG tömörítési minőség 0 és 100 között"
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Jpeg"
+msgstr "JPEG"
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Gif"
+msgstr "GIF"
+
+#: "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.FormatFilter"
+msgid "Png"
+msgstr "PNG"
+
+#. "Transform"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Transform"
+msgstr "Transzformálás"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Resize"
+msgstr "Átméretezés"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Resizes using predefined height or width."
+msgstr "Átméretez a megadott szélességre és magasságra."
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Pad to {0}x{1}"
+msgstr "Kiegészítés méretre: {0}x{1}"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Crop to {0}x{1}"
+msgstr "Méretre vágás: {0}x{1}"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Stretch to {0}x{1}"
+msgstr "Nyújtás méretre: {0}x{1}"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Resize to {0}x{1}"
+msgstr "Átméretezés: {0}x{1}"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Width"
+msgstr "Szélesség"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "The width in pixels."
+msgstr "A szélesség pixelben."
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Height"
+msgstr "Magasság"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "The height in pixels."
+msgstr "A magasság pixelben."
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Mode"
+msgstr "Mód"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "How the image should be resized.<br />Max: adjusts to the max given width or height, keeping image ratio.<br />Pad: adds a padding so that the target image is exactly of width and height.<br />Crop: removes part of the image to fit with given height and width.<br />Stretch: stretches the image to fit within height and width."
+msgstr "A kép átméretezési beállításai.<br />Maximum: a kép szélességét vagy magasságát a megadott maximumhoz igazítja, megtartva a méretarányt.<br />Kiegészítés: a képet kiegészíti a megadott szélesség és magasság értékekre.<br />Levágás: levágja a kép egy részét, hogy az illeszkedjen a megadott szélességhez és magassághoz.<br />Nyújtás: megnyújtja a képet, hogy az illeszkedjen a megadott szélességhez és magassághoz."
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Select the alignment for Crop and Pad modes."
+msgstr "Válassza ki az igazítást a levágás és kiegészítés műveletekhez."
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Pad Color"
+msgstr "Kiegészítés színe"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "The background color to use to pad the image e.g., #ffffff, red. Leave empty to keep transparency."
+msgstr "A háttérszín a kép kiegészítéséhez, pl. #ffffff, red. Hagyja üresen, hogy átlátszó legyen."
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Max"
+msgstr "Maximum"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Pad"
+msgstr "Kiegészítés"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Crop"
+msgstr "Levágás"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Stretch"
+msgstr "Nyújtás"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Top Left"
+msgstr "Felül baloldalt"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Top Center"
+msgstr "Felül középen"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Top Right"
+msgstr "Felül jobboldalt"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Middle Left"
+msgstr "Középen baloldalt"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Middle Center"
+msgstr "Középpont"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Middle Right"
+msgstr "Középen jobboldalt"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Bottom Left"
+msgstr "Alul baloldalt"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Bottom Center"
+msgstr "Alul középen"
+
+#: "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgctxt "Orchard.MediaProcessing.Providers.Filters.ResizeFilter"
+msgid "Bottom Right"
+msgstr "Alul jobboldalt"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Edit Media Profile - {0}"
+msgstr "Médiaprofil szerkesztése - {0}"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Filters"
+msgstr "Szűrők"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Add a new Filter"
+msgstr "Új szűrő hozzáadása"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "Töröl"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Up"
+msgstr "Fel"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Down"
+msgstr "Le"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Usage example: "
+msgstr "Felhasználási példa: "
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Edit.cshtml"
+msgid "Close"
+msgstr "Bezár"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Profiles"
+msgstr "Profilok"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Add a new Media Profile"
+msgstr "Új médiaprofil hozzáadása"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "Mutat:"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "Mind"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrés"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Admin/Index.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/EditorTemplates/Parts.MediaProcessing.ImageProfilePart.cshtml"
+msgid "The technical name of the profile. Must be letters and numbers only (e.g. Thumbnail)."
+msgstr "A profil technikai neve. Csak betűket és számokat tartalmazhat, pl. Előnézet."
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgid "Add a Filter"
+msgstr "Szűrő hozzáadása"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgid "There are no currently available filters"
+msgstr "Jelenleg nincsenek szűrők"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Add.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgid "Edit Filter - {0}"
+msgstr "Szűrő szerkesztése - {0}"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgstr "Lehetősége van megadni egy leírást, amely az Admin-felületen jelenik majd meg."
+
+#: "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaProcessing/Views/Filter/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+

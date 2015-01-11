@@ -1,0 +1,493 @@
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "Blogs"
+msgstr "Blogok"
+
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "The Orchard Blogs module is implementing basic blogging features."
+msgstr "Az Orchard Blogs (blogok) modul alapszintű blogolási funkciókat valósít meg."
+
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "Remote Blog Publishing"
+msgstr "Távoli blog közzététel"
+
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "Blog easier using a dedicated MetaWeblogAPI-compatible publishing tool."
+msgstr "Blogoljon egyszerűbben egy MetaWeblogAPI-képes tartalomszerkesztő eszközzel."
+
+msgctxt "~/Modules/Orchard.Blogs/Module.txt"
+msgid "Content Publishing"
+msgstr "Tartalom közzététele"
+
+#: "Orchard.Blogs.AdminMenu"
+msgctxt "Orchard.Blogs.AdminMenu"
+msgid "Blog"
+msgstr "Blog"
+
+#: "Orchard.Blogs.AdminMenu"
+msgctxt "Orchard.Blogs.AdminMenu"
+msgid "Manage Blogs"
+msgstr "Blogok kezelése"
+
+#: "Orchard.Blogs.AdminMenu"
+msgctxt "Orchard.Blogs.AdminMenu"
+msgid "Manage Blog"
+msgstr "Blogok kezelése"
+
+#: "Orchard.Blogs.AdminMenu"
+msgctxt "Orchard.Blogs.AdminMenu"
+msgid "New Post"
+msgstr "Új bejegyzés"
+
+#: "Orchard.Blogs.AdminMenu"
+msgctxt "Orchard.Blogs.AdminMenu"
+msgid "New Blog"
+msgstr "Új blog"
+
+#. "Invalid username: {0}"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Invalid username: {0}"
+msgstr "Érvénytelen felhasználónév: {0}"
+
+#: "Orchard.Blogs.Commands.BlogCommands"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Blog created successfully"
+msgstr "A blog sikeresen létrejött"
+
+#: "Orchard.Blogs.Commands.BlogCommands"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Loading feed..."
+msgstr "Hírfolyam betöltése..."
+
+#: "Orchard.Blogs.Commands.BlogCommands"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Found {0} items"
+msgstr "Talált elemek száma: {0}"
+
+#: "Orchard.Blogs.Commands.BlogCommands"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "An error occured while loading the feed at {0}."
+msgstr "Hiba történt a következő helyen lévő hírfolyam betöltése folyamán: {0}"
+
+#. "Blog not found with specified Id: {0}"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Blog not found with specified Id: {0}"
+msgstr "Nem található blog a megadott Id-val: {0}"
+
+#: "Orchard.Blogs.Commands.BlogCommands"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Adding post: {0}..."
+msgstr "Bejegyzés hozzáadása: {0}..."
+
+#: "Orchard.Blogs.Commands.BlogCommands"
+msgctxt "Orchard.Blogs.Commands.BlogCommands"
+msgid "Import feed completed."
+msgstr "Hírfolyam importálása befejeződött."
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Not allowed to create blogs"
+msgstr "Nem hozhat létre blogokat"
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Couldn't create blog"
+msgstr "A blog létrehozása nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Not allowed to edit blog"
+msgstr "Nem módosíthat blogokat"
+
+#. "Couldn't delete blog"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Couldn't delete blog"
+msgstr "A blog törlése nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Blog deleted"
+msgstr "Blog törölve"
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Couldn't edit blog"
+msgstr "A blog módosítása nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Blog information updated"
+msgstr "Blogadatok frissítve"
+
+#: "Orchard.Blogs.Controllers.BlogAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogAdminController"
+msgid "Blog was successfully deleted"
+msgstr "A blogot sikerült törölni"
+
+#: "Orchard.Blogs.Controllers.BlogController"
+msgctxt "Orchard.Blogs.Controllers.BlogController"
+msgid "Cannot view content"
+msgstr "Nincs engedélye megtekinteni a tartalmat"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Not allowed to create blog post"
+msgstr "Nem hozhat létre blogbejegyzést"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't create content"
+msgstr "A tartalom létrehozása nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't create blog post"
+msgstr "A blogbejegyzés létrehozása nem sikerült"
+
+#. "Couldn't publish blog post"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't publish blog post"
+msgstr "A blogbejegyzés közzététele nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Your {0} has been created."
+msgstr "{0} létrehozása megtörtént."
+
+#. "Couldn't edit blog post"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't edit blog post"
+msgstr "A blogbejegyzés módosítása nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Your {0} has been saved."
+msgstr "{0} mentése megtörtént."
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "There is no draft to discard."
+msgstr "Nincs elvethető piszkozat."
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't discard blog post draft"
+msgstr "A blogbejegyzés-piszkozat elvetése nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Can not discard draft on unpublished blog post."
+msgstr "Piszkozat vagy nem közzétett blogbejegyzés nem vethető el."
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Blog post draft version discarded"
+msgstr "A blogbejegyzés piszkozata elvetve."
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't delete blog post"
+msgstr "A blogbejegyzés törlése nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Blog post was successfully deleted"
+msgstr "A blogbejegyzés törlése megtörtént."
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Blog post successfully published."
+msgstr "A blogbejegyzés közzététele megtörtént."
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Couldn't unpublish blog post"
+msgstr "A blogbejegyzés közzétételének visszavonása nem sikerült"
+
+#: "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgctxt "Orchard.Blogs.Controllers.BlogPostAdminController"
+msgid "Blog post successfully unpublished."
+msgstr "A blogbejegyzés közzétételének visszavonása megtörtént."
+
+#: "Orchard.Blogs.Services.XmlRpcHandler"
+msgctxt "Orchard.Blogs.Services.XmlRpcHandler"
+msgid "The specified Blog Post doesn't exist anymore. Please create a new Blog Post."
+msgstr "A megadott blogbejegyzés már nem létezik. Kérjük hozzon létre egy új blogbejegyzést."
+
+#: "Orchard.Blogs.Services.XmlRpcHandler"
+msgctxt "Orchard.Blogs.Services.XmlRpcHandler"
+msgid "The username or e-mail or password provided is incorrect."
+msgstr "A megadott felhasználónév, e-mail vagy jelszó hibás."
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Blogs/Views/Blog.DeleteButton.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-Blog.DetailAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-Blog.DetailAdmin.cshtml"
+msgid "Manage {0}"
+msgstr "{0} kezelése"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-Blog.DetailAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-Blog.DetailAdmin.cshtml"
+msgid "New Post"
+msgstr "Új bejegyzés"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-Blog.Edit.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-Blog.Edit.cshtml"
+msgid "New Blog"
+msgstr "Új blog"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "View"
+msgstr "Megtekintés"
+
+#. " | "
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "Publish Draft"
+msgstr "Piszkozat közzétele"
+
+#. "Preview"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "Publish"
+msgstr "Közzététel"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Content-BlogPost.SummaryAdmin.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.BlogPostCount.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.BlogPostCount.cshtml"
+msgid "1 post"
+msgstr "1 bejegyzés"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.BlogPostCount.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.BlogPostCount.cshtml"
+msgid "{0} posts"
+msgstr "{0} bejegyzés"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.Manage.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.Manage.cshtml"
+msgid "Blog Properties"
+msgstr "Blog tulajdonságai"
+
+#. "List Posts"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.SummaryAdmin.cshtml"
+msgid "List Posts"
+msgstr "Bejegyzések"
+
+#. " | "
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#. "New Post"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.Blog.SummaryAdmin.cshtml"
+msgid "New Post"
+msgstr "Új bejegyzés"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogArchives.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogArchives.cshtml"
+msgid "None found"
+msgstr "Egy sem található"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.List.cshtml"
+msgid "There are no posts for this blog."
+msgstr "Ehhez a bloghoz nem tartoznak bejegyzések."
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "Unpublish"
+msgstr "Visszavonás"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Parts.Blogs.BlogPost.ListAdmin.cshtml"
+msgid "There are no posts for this blog."
+msgstr "Ehhez a bloghoz nem tartoznak bejegyzések."
+
+#: "~/Modules/Orchard.Blogs/Views/Blog/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/Blog/List.cshtml"
+msgid "No blogs found."
+msgstr "Egy blog sincs."
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/Create.cshtml"
+msgid "New Blog"
+msgstr "Új blog"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/Edit.cshtml"
+msgid "Blog Properties"
+msgstr "Blog tulajdonságai"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/Item.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/Item.cshtml"
+msgid "Manage Blog"
+msgstr "Blog kezelése"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "Manage Blogs"
+msgstr "Blogok kezelése"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "New Blog"
+msgstr "Új blog"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogAdmin/List.cshtml"
+msgid "There are no blogs for you to see. Want to <a href=\"{0}\">add one</a>?"
+msgstr "Nincsenek megjeleníthető blogok. Kíván <a href=\"{0}\">hozzáadni egyet</a>?"
+
+#. "Archives"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogPost/ListByArchive.cshtml"
+msgid "Archives"
+msgstr "Archívum"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogPostAdmin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogPostAdmin/Create.cshtml"
+msgid "New Post"
+msgstr "Új bejegyzés"
+
+#: "~/Modules/Orchard.Blogs/Views/BlogPostAdmin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/BlogPostAdmin/Edit.cshtml"
+msgid "Edit Blog Post"
+msgstr "Blogbejegyzés szerkesztése"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgid "Feed proxy Url"
+msgstr "RRS-feed proxy URL"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgid "Provide a custom public url which will be used to proxy the local rss feed."
+msgstr "Egy nyilvános URL-t tesz elérhetővé a helyi RSS-feed proxy-nak."
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgid "The current feed is available at <a href=\"{0}\">{0}</a>."
+msgstr "A jelenlegi RSS-feed a <a href=\"{0}\">{0}</a> címen érhető el."
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgid "Render a comments rss feed"
+msgstr "Hozzászólásokat tartalmazó RSS-feed megjelenítése"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.Blog.Fields.cshtml"
+msgid "Enable to render the comments rss feed."
+msgstr "A hozzászólásokat tartalmazó RSS-feed engedélyezése."
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.BlogArchives.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.BlogArchives.cshtml"
+msgid "For Blog"
+msgstr "Bloghoz"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.BlogArchives.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.BlogArchives.cshtml"
+msgid "Select which blog you want to display the archives for"
+msgstr "Blog választása az archív bejegyzések megjelenítéséhez"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgid "For Blog"
+msgstr "Bloghoz"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgid "Select which blog you want to display the recent posts for"
+msgstr "Blog választása az utolsó bejegyzések megjelenítéséhez"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgid "Count"
+msgstr "Darabszám"
+
+#: "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgctxt "~/Modules/Orchard.Blogs/Views/EditorTemplates/Parts.Blogs.RecentBlogPosts.cshtml"
+msgid "Number of posts to display. Zero for all."
+msgstr "A megjelenítendő bejegyzések száma. Nulla esetén az összes megjelenik."
+

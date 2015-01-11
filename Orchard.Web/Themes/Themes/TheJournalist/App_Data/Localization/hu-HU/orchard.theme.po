@@ -1,0 +1,216 @@
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Name"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "The Journalist"
+msgstr "The Journalist"
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Author"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "Lucian E. Martin, Sébastien Ros"
+msgstr "Lucian E. Martin, Sébastien Ros"
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Description"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "Journalist is a smart, minimal theme designed for professional journalists."
+msgstr "A Journalist egy okos, minimalista téma profi újságíróknak."
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Tags"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "clean, conservative, light, minimal"
+msgstr "letisztult, konzervatív, egyszerű, minimalista"
+
+#: ~/Themes/TheJournalist/Theme.txt
+#| msgid "Website"
+msgctxt "~/Themes/TheJournalist/Theme.txt"
+msgid "http://thejournalisttheme.codeplex.com"
+msgstr "http://thejournalisttheme.codeplex.com"
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Please enter your username and password."
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Please enter your username and password."
+msgstr "Kérem adja meg felhasználónevét és jelszavát."
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Register"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Register"
+msgstr "Regisztráció"
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid " if you don't have an account."
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid " if you don't have an account."
+msgstr " ha még nincs felhasználói fiókja."
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Lost your Password?"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Lost your Password?"
+msgstr "Elvesztette jelszavát?"
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Login was unsuccessful. Please correct the errors and try again."
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Login was unsuccessful. Please correct the errors and try again."
+msgstr "Sikerterlen bejelentkezés. Kérem javítsa a hibákat és próbálja újra."
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Username"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Password"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Password"
+msgstr "Jelszó"
+
+#: ~/Themes/TheJournalist/Views/LogOn.cshtml
+#| msgid "Sign In"
+msgctxt "~/Themes/TheJournalist/Views/LogOn.cshtml"
+msgid "Sign In"
+msgstr "Bejelentkezés"
+
+#: ~/Themes/TheJournalist/Views/Pager.cshtml
+#| msgid "Older"
+msgctxt "~/Themes/TheJournalist/Views/Pager.cshtml"
+msgid "Older"
+msgstr "Régebbiek"
+
+#: ~/Themes/TheJournalist/Views/Pager.cshtml
+#| msgid "Newer"
+msgctxt "~/Themes/TheJournalist/Views/Pager.cshtml"
+msgid "Newer"
+msgstr "Újabbak"
+
+#: ~/Themes/TheJournalist/Views/Parts.Blogs.BlogPost.List.cshtml
+#| msgid "There are no posts for this blog."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Blogs.BlogPost.List.cshtml"
+msgid "There are no posts for this blog."
+msgstr "Ebben a blogban nincs bejegyzés."
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml
+#| msgid "leave a comment"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml"
+msgid "leave a comment"
+msgstr "szóljon hozzá"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml
+#| msgid "one comment"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml"
+msgid "one comment"
+msgstr "egy hozzászólás"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml
+#| msgid "{0} comments"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.Count.cshtml"
+msgid "{0} comments"
+msgstr "{0} hozzászólás"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Comments are closed."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Comments are closed."
+msgstr "Nem lehet hozzászólni."
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "You must {0} to comment."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "You must {0} to comment."
+msgstr "Hozzászóláshoz {0}."
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "log on"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "log on"
+msgstr "bejelentkezés"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Name"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "(required)"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "(required)"
+msgstr "kötelező"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Mail (will not be published)"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Mail (will not be published)"
+msgstr "E-mail (nem jelenik meg nyilvánosan)"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Logged in as {0}."
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Logged in as {0}."
+msgstr "Bejelentkezve {0} néven."
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "Please review your comment before submitting"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "Please review your comment before submitting"
+msgstr "Elküldés előtt kérem olvassa át hozzászólását"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "1 Comment"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "1 Comment"
+msgstr "1 hozzászólás"
+
+#: ~/Themes/TheJournalist/Views/Parts.Comments.cshtml
+#| msgid "{0} Comments"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Comments.cshtml"
+msgid "{0} Comments"
+msgstr "{0} hozzászólás"
+
+#: ~/Themes/TheJournalist/Views/Parts.Common.Metadata.cshtml
+#| msgid "at"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Common.Metadata.cshtml"
+msgid "at"
+msgstr "-"
+
+#: ~/Themes/TheJournalist/Views/Parts.Tags.ShowTags.cshtml
+#| msgid "Tagged with"
+msgctxt "~/Themes/TheJournalist/Views/Parts.Tags.ShowTags.cshtml"
+msgid "Tagged with"
+msgstr "Címkéi:"
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "Search"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "There is <em>one</em> result"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "There is <em>one</em> result"
+msgstr "<em>Egy</em> találat"
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "<em>zero</em> results"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "<em>zero</em> results"
+msgstr "<em>nincs</em> találat"
+
+#: ~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml
+#| msgid "<em>{1} - {2}</em> of <em>{0}</em> results"
+msgctxt "~/Themes/TheJournalist/Views/Orchard.Search/Search/Index.cshtml"
+msgid "<em>{1} - {2}</em> of <em>{0}</em> results"
+msgstr "<em>{0}</em> találat <em>{1} - {2}</em> közül"
+
+#: ~/Themes/TheJournalist/Views/Parts/Search.SearchForm.cshtml
+#| msgid "Search"
+msgctxt "~/Themes/TheJournalist/Views/Parts/Search.SearchForm.cshtml"
+msgid "Search"
+msgstr "Keresés"
+

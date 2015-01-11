@@ -1,0 +1,204 @@
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "UpgradeTo16"
+msgstr "UpgradeTo16"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "Description for the module"
+msgstr "Description for the module"
+
+#: ~/Modules/UpgradeTo16/Module.txt
+#| msgid "UpgradeTo16.Description"
+msgctxt "~/Modules/UpgradeTo16/Module.txt"
+msgid "Description for feature UpgradeTo16."
+msgstr "Az UpgradeTo16 modul leírása."
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Upgrade to 1.6"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Upgrade to 1.6"
+msgstr "1.6-ra migrálás"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Routes"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Routes"
+msgstr "Elérési utak migrálása"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Fields"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Fields"
+msgstr "Mezők migrálása"
+
+#: UpgradeTo16.AdminMenu
+#| msgid "Migrate Menu"
+msgctxt "UpgradeTo16.AdminMenu"
+msgid "Migrate Menu"
+msgstr "Menü migrálás"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "There are no content types with custom fields"
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "There are no content types with custom fields"
+msgstr "Nincsenek egyéni mezőkkel rendelkező tartalomtípusok"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr "Engedélyeznie kell az Orchard.Fields modult a jelenlegi mezők migrálásához. Ezután biztonságosan eltávolíthatja a Contrib.DateTimeField és Contrib.MediaPickerField mezőket."
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "Not allowed to migrate fields."
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "Not allowed to migrate fields."
+msgstr "Nincs engedélye mezőket migrálni"
+
+#: UpgradeTo16.Controllers.FieldController
+#| msgid "{0} fields were migrated successfully"
+msgctxt "UpgradeTo16.Controllers.FieldController"
+msgid "{0} fields were migrated successfully"
+msgstr "{0} mező sikeresen migrálva"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "This step is unnecessary as some menus already exist."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "This step is unnecessary as some menus already exist."
+msgstr "Ezt a lépést kihagyhatja, mivel már van létrehozva menü."
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Not allowed to migrate the navigation."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Not allowed to migrate the navigation."
+msgstr "Nincs engedélye a menük migrálásához."
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Main menu created"
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Main menu created"
+msgstr "\"Main menu\" létrehozva."
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Menu items moved to Main menu"
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Menu items moved to Main menu"
+msgstr "Menüelemek átmozgatva a \"Main menu\"-be"
+
+#: UpgradeTo16.Controllers.MenuController
+#| msgid "Widget could not be created. Please create it manually."
+msgctxt "UpgradeTo16.Controllers.MenuController"
+msgid "Widget could not be created. Please create it manually."
+msgstr "A widget létrehozása nem sikerült. Kérem hozza létre manuálisan."
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "There are no content types with RoutePart"
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "There are no content types with RoutePart"
+msgstr "Nincsenek RoutePart-tal rendelkező tartalomtípusok"
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "Not allowed to migrate routes."
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "Not allowed to migrate routes."
+msgstr "Nincs engedélye elérési utakat migrálni."
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr "Néhány tartalomelemet nem lehet importálni. Kérem tekintse meg az idevonatkozó jelentést."
+
+#: UpgradeTo16.Controllers.RouteController
+#| msgid "{0} was migrated successfully"
+msgctxt "UpgradeTo16.Controllers.RouteController"
+msgid "{0} was migrated successfully"
+msgstr "{0} sikeresen migrálva"
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Migrate Fields"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Migrate Fields"
+msgstr "Mezők migrálása"
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr "Válassza ki a migrálandó típusokat:"
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgstr "A mezők migrálása. Engedélyeznie kell az Orchard.Fields modult és amennyiben telepítve vannak, távolítsa el a Contrib.DateTime és Contrib.MediaPicker modulokat."
+
+#: ~/Modules/UpgradeTo16/Views/Field/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Field/Index.cshtml"
+msgid "Migrate"
+msgstr "Migrálás"
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrate Menu"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrate Menu"
+msgstr "Menü migrálás"
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrating Menu:"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrating Menu:"
+msgstr "Menü migrálása:"
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "This migration step will create a new Menu named \"Main Menu\" and add all your previous menu items to it. Finally it will create a new \"Menu Widget\" instance to render this menu on the website."
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "This migration step will create a new Menu named \"Main Menu\" and add all your previous menu items to it. Finally it will create a new \"Menu Widget\" instance to render this menu on the website."
+msgstr "Ez a migrálási folyamat létrehoz egy új menüt \"Main menu\" névvel és minden korábbi menüelemet hozzáad. Végül létrehoz egy új \"Menu Widget\" példányt, amely megjeleníti a menüt a weboldalon."
+
+#: ~/Modules/UpgradeTo16/Views/Menu/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Menu/Index.cshtml"
+msgid "Migrate"
+msgstr "Migrálás"
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Migrate Routes"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Migrate Routes"
+msgstr "Elérési utak migrálása"
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr "Válassza ki a migrálandó típusokat:"
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgstr "A migrálási folyamat eltávolítja a Route és Title tulajdonságokat, majd hozzáadja az Autoroute és Title tartalomrészeket a kiválasztott tartalomtípusokhoz tartozó összes elemhez."
+
+#: ~/Modules/UpgradeTo16/Views/Route/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo16/Views/Route/Index.cshtml"
+msgid "Migrate"
+msgstr "Migrálás"
+

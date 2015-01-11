@@ -62,8 +62,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>Contrib.PlacesField</ModuleName>
-    <VirtualPath>~/Modules/Contrib.PlacesField/bin/Contrib.PlacesField.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Contrib.PlacesField/Contrib.PlacesField.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References>
       <Reference>
         <Name>RestSharp</Name>
@@ -121,8 +121,8 @@
   </Dependency>
   <Dependency>
     <ModuleName>JWPlayer</ModuleName>
-    <VirtualPath>~/Modules/JWPlayer/bin/JWPlayer.dll</VirtualPath>
-    <LoaderName>PrecompiledExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/JWPlayer/JWPlayer.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
     <References />
   </Dependency>
   <Dependency>

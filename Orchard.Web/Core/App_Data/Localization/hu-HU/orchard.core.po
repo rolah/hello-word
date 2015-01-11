@@ -1,0 +1,1918 @@
+msgctxt "~/Core/Common/Module.txt"
+msgid "Common"
+msgstr "Közös (common)"
+
+msgctxt "~/Core/Common/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Common/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Common/Module.txt"
+msgid "The common module introduces content parts that are going to be used by most content types (common, body, identity)."
+msgstr "A Common modul azokat a tartalomrészeket vezeti be, amelyek a leggyakrabban használt tartalomtípusok (Common, Body, Identity) lesznek."
+
+msgctxt "~/Core/Containers/Module.txt"
+msgid "Containers"
+msgstr "Containers (tárolók)"
+
+msgctxt "~/Core/Containers/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Containers/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Containers/Module.txt"
+msgid "The containers module introduces container and containable behaviors for content items."
+msgstr "A Containers (tárolók) modul tároló és tartalmazható funkcionalitást vezet be a tartalmi elemek számára."
+
+#. ".Name"
+msgctxt "~/Core/Contents/Module.txt"
+msgid "Contents"
+msgstr "Contents (tartalmak)"
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "The contents module enables the creation of custom content types."
+msgstr "A tartalom modul egyedi tartalomtípusok létrehozását teszi lehetővé."
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "Default custom content type definition, creation and management."
+msgstr "Alapértelmezett egyéni tartalomtípus definíció, létrehozás és kezelés."
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "Core"
+msgstr "Core"
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "Content Control Wrapper"
+msgstr "Content Control Wrapper"
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "Add an Edit button on the front-end for authenticated users"
+msgstr "Egy bejelentkezett felhasználók által látható Szerkesztés gomb hozzáadása a frontendhez"
+
+msgctxt "~/Core/Contents/Module.txt"
+msgid "Content"
+msgstr "Content (tartalom)"
+
+msgctxt "~/Core/Dashboard/Module.txt"
+msgid "Dashboard"
+msgstr "Dashboard (vezérlőpult)"
+
+msgctxt "~/Core/Dashboard/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Dashboard/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Dashboard/Module.txt"
+msgid "The dashboard module is providing the dashboard screen of the admininstration UI of the application."
+msgstr "Az Dashboard (vezérlőpult) modul az adminisztrációs felület vezérlőpult nyitóképernyőjét adja."
+
+msgctxt "~/Core/Feeds/Module.txt"
+msgid "Feeds"
+msgstr "Feeds (hírcsatornák)"
+
+msgctxt "~/Core/Feeds/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Feeds/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Feeds/Module.txt"
+msgid "The Feeds module is providing RSS feeds to content items."
+msgstr "A Feeds (hírcsatornák) modul RSS hírcsatornákat biztosít a tartalomelemek számára."
+
+msgctxt "~/Core/Navigation/Module.txt"
+msgid "Navigation"
+msgstr "Navigáció"
+
+msgctxt "~/Core/Navigation/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Navigation/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Navigation/Module.txt"
+msgid "The navigation module creates and manages a simple navigation menu for the front-end of the application and allows you to add content items to the admin menu."
+msgstr "A Navigation modul egyszerű menük létrehozását, kezelését és a front-end-en való megjelenítését teszi lehetővé és segítségével az Admin felületen tartalomelemeket tud hozzáadni."
+
+msgctxt "~/Core/Reports/Module.txt"
+msgid "Reports"
+msgstr "Reports (jelentések)"
+
+msgctxt "~/Core/Reports/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Reports/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Reports/Module.txt"
+msgid "The dashboard module is providing the reports screen of the application."
+msgstr "A Dashboard (vezérlőpult) modul biztosítja az alkalmazás jelentéseket kezelő képernyőjét."
+
+msgctxt "~/Core/Scheduling/Module.txt"
+msgid "Scheduling"
+msgstr "Scheduling (ütemezés)"
+
+msgctxt "~/Core/Scheduling/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Scheduling/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Scheduling/Module.txt"
+msgid "The scheduling module enables background task scheduling."
+msgstr "A Scheduling (ütemezés) modul a háttérfeladatok ütemezését teszi lehetővé."
+
+msgctxt "~/Core/Settings/Module.txt"
+msgid "Settings"
+msgstr "Settings (beállítások)"
+
+msgctxt "~/Core/Settings/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Settings/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Settings/Module.txt"
+msgid "The settings module creates site settings that other modules can contribute to."
+msgstr "A Settings (beállítások) modul olyan beállításokat hoz létre, amelyekhez más modulok hozzájárulhatnak."
+
+msgctxt "~/Core/Shapes/Module.txt"
+msgid "Shapes"
+msgstr "Shapes (alakzatok)"
+
+msgctxt "~/Core/Shapes/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Shapes/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/Shapes/Module.txt"
+msgid "The shapes module contains core shape templates and display hooks."
+msgstr "A Shapes (alakzatok) modul alap alakzatsablonokat és kijelzős kapcsolódási pontokat tartalmaz."
+
+msgctxt "~/Core/Title/Module.txt"
+msgid "Title"
+msgstr "Title (cím)"
+
+msgctxt "~/Core/Title/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/Title/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net "
+
+msgctxt "~/Core/Title/Module.txt"
+msgid "The title module enables content items to have titles."
+msgstr "A Title (cím) modul lehetővé teszi, hogy tartalmaknak legyen címük."
+
+msgctxt "~/Core/XmlRpc/Module.txt"
+msgid "XmlRpc"
+msgstr "XmlRpc"
+
+msgctxt "~/Core/XmlRpc/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Core/XmlRpc/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Core/XmlRpc/Module.txt"
+msgid "The XmlRpc module enables creation of contents from client applications such as LiveWriter."
+msgstr "Az XmlRcp modul tartalmak kliens alkalmazásokból (pl. LiveWriter) történő létrehozását teszi lehetővé."
+
+#: "Orchard.Core.Common.Shapes"
+msgctxt "Orchard.Core.Common.Shapes"
+msgid "Draft"
+msgstr "Vázlat"
+
+#: "Orchard.Core.Common.Shapes"
+msgctxt "Orchard.Core.Common.Shapes"
+msgid "as a Draft"
+msgstr "Vázlatként"
+
+#: "Orchard.Core.Common.DateEditor.DateEditorDriver"
+msgctxt "Orchard.Core.Common.DateEditor.DateEditorDriver"
+msgid "'{0} {1}' could not be parsed as a valid date and time."
+msgstr "'{0} {1}' nem értelmezhető, mint érvényes dátum és idő."
+
+#: "Orchard.Core.Common.DateEditor.DateEditorDriver"
+msgctxt "Orchard.Core.Common.DateEditor.DateEditorDriver"
+msgid "Both the date and time need to be specified."
+msgstr "A dátumot és az időt is meg kell adni."
+
+#: "Orchard.Core.Common.Drivers.CommonPartDriver"
+msgctxt "Orchard.Core.Common.Drivers.CommonPartDriver"
+msgid "Invalid container"
+msgstr "Érvénytelen tároló"
+
+#: "Orchard.Core.Common.Drivers.TextFieldDriver"
+msgctxt "Orchard.Core.Common.Drivers.TextFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr "A(z) {0} mező(k) kitöltendő(k)"
+
+#: "Orchard.Core.Common.Drivers.TextFieldDriver"
+msgctxt "Orchard.Core.Common.Drivers.TextFieldDriver"
+msgid "Value"
+msgstr "Érték"
+
+#: "Orchard.Core.Common.Drivers.TextFieldDriver"
+msgctxt "Orchard.Core.Common.Drivers.TextFieldDriver"
+msgid "The text associated with the field."
+msgstr "A mezőhöz tartozó szöveg."
+
+#: "Orchard.Core.Common.OwnerEditor.OwnerEditorDriver"
+msgctxt "Orchard.Core.Common.OwnerEditor.OwnerEditorDriver"
+msgid "Invalid user name"
+msgstr "Érvénytelen felhasználónév"
+
+#: "~/Core/Common/Views/CommonMetadataOwner.cshtml"
+msgctxt "~/Core/Common/Views/CommonMetadataOwner.cshtml"
+msgid "By {0}"
+msgstr "Szerző: {0}"
+
+#: "~/Core/Common/Views/CommonMetadataOwner.cshtml"
+msgctxt "~/Core/Common/Views/CommonMetadataOwner.cshtml"
+msgid "unknown"
+msgstr "ismeretlen"
+
+#: "~/Core/Common/Views/Parts.Common.Body.Summary.cshtml"
+msgctxt "~/Core/Common/Views/Parts.Common.Body.Summary.cshtml"
+msgid "more"
+msgstr "Tovább »"
+
+#: "~/Core/Common/Views/Parts.Common.Date.Edit.cshtml"
+msgctxt "~/Core/Common/Views/Parts.Common.Date.Edit.cshtml"
+msgid "Created On"
+msgstr "Létrehozás dátuma"
+
+#: "~/Core/Common/Views/Parts.Common.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Core/Common/Views/Parts.Common.Metadata.SummaryAdmin.cshtml"
+msgid "Last modified: {0}"
+msgstr "Legutóbbi módosítás: {0}"
+
+#: "~/Core/Common/Views/Parts.Common.Owner.Edit.cshtml"
+msgctxt "~/Core/Common/Views/Parts.Common.Owner.Edit.cshtml"
+msgid "Owner"
+msgstr "Tulajdonos"
+
+#: "~/Core/Common/Views/DefinitionTemplates/BodyPartSettings.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/BodyPartSettings.cshtml"
+msgid "Default flavor"
+msgstr "Alapértelmezett változat"
+
+#: "~/Core/Common/Views/DefinitionTemplates/BodyTypePartSettings.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/BodyTypePartSettings.cshtml"
+msgid "Flavor"
+msgstr "Változat"
+
+#: "~/Core/Common/Views/DefinitionTemplates/DateEditorSettings.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/DateEditorSettings.cshtml"
+msgid "Show editor for creation date time"
+msgstr "A létrehozás dátuma és ideje módosítható"
+
+#: "~/Core/Common/Views/DefinitionTemplates/OwnerEditorSettings.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/OwnerEditorSettings.cshtml"
+msgid "Show editor for owner"
+msgstr "A tulajdonos módosíható"
+
+#: "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgid "Display options"
+msgstr "Megjelenítési beállítások"
+
+#: "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgid "Default flavor"
+msgstr "Alapértelmezett szövegformátum"
+
+#: "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgid "Required"
+msgstr "Kitöltendő"
+
+#: "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgid "Check to ensure the user enters a value in this field."
+msgstr "Jelölje be ahhoz, hogy a felhasználónak értéket kelljen adnia a mezőnek."
+
+#: "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgid "Help text"
+msgstr "Megjegyzés"
+
+#: "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgctxt "~/Core/Common/Views/DefinitionTemplates/TextFieldSettingsEventsViewModel.cshtml"
+msgid "The help text is written under the field when authors are editing the content item."
+msgstr "A megjegyzés a mező alatt jelenik meg akkor, amikor a szerkesztők a tartalmi elemet módosítják."
+
+#: "~/Core/Common/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgctxt "~/Core/Common/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgid "Date"
+msgstr "Dátum"
+
+#: "~/Core/Common/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgctxt "~/Core/Common/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgid "Time"
+msgstr "Idő"
+
+#: "~/Core/Common/Views/EditorTemplates/Parts.Common.Body.cshtml"
+msgctxt "~/Core/Common/Views/EditorTemplates/Parts.Common.Body.cshtml"
+msgid "Body"
+msgstr "Szövegtörzs"
+
+#: "Orchard.Core.Containers.Controllers.ItemController"
+msgctxt "Orchard.Core.Containers.Controllers.ItemController"
+msgid "Container not found"
+msgstr "Tároló nem található"
+
+#: "Orchard.Core.Containers.Controllers.ItemController"
+msgctxt "Orchard.Core.Containers.Controllers.ItemController"
+msgid "Cannot view content"
+msgstr "Nincs engedélye megtekinteni a tartalmat"
+
+#: "Orchard.Core.Containers.Drivers.ContainablePartDriver"
+msgctxt "Orchard.Core.Containers.Drivers.ContainablePartDriver"
+msgid "(None)"
+msgstr "(Nincs)"
+
+#: "Orchard.Core.Containers.Drivers.ContainerPartDriver"
+msgctxt "Orchard.Core.Containers.Drivers.ContainerPartDriver"
+msgid "There are no content types in the system with a Containable part attached. Consider adding a Containable part to some content type, existing or new, in order to relate items to this (Container enabled) item."
+msgstr "A rendszerben nincs kapcsolódó tartalmazható résszel rendelkező tartalomtípus. Az elemeknek ezen elemhez történő kapcsolása érdekében javasoljuk, hogy valamelyik tartalomtípushoz adjon hozzá tartalmazható részt."
+
+#: "Orchard.Core.Containers.Drivers.ContainerWidgetPartDriver"
+msgctxt "Orchard.Core.Containers.Drivers.ContainerWidgetPartDriver"
+msgid "(None - create container enabled items first)"
+msgstr "(Nincs – előbb hozza létre a tárolóhoz alkalmas elemeket)"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgid "Show Container Picker"
+msgstr "Tartalmazó-kiválasztó megjelenítése"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgid "Check this option to render a container picker on the content editor for this type."
+msgstr "Jelölje be, ha egy tartalmazó elem kiválasztására szolgáló szerkesztőt szeretne megjeleníteni ennek a tartalomtípusnak a szerkesztőfelületén."
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgid "Show Position Editor"
+msgstr "Pozíciószerkesző megjelenítése"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainableTypePartSettings.cshtml"
+msgid "Check this option to render a position editor on the content editor for this type."
+msgstr "Jelölje be, hogy a pozíció kiválasztását lehetővé tevő elemet szeretne megjeleníteni ennek a tartalomtípusnak a szerkesztőfelületén."
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerPartSettings.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerPartSettings.cshtml"
+msgid "Default Page Size"
+msgstr "Alapértelmezett oldalméret"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerPartSettings.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerPartSettings.cshtml"
+msgid "Show paging controls"
+msgstr "Lapozás megjelenítése"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Default Page Size"
+msgstr "Alapértelmezett oldalméret"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Show paging controls"
+msgstr "Lapozás megjelenítése"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Enable drag and drop"
+msgstr "Húzás és ejtés engedélyezése"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Check this option to enable manual repositioning of items using. If not set, this option will be configurable on the list content item itself."
+msgstr "Jelölje be a kézi áthelyezés engedélyezését. Ha nem állítja be, akkor a tartalomelemek szerkesztőjében tudja engedélyezni."
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "List View"
+msgstr "Lista nézet"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "The default list view to use when rendering this list in the admin. This is configurable per individual list."
+msgstr "Az alapértelmezett listázási nézet az Admin felületen való megjelenítéséhez, amelyet minden listához egyenként konfigurálhat."
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Restrict the item content types this type supports."
+msgstr "E típus által támogatott tartalomtípusok korlátozása."
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Supported Types"
+msgstr "Támogatott típusok"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "(Any)"
+msgstr "(bármely)"
+
+#: "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgctxt "~/Core/Containers/Views/DefinitionTemplates/ContainerTypePartSettingsViewModel.cshtml"
+msgid "Select zero or more content types that this content type supports. Selecting zero content types means the list can contain any content type. Only types with the Containable part can be contained in a list."
+msgstr "Jelölje be, hogy mely tartalomtípusok használhatóak fel ehhez a típushoz. Ha egyet sem választ ki, akkor mindegyik felhasználható lesz. Csak olyan típusokat lehet kiválasztani, amelyek rendelkeznek a Containable tartalomrésszel."
+
+#: "~/Core/Containers/Views/EditorTemplates/Containable.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Containable.cshtml"
+msgid "Member of"
+msgstr "Tag:"
+
+#: "~/Core/Containers/Views/EditorTemplates/Containable.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Containable.cshtml"
+msgid "Position"
+msgstr "Pozíció"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Show contained items list"
+msgstr "Tartalmazott elemek listájának megjelenítése"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Renders the contained items when this list is displayed."
+msgstr "A lista megjelenítésekor listázza a tartalomelemeket."
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Enable positoning"
+msgstr "Áthelyezés engedélyezése"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Check this option to enable manual repositioning of items."
+msgstr "Jelölje be, hogy az elemeket kézzel is át lehessen helyezni."
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Contains"
+msgstr "Listaelem típusa"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "(Any)"
+msgstr "(bármely)"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Select zero or more content types. Selecting zero content types means the list can contain any content type. Only types with the Containable part can be contained in a list."
+msgstr "Válasszon ki tartalomtípusokat. Ha egyet sem választ ki, akkor a lista bármely tartalomtípushoz tartozó elemeket tartalmazhatja. Csak olyan tartalomtípusok elemei lehetnek egy lista részei, amelyek rendelkeznek a Containable tartalomrésszel."
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Page size"
+msgstr "Oldalméret"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Show paging controls"
+msgstr "Lapozás megjelenítése"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Show on admin menu"
+msgstr "Megjelenítés az admin menün"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Menu text"
+msgstr "Menüszöveg"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Position"
+msgstr "Pozíció"
+
+#: "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/Container.cshtml"
+msgid "Image Set"
+msgstr "Képek"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Show items from"
+msgstr "Elemek mutatása innen:"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Maximum number of items to display"
+msgstr "Megjelenítendő elemek maximális száma"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Order by"
+msgstr "Sorrend"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Weight"
+msgstr "Súlyozás"
+
+#. "Date Created"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Date Created"
+msgstr "Létrehozás dátuma"
+
+#. "Date Published"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Date Published"
+msgstr "Közzététel dátuma"
+
+#. "Title (Title Part)"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Title (Title Part)"
+msgstr "Cím (Title Part)"
+
+#. "Custom 1"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Custom 1"
+msgstr "Egyedi 1"
+
+#. "Custom 2"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Custom 2"
+msgstr "Egyedi 2"
+
+#. "Custom 3"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Custom 3"
+msgstr "Egyedi 3"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Order direction"
+msgstr "Sorrend iránya"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Ascending"
+msgstr "Növekvő"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Descending"
+msgstr "Csökkenő"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Filter items"
+msgstr "Elemek szűrése"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Filter where"
+msgstr "Szűrés helye"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Filter operator"
+msgstr "Szűrési művelet"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "is equal to"
+msgstr "egyenlő"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "is less than"
+msgstr "kisebb, mint"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "is greater than"
+msgstr "nagyobb, mint"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "starts with"
+msgstr "kezdőérték"
+
+#: "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/ContainerWidget.cshtml"
+msgid "Filter value"
+msgstr "Szűrő értéke"
+
+#: "~/Core/Containers/Views/EditorTemplates/CustomProperties.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/CustomProperties.cshtml"
+msgid "Custom One"
+msgstr "Egyéni Egy"
+
+#: "~/Core/Containers/Views/EditorTemplates/CustomProperties.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/CustomProperties.cshtml"
+msgid "Custom Two"
+msgstr "Egyéni Kettő"
+
+#: "~/Core/Containers/Views/EditorTemplates/CustomProperties.cshtml"
+msgctxt "~/Core/Containers/Views/EditorTemplates/CustomProperties.cshtml"
+msgid "Custom Three"
+msgstr "Egyéni Három"
+
+#: "Orchard.Core.Contents.AdminMenu"
+msgctxt "Orchard.Core.Contents.AdminMenu"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Core.Contents.AdminMenu"
+msgctxt "Orchard.Core.Contents.AdminMenu"
+msgid "Content Items"
+msgstr "Tartalmi elemek"
+
+#: "Orchard.Core.Contents.AdminMenu"
+msgctxt "Orchard.Core.Contents.AdminMenu"
+msgid "New"
+msgstr "Új"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't publish selected content."
+msgstr "A kijelölt tartalom nem tehető közzé."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Content successfully published."
+msgstr "A tartalom közzététele megtörtént."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't unpublish selected content."
+msgstr "A kijelölt tartalom közzététele nem vonható vissza."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Content successfully unpublished."
+msgstr "A tartalom közzététele visszavonva."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't remove selected content."
+msgstr "A kijelölt tartalom nem távolítható el."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Content successfully removed."
+msgstr "A tartalom eltávolítása megtörtént."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Cannot create content"
+msgstr "A tartalom nem hozható létre"
+
+#. "Couldn't create content"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't create content"
+msgstr "A tartalom nem hozható létre"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Your content has been created."
+msgstr "Az Ön tartalmának létrehozása megtörtént."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Your {0} has been created."
+msgstr "Az Ön {0} elemének létrehozása megtörtént."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Cannot edit content"
+msgstr "A tartalom nem szerkeszthető"
+
+#. "Couldn't publish content"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't publish content"
+msgstr "A tartalom nem tehető közzé"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't edit content"
+msgstr "A tartalom nem szerkeszthető"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Your content has been saved."
+msgstr "Az Ön tartalma mentésre került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Your {0} has been saved."
+msgstr "Az Ön {0} eleme mentésre került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't clone content"
+msgstr "A tartalom nem klónozható"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Could not clone the content item."
+msgstr "Nem sikerült klónozni a tartalmat."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Successfully cloned. The clone was saved as a draft."
+msgstr "Sikeres klónozás. A klónozott elem piszkozatként lett elmentve."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't remove content"
+msgstr "A tartalom nem távolítható el"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "That content has been removed."
+msgstr "A tartalom eltávolításra került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "That {0} has been removed."
+msgstr "A(z) {0} eltávolításra került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "That content has been published."
+msgstr "A tartalom közzétételre került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "That {0} has been published."
+msgstr "A(z) {0} közzétételre került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "Couldn't unpublish content"
+msgstr "A tartalom közzététele nem vonható vissza"
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "That content has been unpublished."
+msgstr "A tartalomnak a közzététele visszavonásra került."
+
+#: "Orchard.Core.Contents.Controllers.AdminController"
+msgctxt "Orchard.Core.Contents.Controllers.AdminController"
+msgid "That {0} has been unpublished."
+msgstr "A(z) {0} elem közzététele visszavonásra került."
+
+#: "Orchard.Core.Contents.Controllers.ItemController"
+msgctxt "Orchard.Core.Contents.Controllers.ItemController"
+msgid "Cannot view content"
+msgstr "A tartalmat nem lehet megtekinteni"
+
+#. "Cannot preview content"
+msgctxt "Orchard.Core.Contents.Controllers.ItemController"
+msgid "Cannot preview content"
+msgstr "A tartalmat nem lehet előzetesen megnézni"
+
+#: "~/Core/Contents/Views/Content.ControlWrapper.cshtml"
+msgctxt "~/Core/Contents/Views/Content.ControlWrapper.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Core/Contents/Views/Content.PublishButton.cshtml"
+msgctxt "~/Core/Contents/Views/Content.PublishButton.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Core/Contents/Views/Content.SaveButton.cshtml"
+msgctxt "~/Core/Contents/Views/Content.SaveButton.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Core/Contents/Views/Content.SaveButton.cshtml"
+msgctxt "~/Core/Contents/Views/Content.SaveButton.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Core/Contents/Views/Content.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Content.SummaryAdmin.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Core/Contents/Views/Content.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Content.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Core/Contents/Views/Content.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Content.SummaryAdmin.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml"
+msgid "Clone"
+msgstr "Klónoz"
+
+#: "~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Clone.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgid "View"
+msgstr "Megtekintés"
+
+#. " | "
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgid "Publish Draft"
+msgstr "Vázlat közzététele"
+
+#. "Preview"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgctxt "~/Core/Contents/Views/Parts.Contents.Publish.SummaryAdmin.cshtml"
+msgid "Publish"
+msgstr "Közzététel"
+
+#: "~/Core/Contents/Views/Admin/CreatableTypeList.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/CreatableTypeList.cshtml"
+msgid "Create New Content"
+msgstr "Új tartalom létrehozása"
+
+#: "~/Core/Contents/Views/Admin/Create.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/Create.cshtml"
+msgid "New {0}"
+msgstr "Új {0}"
+
+#: "~/Core/Contents/Views/Admin/Edit.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/Edit.cshtml"
+msgid "Edit Content"
+msgstr "Tartalom szerkesztése"
+
+#: "~/Core/Contents/Views/Admin/Edit.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/Edit.cshtml"
+msgid "Edit {0}"
+msgstr "{0} szerkesztése"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Manage Content"
+msgstr "Tartalom kezelése"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Create New Content"
+msgstr "Új tartalom létrehozása"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Manage {0} Content"
+msgstr "{0} tartalom kezelése"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Create New {0}"
+msgstr "Új {0} létrehozása"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Show"
+msgstr "Látható:"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "any (show all)"
+msgstr "(az összes)"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Ordered by"
+msgstr "Sorbarendezés e szerint:"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "recently created"
+msgstr "legutóbb létrehozva"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "recently modified"
+msgstr "legutóbb módosítva"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "recently published"
+msgstr "legutóbb közzétéve"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "Filter by"
+msgstr "Szűrés"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "latest"
+msgstr "legújabb"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "published"
+msgstr "közzétéve"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "unpublished"
+msgstr "nem közzétéve"
+
+#: "~/Core/Contents/Views/Admin/List.cshtml"
+msgctxt "~/Core/Contents/Views/Admin/List.cshtml"
+msgid "all versions"
+msgstr "minden verzió"
+
+#: "Orchard.Core.Dashboard.AdminMenu"
+msgctxt "Orchard.Core.Dashboard.AdminMenu"
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#: "Orchard.Core.Dashboard.AdminMenu"
+msgctxt "Orchard.Core.Dashboard.AdminMenu"
+msgid "Orchard"
+msgstr "Orchard"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Welcome to Orchard"
+msgstr "Üdvözli az Orchard"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Get up and running"
+msgstr "Elindulás"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Start by exploring the menu on the left and familiarize yourself with Orchard. As for the basics, we suggest <a href=\"{0}\">changing the theme</a>, <a href=\"{1}\">adding some pages</a>, <a href=\"{2}\">setup up a blog</a>, and <a href=\"{3}\">configuring basic settings</a>."
+msgstr "Kezdje el a baloldali menü felfedezésével és ismerkedjen az Orchard-dal. Kezdésként javasoljuk <a href=\"{0}\">a témaváltást</a>, <a href=\"{1}\">néhány lap felvételét</a>, <a href=\"{2}\">egy napló indítását</a>, és <a href=\"{3}\">az alapvető beállítások konfigurálását</a>."
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Get more goodies"
+msgstr "Gyűjtemény böngészése"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Change the way your site works and looks with <a href=\"{0}\">themes</a> and <a href=\"{1}\">modules</a>. There’s plenty to choose from in the <a href=\"http://orchardproject.net/gallery\">Orchard Gallery</a>. We’re always adding things, so be sure to check back often to see what’s new."
+msgstr "Dobja fel a weboldalát különböző <a href=\"{0}\">témák</a> és <a href=\"{1}\">modulok</a> alkalmazásával. Az <a href=\"http://gallery.orchardproject.net\">Orchard Gallery</a> rengeteget kínál. Folyamatosan bővítjük, ezért érdemes gyakran felkeresni."
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Read the Docs"
+msgstr "Dokumentáció megtekintése"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Are you ready to go deeper and become an Orchard expert? Take a look at the <a href=\"http://docs.orchardproject.net\">Orchard Documentation</a> to learn about how everything connects together and what makes Orchard tick."
+msgstr "Kész mélyebbre ásni, hogy Orchard szakember legyen? Nézze meg az <a href=\"http://docs.orchardproject.net\">Orchard Dokumentációt</a>, hogy kiderüljön hogyan kapcsolódnak össze dolgok, mitől működik az Orchard."
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Make friends"
+msgstr "Barátkozás"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Find friends that share your interest of Orchard. There are a couple ways that you can <a href=\"http://orchardproject.net/discussions\">discuss and get connected</a> to the project including mailing lists, forums and IRC."
+msgstr "Találjon olyan barátokat, akiket érdekel az Orchard. A projekt <a href=\"http://orchardproject.net/discussions\">megvitatásának és elérésének</a> számos módja van, mint a levelezőlisták, a fórumok és az IRC."
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Contribute back"
+msgstr "Közreműködés"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Help grow Orchard. We encourage contributions of all sorts, including code submissions, documentation, translations, feature recommendations, and more.Here are some ways to  <a href=\"http://orchardproject.net/contribution\">give back to the project</a>."
+msgstr "Segítsen az Orchard fejlesztésében. Bátorítunk mindenfajta hozzájárulást, mint kódfeltöltést, dokumentációt, fordítást, funkció javaslatot, és így tovább. Itt adhatsz <a href=\"http://orchardproject.net/contribution\">visszajelzést a projektről</a>."
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Stay up to date"
+msgstr "Maradjon naprakész"
+
+#: "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Dashboard/Views/Admin/Index.cshtml"
+msgid "Your browser does not support iframes. You can't see advisory messages."
+msgstr "Az Ön böngészője nem támogatja az iframe elemeket. A tanácsadó üzenetek az Ön számára nem jeleníthetők meg."
+
+#: "Orchard.Core.Navigation.AdminMenu"
+msgctxt "Orchard.Core.Navigation.AdminMenu"
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: "Orchard.Core.Navigation.AdminMenu"
+msgctxt "Orchard.Core.Navigation.AdminMenu"
+msgid "Main Menu"
+msgstr "Főmenü"
+
+#: "Orchard.Core.Navigation.Commands.MenuCommands"
+msgctxt "Orchard.Core.Navigation.Commands.MenuCommands"
+msgid "Menu not found."
+msgstr "Nincs ilyen menü."
+
+#: "Orchard.Core.Navigation.Commands.MenuCommands"
+msgctxt "Orchard.Core.Navigation.Commands.MenuCommands"
+msgid "Invalid username: {0}"
+msgstr "Érvénytelen felhasználónév: {0}"
+
+#: "Orchard.Core.Navigation.Commands.MenuCommands"
+msgctxt "Orchard.Core.Navigation.Commands.MenuCommands"
+msgid "Menu item created successfully."
+msgstr "A menüpont létrehozása sikerült."
+
+#: "Orchard.Core.Navigation.Commands.MenuCommands"
+msgctxt "Orchard.Core.Navigation.Commands.MenuCommands"
+msgid "Menu name can't be empty."
+msgstr "A menü nevét ki kell tölteni."
+
+#: "Orchard.Core.Navigation.Commands.MenuCommands"
+msgctxt "Orchard.Core.Navigation.Commands.MenuCommands"
+msgid "Menu created successfully."
+msgstr "A menü sikeresen létrejött."
+
+#: "Orchard.Core.Navigation.Controllers.AdminController"
+msgctxt "Orchard.Core.Navigation.Controllers.AdminController"
+msgid "Not allowed to manage the main menu"
+msgstr "A főmenü kezelése nem engedélyezett"
+
+#. "Couldn't manage the main menu"
+msgctxt "Orchard.Core.Navigation.Controllers.AdminController"
+msgid "Couldn't manage the main menu"
+msgstr "A főmenü kezelése nem lehetséges"
+
+#. "Creating menu item failed: {0}"
+msgctxt "Orchard.Core.Navigation.Controllers.AdminController"
+msgid "Creating menu item failed: {0}"
+msgstr "Menüpont létrehozása sikertelen: {0}"
+
+#: "Orchard.Core.Navigation.Controllers.AdminController"
+msgctxt "Orchard.Core.Navigation.Controllers.AdminController"
+msgid "Your {0} has been added."
+msgstr "{0} hozzáadva."
+
+#: "Orchard.Core.Navigation.Drivers.AdminMenuPartDriver"
+msgctxt "Orchard.Core.Navigation.Drivers.AdminMenuPartDriver"
+msgid "The AdminMenuText field is required"
+msgstr "Az AdminMenuText mező kötelező"
+
+#: "Orchard.Core.Navigation.Drivers.MenuPartDriver"
+msgctxt "Orchard.Core.Navigation.Drivers.MenuPartDriver"
+msgid "The MenuText field is required"
+msgstr "A MenuText mező kötelező"
+
+#: "Orchard.Core.Navigation.Drivers.MenuWidgetPartDriver"
+msgctxt "Orchard.Core.Navigation.Drivers.MenuWidgetPartDriver"
+msgid "Home"
+msgstr "Nyitólap"
+
+#: "Orchard.Core.Navigation.Drivers.ShapeMenuItemPartDriver"
+msgctxt "Orchard.Core.Navigation.Drivers.ShapeMenuItemPartDriver"
+msgid "The Shape Type is mandatory."
+msgstr "A Shape Type kötelező."
+
+#: "~/Core/Navigation/Views/Menu.DeleteButton.cshtml"
+msgctxt "~/Core/Navigation/Views/Menu.DeleteButton.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Core/Navigation/Views/Admin/CreateMenuItem.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/CreateMenuItem.cshtml"
+msgid "Create Menu Item"
+msgstr "Új menüpont létrehozása"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Navigation"
+msgstr "Navigáció"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "You need to hit \"Save All\" in order to save your changes."
+msgstr "Az \"Összes mentése\" segítségével mentheti a változtatásokat."
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Current Menu:"
+msgstr "Jelenlegi menü:"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Show"
+msgstr "Megjelenít"
+
+#. "Edit"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Add a new menu..."
+msgstr "Új menü..."
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "The menu is empty"
+msgstr "A menü üres"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Save All"
+msgstr "Összes mentése"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Navigation/Views/Admin/Index.cshtml"
+msgid "Some items where not saved."
+msgstr "Néhány elemet nem sikerült menteni."
+
+#: "~/Core/Navigation/Views/DefinitionTemplates/AdminMenuPartTypeSettings.cshtml"
+msgctxt "~/Core/Navigation/Views/DefinitionTemplates/AdminMenuPartTypeSettings.cshtml"
+msgid "Default Position"
+msgstr "Alapértelmezett pozíció"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuItem.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuItem.Edit.cshtml"
+msgid "Url"
+msgstr "URL"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuItem.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuItem.Edit.cshtml"
+msgid "A valid url, i.e. ~/my-page, http://orchardproject.net, /content/file.pdf, ..."
+msgstr "Egy érvényes URL, pl.: ~/oldalam, http://orchardproject.hu, /tartalom/fájl.pdf, ..."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "For Menu"
+msgstr "Menü:"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Select which menu you want to display"
+msgstr "Válassza ki a megjelenítendő menüt"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Start Level"
+msgstr "Első megjelenítendő szint"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "The level the menu should start at."
+msgstr "Az első szint sorszáma, amely a menüben megjelenik."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Levels to display"
+msgstr "Megjelenítendő szintek száma:"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "The number of levels to display, \"0\" meaning all levels."
+msgstr "A megjelenítendő szintek száma, \"0\" esetén az összes szint megjelenik."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Display as Breadcrumb"
+msgstr "Megjelenítés breadcrumb-ként"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Check to render the path to the current content item."
+msgstr "Jelölje be a jelenlegi tartalomelemhez vezető útvonal megjelenítéséhez."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Add the home page as the first element"
+msgstr "Főoldal hozzáadása az első helyre"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Check to render the home page as the first element of the breadcrumb."
+msgstr "Jelölje be, hogy a breadcrumb-ok első pozícióján a kezdőlap jelenjen meg."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Add the current content item as the last element"
+msgstr "A jelenlegi tartalomelem hozzáadása az utolsó helyre"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Check to render the current content item as the last element."
+msgstr "Jelölje be, hogy a jelenlegi tartalomelem az utolsó helyen jelenjen meg."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "No filter on selected page"
+msgstr "Nincs szűrés kijelölt oldalon"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.MenuWidget.Edit.cshtml"
+msgid "Check for the menu to be display without filtering the selected current page."
+msgstr "Jelölje be, hogy a menü szűrés nélkül jelenjen meg az aktuálisan kijelöl oldalon."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgid "Show on admin menu"
+msgstr "Megjelenítés az admin menün"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgid "Menu text"
+msgstr "Menü szövege"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgid "The text that should appear in the menu."
+msgstr "A menüben megjelenítendő szöveg."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgid "Position"
+msgstr "Pozíció"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.AdminMenu.Edit.cshtml"
+msgid "The position in the menu."
+msgstr "A pozíció a menüben."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
+msgid "Show on a menu"
+msgstr "Megjelenítés egy menüben"
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
+msgid "Select which menu you want the content item to be displayed on."
+msgstr "Válassza ki, hogy a tartalomelem melyik menüben jelenjen meg."
+
+#. "Menu text"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
+msgid "Menu text"
+msgstr "Menüszöveg"
+
+#. "The text that should appear in the menu."
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.Navigation.Menu.Edit.cshtml"
+msgid "The text that should appear in the menu."
+msgstr "A menüben megjelenítendő szöveg."
+
+#: "~/Core/Navigation/Views/EditorTemplates/Parts.ShapeMenuItemPart.Edit.cshtml"
+msgctxt "~/Core/Navigation/Views/EditorTemplates/Parts.ShapeMenuItemPart.Edit.cshtml"
+msgid "Type of the shape to display"
+msgstr "A megjelenítendő shape típusa"
+
+#: "Orchard.Core.Reports.AdminMenu"
+msgctxt "Orchard.Core.Reports.AdminMenu"
+msgid "Reports"
+msgstr "Jelentések"
+
+#: "Orchard.Core.Reports.AdminMenu"
+msgctxt "Orchard.Core.Reports.AdminMenu"
+msgid "View"
+msgstr "Megtekintés"
+
+#: "Orchard.Core.Reports.Controllers.AdminController"
+msgctxt "Orchard.Core.Reports.Controllers.AdminController"
+msgid "Not authorized to list reports"
+msgstr "Jelentések listázása nem engedélyezett"
+
+#: "Orchard.Core.Reports.Controllers.AdminController"
+msgctxt "Orchard.Core.Reports.Controllers.AdminController"
+msgid "Not authorized to display report"
+msgstr "Jelentések megjelenítése nem engedélyezett"
+
+#: "~/Core/Reports/Views/Admin/Display.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Display.cshtml"
+msgid "Display Report"
+msgstr "Jelentés megjelenítése"
+
+#: "~/Core/Reports/Views/Admin/Display.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Display.cshtml"
+msgid "This is a table of the reports in your application"
+msgstr "Ez az Ön alkalmazásában található jelentések táblája"
+
+#: "~/Core/Reports/Views/Admin/Display.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Display.cshtml"
+msgid "Type"
+msgstr "Típus"
+
+#: "~/Core/Reports/Views/Admin/Display.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Display.cshtml"
+msgid "Message"
+msgstr "Üzenet"
+
+#: "~/Core/Reports/Views/Admin/Display.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Display.cshtml"
+msgid "Date"
+msgstr "Dátum"
+
+#: "~/Core/Reports/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Index.cshtml"
+msgid "Reports"
+msgstr "Jelentések"
+
+#: "~/Core/Reports/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Index.cshtml"
+msgid "This is a table of the reports in your application"
+msgstr "Ez az Ön alkalmazásában található jelentések táblája"
+
+#: "~/Core/Reports/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Core/Reports/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Index.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Core/Reports/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Reports/Views/Admin/Index.cshtml"
+msgid "Date"
+msgstr "Dátum"
+
+#. "Settings"
+msgctxt "Orchard.Core.Settings.AdminMenu"
+msgid "Settings"
+msgstr "Beállítások"
+
+#: "Orchard.Core.Settings.AdminMenu"
+msgctxt "Orchard.Core.Settings.AdminMenu"
+msgid "General"
+msgstr "Általános"
+
+#: "Orchard.Core.Settings.Commands.SiteSettingsCommands"
+msgctxt "Orchard.Core.Settings.Commands.SiteSettingsCommands"
+msgid "'BaseUrl' site setting is already set. Use the 'Force' flag to override."
+msgstr "Az 'Alap URL' már be van állítva. A 'Force' címkével lehet felülírni."
+
+#: "Orchard.Core.Settings.Commands.SiteSettingsCommands"
+msgctxt "Orchard.Core.Settings.Commands.SiteSettingsCommands"
+msgid "No HTTP request available to determine the base url of the site"
+msgstr "Nincs elérhető HTTP kérés a webhely alap URL-jének meghatározásához"
+
+#: "Orchard.Core.Settings.Commands.SiteSettingsCommands"
+msgctxt "Orchard.Core.Settings.Commands.SiteSettingsCommands"
+msgid "'BaseUrl' site setting set to '{0}'"
+msgstr "Az 'Alap URL' új értéke: '{0}'"
+
+#. "Not authorized to manage settings"
+msgctxt "Orchard.Core.Settings.Controllers.AdminController"
+msgid "Not authorized to manage settings"
+msgstr "Beállítások kezelése nem engedélyezett"
+
+#: "Orchard.Core.Settings.Controllers.AdminController"
+msgctxt "Orchard.Core.Settings.Controllers.AdminController"
+msgid "Settings updated"
+msgstr "Beállítások frissítve"
+
+#: "Orchard.Core.Settings.Descriptor.ShellDescriptorManager"
+msgctxt "Orchard.Core.Settings.Descriptor.ShellDescriptorManager"
+msgid "Invalid serial number for shell descriptor"
+msgstr "Érvénytelen shell-leíró szériaszám"
+
+#: "Orchard.Core.Settings.Drivers.SiteSettingsPartDriver"
+msgctxt "Orchard.Core.Settings.Drivers.SiteSettingsPartDriver"
+msgid "The user {0} was not found"
+msgstr "A(z) {0} felhasználó nem található"
+
+#: "Orchard.Core.Settings.Drivers.SiteSettingsPartDriver"
+msgctxt "Orchard.Core.Settings.Drivers.SiteSettingsPartDriver"
+msgid "The base url must be absolute."
+msgstr "Az alap URL csak abszolút cím lehet."
+
+#: "Orchard.Core.Settings.Drivers.SiteSettingsPartDriver"
+msgctxt "Orchard.Core.Settings.Drivers.SiteSettingsPartDriver"
+msgid "The base url you entered could not be requested from current location."
+msgstr "A megadott alap URL-t a jelenlegi helyről nem lehet lekérni."
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Site Settings"
+msgstr "Oldal beálításai"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Tokens for Site Settings"
+msgstr "Az oldal beállítás token-jei"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Site Name"
+msgstr "Oldal neve"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "The name of the site."
+msgstr "Az oldal neve."
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Super User"
+msgstr "Super user"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "The super user of the site."
+msgstr "A weboldal super user-e."
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Site Culture"
+msgstr "Nyelvi környezet"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "The current culture of the site."
+msgstr "Az oldal jelenlegi kulturális környezete."
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Base Url"
+msgstr "Alap URL"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "The base url the site."
+msgstr "Az oldal alap URL-je."
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "Time Zone"
+msgstr "Időzóna"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "The current time zone of the site."
+msgstr "Az oldal jelenlegi időzónája."
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "{0}"
+msgstr "{0}"
+
+#: "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgctxt "Orchard.Core.Settings.Tokens.SettingsTokens"
+msgid "The setting named {0}."
+msgstr "A(z) {0} beállítás."
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Cultures"
+msgstr "Kulturális környezetek"
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Manage Settings"
+msgstr "Beállítások kezelése"
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid " &#62; "
+msgstr " &#62; "
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Supported Cultures"
+msgstr "Támogatott kulturális környezetek"
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Available Cultures"
+msgstr "Rendelkezésre álló kulturális környezetek"
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Add a culture..."
+msgstr "Kulturális környezet hozzáadása..."
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Other"
+msgstr "Egyéb"
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Culture.cshtml"
+msgid "Cultures this site supports"
+msgstr "Az e webhely által támogatott kulturális környezetek"
+
+#: "~/Core/Settings/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Index.cshtml"
+msgid "Settings"
+msgstr "Beállítások"
+
+#: "~/Core/Settings/Views/Admin/Index.cshtml"
+msgctxt "~/Core/Settings/Views/Admin/Index.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Core/Settings/Views/DisplayTemplates/RemovableCulture.cshtml"
+msgctxt "~/Core/Settings/Views/DisplayTemplates/RemovableCulture.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Use web.config setting"
+msgstr "Web.config beállítások használata"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Disabled"
+msgstr "Letiltva"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "General"
+msgstr "Általános"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Site name"
+msgstr "Webhely neve"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Base URL"
+msgstr "Alap URL"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Enter the fully qualified base URL of the web site."
+msgstr "Adja meg weboldal teljes alap URL-jét."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "e.g., http://localhost:30320/orchardlocal, http://www.yourdomain.com"
+msgstr "pl. http://localhost:30320/orchardlocal, http://www.oldalam.hu"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Default Site Culture"
+msgstr "Webhely alapértelmezett kulturális környezete"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Determines the default culture used to localize strings and to format and parse numbers, date and times."
+msgstr "Meghatározza a weboldalon a szövegek, számok, dátumok és idő megjelenítéséhez használandó területi beállításokat."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Add or remove supported cultures for the site"
+msgstr "Támogatott kulturális környezetek hozzáadása vagy eltávolítása"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Default Site Calendar"
+msgstr "Alapértelmezett naptártípus"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Culture calendar"
+msgstr "Naptár területi beállítás"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Determines the default calendar used when displaying and editing dates and times."
+msgstr "Meghatározza a dátumok szerkesztéséhez és megjelenítéséhez használt naptárbeállításokat."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "The 'Culture calendar' option means the default calendar for the culture of the current request will be used (not necessarily the configured default site culture)."
+msgstr "A 'Naptár területi beállítás' meghatározza az alapértelmezett naptárbeállításokat (amelyek nem feltétlenül egyeznek meg a weboldal területi beállításaival)."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Default Time Zone"
+msgstr "Alapértelmezett időzóna"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Local to server"
+msgstr "A szerver időzónája"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Determines the default time zone used when displaying and editing dates and times."
+msgstr "Meghatározza a dátumok és idők szerkesztéséhez és megjelenítéséhez használt alapértelmezett időzónát."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Page title separator"
+msgstr "Oldalcím-elválasztó"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Super user"
+msgstr "Super user"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Enter an existing account name, or nothing if you don't want a Super user account"
+msgstr "Adjon meg egy létező fióknevet, vagy hagyja üresen, ha nem kíván Super user fiókot."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Resource Debug Mode"
+msgstr "Erőforrás hibakeresési mód"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Determines whether scripts and stylesheets load in their debuggable or minified form."
+msgstr "Meghatározza, hogy a parancsfájlok és a stíluslapok hibakeresésre alkalmas vagy csökkentett formájukban töltődnek-e be."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Default number of items per page"
+msgstr "Elemek oldalankénti alapértelmezett száma"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Determines the default number of items that are shown per page."
+msgstr "Meghatározza az oldalanként megjelenő elemek alapértelmezett számát."
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Maximum number of items per page"
+msgstr "Oldalanként megjelenített elemek maximális száma"
+
+#: "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgctxt "~/Core/Settings/Views/EditorTemplates/Parts.Settings.SiteSettingsPart.cshtml"
+msgid "Determines the maximum number of items that are shown per page. Leave 0 for unlimited."
+msgstr "Meghatározza, hogy egy oldalon maximum hány elemet lehet megjeleníteni. Hagyja 0 értéken, hogy ne legyen limit."
+
+#: "Orchard.Core.Shapes.CoreShapes"
+msgctxt "Orchard.Core.Shapes.CoreShapes"
+msgid "<<"
+msgstr "<<"
+
+#: "Orchard.Core.Shapes.CoreShapes"
+msgctxt "Orchard.Core.Shapes.CoreShapes"
+msgid "<"
+msgstr "<"
+
+#: "Orchard.Core.Shapes.CoreShapes"
+msgctxt "Orchard.Core.Shapes.CoreShapes"
+msgid ">"
+msgstr ">"
+
+#: "Orchard.Core.Shapes.CoreShapes"
+msgctxt "Orchard.Core.Shapes.CoreShapes"
+msgid ">>"
+msgstr ">>"
+
+#: "Orchard.Core.Shapes.CoreShapes"
+msgctxt "Orchard.Core.Shapes.CoreShapes"
+msgid "..."
+msgstr "..."
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "a moment ago"
+msgstr "Egy pillanattal ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in a moment"
+msgstr "egy pillanat alatt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "1 day ago"
+msgstr "1 nappal ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "{0} days ago"
+msgstr "{0} nappal ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in 1 day"
+msgstr "1 napon belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in {0} days"
+msgstr "{0} napon belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "1 hour ago"
+msgstr "1 órával ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "{0} hours ago"
+msgstr "{0} órával ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in 1 hour"
+msgstr "1 órán belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in {0} hours"
+msgstr "{0} órán belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "1 minute ago"
+msgstr "1 perccel ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "{0} minutes ago"
+msgstr "{0} perccel ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in 1 minute"
+msgstr "1 percen belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in {0} minutes"
+msgstr "{0} percen belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "1 second ago"
+msgstr "1 másodperccel ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "{0} seconds ago"
+msgstr "{0} másodperccel ezelőtt"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in 1 second"
+msgstr "1 másodpercen belül"
+
+#: "Orchard.Core.Shapes.DateTimeShapes"
+msgctxt "Orchard.Core.Shapes.DateTimeShapes"
+msgid "in {0} seconds"
+msgstr "{0} másodpercen belül"
+
+#: "~/Core/Shapes/Views/ErrorPage.cshtml"
+msgctxt "~/Core/Shapes/Views/ErrorPage.cshtml"
+msgid "Oops. Something went wrong ... sorry"
+msgstr "Hoppá. Valami félresikerült... Elnézést."
+
+#: "~/Core/Shapes/Views/ErrorPage.cshtml"
+msgctxt "~/Core/Shapes/Views/ErrorPage.cshtml"
+msgid "An unhandled exception has occurred and the request was terminated. Please refresh the page. If the error persists, go back"
+msgstr "Egy nem kezelt kivétel miatt a lekérés megszakadt. Kérjük töltse újra az oldalt. Ha a hiba megmarad, lépjen vissza."
+
+#: "~/Core/Shapes/Views/NotFound.cshtml"
+msgctxt "~/Core/Shapes/Views/NotFound.cshtml"
+msgid "Not found"
+msgstr "Nem található"
+
+#: "~/Core/Shapes/Views/NotFound.cshtml"
+msgctxt "~/Core/Shapes/Views/NotFound.cshtml"
+msgid "The page you are looking for does not exist."
+msgstr "A keresett oldal nem létezik."
+
+#: "~/Core/Shapes/Views/User.cshtml"
+msgctxt "~/Core/Shapes/Views/User.cshtml"
+msgid "Welcome, <strong>{0}</strong>!"
+msgstr "Üdvözlet, <strong>{0}</strong>!"
+
+#: "~/Core/Shapes/Views/User.cshtml"
+msgctxt "~/Core/Shapes/Views/User.cshtml"
+msgid "Sign Out"
+msgstr "Kijelentkezés"
+
+#: "~/Core/Shapes/Views/User.cshtml"
+msgctxt "~/Core/Shapes/Views/User.cshtml"
+msgid "Dashboard"
+msgstr "Vezérlőpult"
+
+#: "~/Core/Shapes/Views/User.cshtml"
+msgctxt "~/Core/Shapes/Views/User.cshtml"
+msgid "Sign In"
+msgstr "Bejelentkezés"
+
+#: "~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml"
+msgctxt "~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml"
+msgctxt "~/Core/Title/Views/EditorTemplates/Parts.Title.TitlePart.cshtml"
+msgid "You must provide a title for this content item"
+msgstr "Adjon meg egy címet ennek az elemnek"
+

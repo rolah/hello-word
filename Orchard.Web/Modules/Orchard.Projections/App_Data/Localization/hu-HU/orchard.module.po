@@ -1,0 +1,2386 @@
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "Projector"
+msgstr "Projector"
+
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "http://orchardprojections.codeplex.com"
+msgstr "http://orchardprojections.codeplex.com"
+
+msgctxt "~/Modules/Orchard.Projections/Module.txt"
+msgid "Provides methods to control how lists of content items are filtered and displayed"
+msgstr "Lehetővé teszi tartalmi elemekből álló listák szűrésének és megjelenítésének konfigurálását"
+
+#. "Queries"
+msgctxt "Orchard.Projections.AdminMenu"
+msgid "Queries"
+msgstr "Lekérdezések"
+
+#: "Orchard.Projections.AdminMenu"
+msgctxt "Orchard.Projections.AdminMenu"
+msgid "Bindings"
+msgstr "Kötések"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Creation date"
+msgstr "Létrehozás dátuma"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "When the content item was created"
+msgstr "Amikor a tartalmi elemet létrehozták"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Modification date"
+msgstr "Módosítási idő"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "When the content item was modified"
+msgstr "Amikor a tartalmi elemet módosították"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Publication date"
+msgstr "Közzétételi idő"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "When the content item was published"
+msgstr "Amikor a tartalmi elemet közzétették"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Title Part Title"
+msgstr "Title tartalomrész cím"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "The title assigned using the Title part"
+msgstr "Cím a Title tartalomrészből"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "Body Part Text"
+msgstr "BodyPart szöveg (szövegtörzs)"
+
+#: "Orchard.Projections.Migrations"
+msgctxt "Orchard.Projections.Migrations"
+msgid "The text from the Body part"
+msgstr "Szövegtörzs a Body tartalomrészből"
+
+#: "Orchard.Projections.Controllers.AdminController"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Not authorized to list queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések kilistázásához"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Not authorized to manage queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések kezeléséhez"
+
+#: "Orchard.Projections.Controllers.AdminController"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Not authorized to edit queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések szerkesztéséhez"
+
+#: "Orchard.Projections.Controllers.AdminController"
+msgctxt "Orchard.Projections.Controllers.AdminController"
+msgid "Query {0} deleted"
+msgstr "A(z) {0} lekérdezés törölve"
+
+#. "Not authorized to list bindings"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Not authorized to list bindings"
+msgstr "Önnek nincs jogosultsága a kötések kilistázásához"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Binding created successfully"
+msgstr "A kötés sikeresen létrejött"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "The record for this binding is no longer available, please remove it."
+msgstr "A kötéshez tartozó rekord nem elérhető, kérjük törölje a kötést."
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "The member for this binding is no longer available, please remove it."
+msgstr "A kötéshez tartozó típus nem elérhető, kérjük törölje a kötést."
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Binding updated successfully"
+msgstr "Kötés sikeresen frissítve"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Not authorized to delete bindings"
+msgstr "Önnek nincs jogosultsága kötések törléséhez"
+
+#: "Orchard.Projections.Controllers.BindingController"
+msgctxt "Orchard.Projections.Controllers.BindingController"
+msgid "Binding deleted"
+msgstr "Kötés törölve"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.FilterController"
+msgid "Not authorized to manage queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések kezeléséhez"
+
+#: "Orchard.Projections.Controllers.FilterController"
+msgctxt "Orchard.Projections.Controllers.FilterController"
+msgid "Filter deleted"
+msgstr "Szűrő törölve"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Not authorized to manage queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések kezeléséhez"
+
+#: "Orchard.Projections.Controllers.LayoutController"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Layout deleted"
+msgstr "Elrendezés törölve"
+
+#: "Orchard.Projections.Controllers.LayoutController"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Layout Created"
+msgstr "Elrendezés létrehozva"
+
+#: "Orchard.Projections.Controllers.LayoutController"
+msgctxt "Orchard.Projections.Controllers.LayoutController"
+msgid "Layout Saved"
+msgstr "Elrendezés mentve"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.PropertyController"
+msgid "Not authorized to manage queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések kezeléséhez"
+
+#: "Orchard.Projections.Controllers.PropertyController"
+msgctxt "Orchard.Projections.Controllers.PropertyController"
+msgid "Property deleted"
+msgstr "Tulajdonság törölve"
+
+#. "Not authorized to manage queries"
+msgctxt "Orchard.Projections.Controllers.SortCriterionController"
+msgid "Not authorized to manage queries"
+msgstr "Önnek nincs jogosultsága a lekérdezések kezeléséhez"
+
+#: "Orchard.Projections.Controllers.SortCriterionController"
+msgctxt "Orchard.Projections.Controllers.SortCriterionController"
+msgid "Sort criteria deleted"
+msgstr "Rendezési kritérium törlése"
+
+#: "Orchard.Projections.Drivers.ProjectionPartDriver"
+msgctxt "Orchard.Projections.Drivers.ProjectionPartDriver"
+msgid "Suffix should not contain special characters."
+msgstr "A végződés (suffix) nem tartalmazhat speciális karaktereket."
+
+#: "Orchard.Projections.Drivers.QueryPartTitleDriver"
+msgctxt "Orchard.Projections.Drivers.QueryPartTitleDriver"
+msgid "A query with the same title already exists"
+msgstr "Ezzel a címmel már létezik lekérdezés"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "Undefined"
+msgstr "Nem definiált"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "Yes"
+msgstr "Igen"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "No"
+msgstr "Nem"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "Enter the value the string should be."
+msgstr "Írjon be egy értéket aminek a stringnek kell lennie."
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "{0} is undefined"
+msgstr "{0} nem definiált"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "{0} is true"
+msgstr "{0} igaz"
+
+#: "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.BooleanFilterForm"
+msgid "{0} is false"
+msgstr "{0} hamis"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Operator"
+msgstr "Operátor"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "A date"
+msgstr "Egy dátum"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Please use this format: YYYY-MM-DD hh:mm:ss. e.g., 2010-04-12 would filter on the whole day. You can also use the Date token like this: {Date.Format:yyyy-MM-dd}"
+msgstr "Kérjük használja a következő formátumot: YYYY-MM-DD hh:mm:ss. Pl. 2010-04-12 az egész napra szűrne. Használhatja a Date tokent is a következőképpen: {Date.Format:yyyy-MM-dd}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "An offset from the current time"
+msgstr "A pillanatnyi időtől való eltérés"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "You can provide time in the past by using negative values. e.g., -1 day"
+msgstr "Negatív értékek segítségével megadhat múltbeli időpontot is, pl. -1 day (nap)."
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Value"
+msgstr "Érték"
+
+#. "Unit"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Unit"
+msgstr "Egység"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Min"
+msgstr "Minimum"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Max"
+msgstr "Maximum"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is less than"
+msgstr "Kisebb"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is less than or equal to"
+msgstr "Kisebb vagy egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is equal to"
+msgstr "Egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is not equal to"
+msgstr "Nem egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is greater than or equal to"
+msgstr "Nagyobb vagy egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is greater than"
+msgstr "Nagyobb"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is between"
+msgstr "Közöttük"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Is not between"
+msgstr "Nincs közöttük"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Year"
+msgstr "Év"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Month"
+msgstr "Hónap"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Day"
+msgstr "Nap"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Hour"
+msgstr "Óra"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Minute"
+msgstr "Perc"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "Second"
+msgstr "Másodperc"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is less than {1}{2}"
+msgstr "{0} kisebb, mint {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is less or equal than {1}{2}"
+msgstr "{0} kisebb vagy egyenlő, mint {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} equals {1}{2}"
+msgstr "{0} egyenlő {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is not equal to {1}{2}"
+msgstr "{0} nem egyenlő {1}{2} "
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is greater than {1}{2}"
+msgstr "{0} nagyobb, mint {1}{2} "
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is greater or equal than {1}{2}"
+msgstr "{0} nagyobb vagy egyenlő, mint {1}{2}"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is between {1}{2} and {3}{4}"
+msgstr "{0} {1}{2} és {3}{4} között van"
+
+#: "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterForm"
+msgid "{0} is not between {1}{2} and {3}{4}"
+msgstr "{0} nincs {1}{2} és {3}{4} között"
+
+#. "The field {0} is required."
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "The field {0} is required."
+msgstr "A(z) {0} mező kitöltése kötelező."
+
+#. "Min"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "Min"
+msgstr "Minimum"
+
+#. "Max"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "Max"
+msgstr "Maximum"
+
+#. "Value"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "Value"
+msgstr "Érték"
+
+#. "The field {0} should contain a valid date (YYYY-MM-DD hh:mm:ss)"
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "The field {0} should contain a valid date (YYYY-MM-DD hh:mm:ss)"
+msgstr "A(z) {0} mezőnek egy érvényes időbélyeget kell tartalmaznia (YYYY-MM-DD hh:mm:ss)."
+
+#. "The field {0} must be a valid number."
+msgctxt "Orchard.Projections.FilterEditors.Forms.DateTimeFilterFormValidation"
+msgid "The field {0} must be a valid number."
+msgstr "A(z) {0} mezőnek egy számnak kell lennie."
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Operator"
+msgstr "Operátor"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Value"
+msgstr "Érték"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Min"
+msgstr "Minimum"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Max"
+msgstr "Maximum"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is less than"
+msgstr "Kisebb"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is less than or equal to"
+msgstr "Kisebb vagy egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is equal to"
+msgstr "Egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is not equal to"
+msgstr "Nem egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is greater than or equal to"
+msgstr "Nagyobb vagy egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is greater than"
+msgstr "Nagyobb"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is between"
+msgstr "Közöttük"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "Is not between"
+msgstr "Nincs közöttük"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is less than {1}"
+msgstr "{0} kisebb, mint {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is less or equal than {1}"
+msgstr "{0} kisebb vagy egyenlő, mint {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} equals {1}"
+msgstr "{0} egyenlő {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is not equal to {1}"
+msgstr "{0} nem egyenlő {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is greater than {1}"
+msgstr "{0} nagyobb, mint {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is greater or equal than {1}"
+msgstr "{0} nagyobb vagy egyenlő, mint {1}"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is between {1} and {2}"
+msgstr "{0} {1} és {2} között van"
+
+#: "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFilterForm"
+msgid "{0} is not between {1} and {2}"
+msgstr "{0} nincs {1} és {2} között"
+
+#. "The field {0} is required."
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "The field {0} is required."
+msgstr "A(z) {0} mező kitöltése kötelező."
+
+#. "Min"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "Min"
+msgstr "Minimum"
+
+#. "Max"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "Max"
+msgstr "Maximum"
+
+#. "Value"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "Value"
+msgstr "Érték"
+
+#. "The field {0} should contain a valid number"
+msgctxt "Orchard.Projections.FilterEditors.Forms.NumericFieldTypeEditorValidation"
+msgid "The field {0} should contain a valid number"
+msgstr "A(z) {0} mezőnek egy számnak kell lennie."
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Operator"
+msgstr "Operátor"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Value"
+msgstr "Érték"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Enter the value the string should be."
+msgstr "Adjon meg egy értéket, aminek a stringnek kell lennie."
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Is equal to"
+msgstr "Egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Is not equal to"
+msgstr "Nem egyenlő"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Contains"
+msgstr "Tartalmazza"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Contains any word"
+msgstr "Tartalmazza bármely szót"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Contains all words"
+msgstr "Tartalmazza az összes szót"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Starts with"
+msgstr "Ezzel kezdődik"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Does not start with"
+msgstr "Nem ezzel kezdődik"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Ends with"
+msgstr "Ezzel végződik"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Does not end with"
+msgstr "Nem ezzel végződik"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "Does not contain"
+msgstr "Nem tartalmazza"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} is equal to '{1}'"
+msgstr "{0} egyenlő ezzel: '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} is not equal to '{1}'"
+msgstr "{0} nem egyenlő ezzel: '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} contains '{1}'"
+msgstr "{0} tartalmazza '{1}'-t"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} contains any of '{1}'"
+msgstr "{0} tartalmaz bármely '{1}'-t"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} contains all '{1}'"
+msgstr "{0} tartalmaz minden '{1}'-t"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} starts with '{1}'"
+msgstr "{0} ezzel kezdődik: '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} does not start with '{1}'"
+msgstr "{0} nem ezzel kezdődik: '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} ends with '{1}'"
+msgstr "{0} ezzel végződik: '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} does not end with '{1}'"
+msgstr "{0} nem ezzel végződik: '{1}'"
+
+#: "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgctxt "Orchard.Projections.FilterEditors.Forms.StringFilterForm"
+msgid "{0} does not contain '{1}'"
+msgstr "{0} nem tartalmaz '{1}'-t"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Date format"
+msgstr "Dátumformátum"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Short date pattern: 6/15/2009"
+msgstr "Rövid dátumformátum: 6/15/2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Long date pattern: Monday, June 15, 2009"
+msgstr "Hosszú dátumformátum: Monday, June 15, 2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Full date/time pattern (short time): Monday, June 15, 2009 1:45 PM"
+msgstr "Teljes dátumformátum (rövid formátum): Monday, June 15, 2009 1:45 PM "
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Full date/time pattern (long time): Monday, June 15, 2009 1:45:30 PM"
+msgstr "Teljes dátumformátum (hosszú formátum): Monday, June 15, 2009 1:45:30 PM "
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "General date/time pattern (short time): 6/15/2009 1:45 PM"
+msgstr "Általános dátumformátum (rövid formátum): 6/15/2009 1:45 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "General date/time pattern (long time): 6/15/2009 1:45:30 PM"
+msgstr "Általános dátumformátum (hosszú formátum): 6/15/2009 1:45:30 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Month/day pattern: June 15"
+msgstr "Hónap/nap formátum: June 15 "
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Round-trip date/time pattern: 2009-06-15T13:45:30.0900000"
+msgstr "Round-trip dátumformátum: 2009-06-15T13:45:30.0900000"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "RFC1123 pattern: Mon, 15 Jun 2009 20:45:30 GMT"
+msgstr "RFC1123 formátum: Mon, 15 Jun 2009 20:45:30 GMT "
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Sortable date/time pattern: 2009-06-15T13:45:30"
+msgstr "Rendezhető dátumformátum: 2009-06-15T13:45:30 "
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Short time pattern: 1:45 PM"
+msgstr "Rövid időformátum: 1:45 du."
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Long time pattern: 1:45:30 PM"
+msgstr "Hosszú időformátum: 1:45:30 PM"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Universal sortable date/time pattern: 2009-06-15 20:45:30Z"
+msgstr "Univerzális rendezhető dátumformátum: 2009-06-15 20:45:30Z"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Universal full date/time pattern:  Monday, June 15, 2009 8:45:30 PM"
+msgstr "Univerzális teljes dátumformátum: Monday, June 15, 2009 8:45:30 PM "
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Year month pattern: June, 2009"
+msgstr "Év-hónap formátum: June, 2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Day: 15"
+msgstr "Nap: 15"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Month: 6"
+msgstr "Hónap: 6"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Year: 2009"
+msgstr "Év: 2009"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Day of year: 166"
+msgstr "Az év napja: 166"
+
+#: "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.DateTimePropertyForm"
+msgid "Relative time: 1 minute ago"
+msgstr "Eltelt idő: 1 perc"
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Prefix"
+msgstr "Prefix (előtag)"
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Text to put before the number, such as currency symbol."
+msgstr "A szám elé írandó szöveg, pl. pénznem."
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Suffix"
+msgstr "Végződés (suffix)"
+
+#: "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgctxt "Orchard.Projections.PropertyEditors.Forms.NumericPropertyForm"
+msgid "Text to put after the number, such as currency symbol."
+msgstr "A szám után írandó szöveg, pl. pénznem."
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "{0} Content Fields"
+msgstr "{0} mezők"
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "Content Fields for {0}"
+msgstr "Mezők ennek: {0}"
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "{0} property for {1}"
+msgstr "{0} tulajdonság ennek: {1}"
+
+#: "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentFieldsFilter"
+msgid "Field {0} {1} \"{2}\""
+msgstr "Mező {0} {1} \"{2}\""
+
+#: "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgctxt "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgid "Content part records"
+msgstr "Tartalomrész rekordok"
+
+#: "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgctxt "Orchard.Projections.Providers.Filters.ContentPartRecordsForm"
+msgid "Select some content part records."
+msgstr "Válasszon ki néhány tartalomrész rekordot."
+
+#. "Content"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Content"
+msgstr "Tartalom"
+
+#. "Content types"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Content Types"
+msgstr "Tartalomtípusok"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Specific content types"
+msgstr "Meghatározott tartalomtípusok"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Any content item"
+msgstr "Bármely tartalmi elem"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Content with type {0}"
+msgstr "{0} típusú tartalom"
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Select some content types."
+msgstr "Válasszon néhány tartalomtípust."
+
+#: "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgctxt "Orchard.Projections.Providers.Filters.ContentTypesFilter"
+msgid "Any"
+msgstr "Bármely"
+
+#. "Content"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Eager fetch"
+msgstr "Előtöltés"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Eager fetch content part records"
+msgstr "Tartalomrész rekordok előtöltése"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "No content part record"
+msgstr "Nincs tartalomrész rekord"
+
+#: "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgctxt "Orchard.Projections.Providers.Filters.EagerFectchFilter"
+msgid "Eager fetch part records {0}"
+msgstr "{0} tartalomrész rekordok előtöltése"
+
+#: "Orchard.Projections.Providers.Filters.MemberBindingFilter"
+msgctxt "Orchard.Projections.Providers.Filters.MemberBindingFilter"
+msgid "Members for {0}"
+msgstr "Mezők ennek: {0}"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Html"
+msgstr "HTML"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Html Layouts"
+msgstr "HTML elrendezések"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Grid"
+msgstr "Rács"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "Organizes content items in a grid."
+msgstr "A tartalmi elemeket egy rácsba rendezi."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "{0} columns grid"
+msgstr "{0} oszlopos rács"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayout"
+msgid "{0} lines grid"
+msgstr "{0} soros rács"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Horizontal"
+msgstr "Vízszintes"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Horizontal alignment will place items starting in the upper left and moving right."
+msgstr "A vízszintes igazítás az elemeket a bal felső sarokból indulva, jobbra haladva helyezi el."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Vertical"
+msgstr "Függőleges"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Vertical alignment will place items starting in the upper left and moving down."
+msgstr "A függőleges igazítás az elemeket a bal felső sarokból kezdve, lefelé haladva helyezi el."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Number of columns/lines "
+msgstr "Oszlopok/sorok száma"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "How many columns (in Horizontal mode) or lines (in Vertical mode) to display in the grid."
+msgstr "Hány oszlop (vízszintes igazítás esetén) vagy hány sor (függőleges igazítás esetén) jelenjen meg a rácsban."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Html properties"
+msgstr "HTML tulajdonságok"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Grid tag"
+msgstr "Rács tag"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The tag of the grid. Leave empty for no tag. (e.g., table)"
+msgstr "A rács tag-je. Hagyja üresen, ha nem akarja használni. (pl. table)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Grid id"
+msgstr "Rács id-ja"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The id to provide on the grid element."
+msgstr "A rács elemek id-jának megadása."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Grid class"
+msgstr "Rácsnál használt class"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The class to provide on the grid element."
+msgstr "A rács elemek CSS-osztálya."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Row tag"
+msgstr "Sor tag"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The tag of a row. Leave empty for no tag. (e.g., tr)"
+msgstr "A sorok tag-je. Hagyja üresen, ha nem akarja használni. (pl. tr)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Row class"
+msgstr "Sornál használt class"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The class to provide on each row."
+msgstr "A soroknál használt class."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Cell tag"
+msgstr "Cella tag"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The tag of a cell. Leave empty for no tag. (e.g., td)"
+msgstr "A cellák tag-je. Hagyja üresen, ha nem akarja használni. (pl. td)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Cell class"
+msgstr "Cellák CSS-osztálya"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The class to provide on each cell."
+msgstr "A cellák CSS-osztálya."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "Empty Cell"
+msgstr "Üres cella"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The HTML to render as empty cells to fill a row. (e.g., <td>&nbsp;</td>"
+msgstr "Üres cellák esetén a sort kitöltő HTML. (pl. <td>&nbsp;</td>)"
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The field Alignment is required."
+msgstr "Az Igazítás mező kitöltése kötelező."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The field Columns/Lines is required."
+msgstr "A Sorok/oszlopok mező kitöltése kötelező."
+
+#: "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.GridLayoutForms"
+msgid "The field Columns/Lines must be a valid number."
+msgstr "A Sorok/oszlopok mező értékének számnak kell lennie."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Html"
+msgstr "HTML"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Html Layouts"
+msgstr "HTML elrendezések"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Html List"
+msgstr "HTML lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Organizes content items inside a simple list."
+msgstr "A tartalmi elemeket egy egyszerű listába rendezi."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Ordered Html List"
+msgstr "Rendezett HTML lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayout"
+msgid "Unordered Html List"
+msgstr "Rendezetlen HTML lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Order"
+msgstr "Sorrend"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Unordered list"
+msgstr "Rendezetlen lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Ordered list"
+msgstr "Rendezett lista"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Html properties"
+msgstr "HTML tulajdonságok"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "List id"
+msgstr "Lista id"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "The id to provide on the list element."
+msgstr "A listánál használt id."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "List class"
+msgstr "Lista class"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "The class to provide on the list element."
+msgstr "A listánál használt class."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "Item class"
+msgstr "Elemnél használt class"
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "The class to provide on each list item."
+msgstr "A listaelemeknél használt class."
+
+#: "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ListLayoutForms"
+msgid "You must provide an Order"
+msgstr "Meg kell adnia egy sorrendet"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Html"
+msgstr "HTML"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Html Layouts"
+msgstr "HTML szerkezet"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Raw"
+msgstr "Nyers"
+
+#. "Renders content with custom separators."
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayout"
+msgid "Renders content with custom separators."
+msgstr "Tartalom megjelenítése saját elválasztókkal."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Html properties"
+msgstr "HTML attribútumok"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Container tag"
+msgstr "Konténer tag-je"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The tag of the container. Leave empty for no container."
+msgstr "A konténer tag-je. Hagyja üresen, ha nem akar tag-et."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Container id"
+msgstr "Konténer ID-ja"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The id to provide on the container element."
+msgstr "A konténer elem ID-ja."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Container class"
+msgstr "Konténer CSS-osztálya"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The class to provide on the container element."
+msgstr "A konténer elemen megjelenő CSS-osztály."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Item tag"
+msgstr "Elem tag-je"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The tag of each item. Leave empty for no tag."
+msgstr "Az elemek tag-je. Hagyja üresen, ha nem akar tag-et."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Item class"
+msgstr "Elem CSS-osztálya"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "The class to provide on each item."
+msgstr "Az összes elemen megjelenő CSS-osztály."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Prepend"
+msgstr "Beszúrás elé"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Some HTML to insert before the first element."
+msgstr "A HTML kód, ami az első elem elé kerül."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Separator"
+msgstr "Elválasztó"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Some HTML to insert between two items."
+msgstr "A HTML-kód, ami két elem közé kerül."
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Append"
+msgstr "Hozzáillesztés"
+
+#: "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.RawLayoutForms"
+msgid "Some HTML to insert after the last element."
+msgstr "A HTML kód, amely az utolsó elem után kerül."
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Html"
+msgstr "HTML"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Html Layouts"
+msgstr "HTML szerkezet"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Shape"
+msgstr "Shape"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Uses a specific shape name to render the layout."
+msgstr "Egy bizonyos shape nevet használ a szerkezet megjelenítéséhez."
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayout"
+msgid "Renders content in a {0} layout"
+msgstr "Tartalom megjelenítése {0} szerkezetben"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgid "Shape options"
+msgstr "Shape beállítások"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgid "Shape type"
+msgstr "Shape típusa"
+
+#: "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgctxt "Orchard.Projections.Providers.Layouts.ShapeLayoutForms"
+msgid "The type of the shape which is used for rendering content items."
+msgstr "A tartalomelemek megjelenítéséhez használt shape típusa."
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "{0} Content Fields"
+msgstr "{0} mezők"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "Content Fields for {0}"
+msgstr "Mezők ennek: {0}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "{0} property for {1}"
+msgstr "{0} tulajdonság ennek: {1}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "Field {0}: {1}"
+msgstr "{0} mező: {1}"
+
+#: "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentFieldProperties"
+msgid "Default value"
+msgstr "Alapértelmezett érték"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Content properties"
+msgstr "Tartalom tulajdonságai"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Display Text"
+msgstr "Megjelenítendő szöveg"
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "The text representing the content, e.g. its Title."
+msgstr "A tartalmat reprezentáló szöveg, pl. a címe."
+
+#: "Orchard.Projections.Providers.Properties.ContentProperties"
+msgctxt "Orchard.Projections.Providers.Properties.ContentProperties"
+msgid "Content: Display Text"
+msgstr "Tartalom: megjelenítendő szöveg"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Content properties"
+msgstr "Tartalom tulajdonságok"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Custom Value"
+msgstr "Egyéni érték"
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "A static text. Use it for custom tokens with Rewrite options."
+msgstr "Statikus szöveg. Saját, újraírható token-ekhez használhatja."
+
+#: "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgctxt "Orchard.Projections.Providers.Properties.CustomValueProperty"
+msgid "Content: Custom Value"
+msgstr "Tartalom: Egyéni érték"
+
+#: "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgctxt "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgid "Members for {0}"
+msgstr "Mezők ennek: {0}"
+
+#: "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgctxt "Orchard.Projections.Providers.Properties.MemberBindingProperties"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "{0} Content Fields"
+msgstr "{0} mezők"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "Content Fields for {0}"
+msgstr "Mezők ennek: {0}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "{0} property for {1}"
+msgstr "{0} tulajdonság ennek: {1}"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "Ordered by field {0}, ascending"
+msgstr "A(z) {0} mező szerint rendezve, növekvő sorrendben"
+
+#: "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.ContentFieldsSortCriterion"
+msgid "Ordered by field {0}, descending"
+msgstr "A(z) {0} mező szerint rendezve, csökkenő sorrendben"
+
+#: "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgctxt "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgid "Members for {0}"
+msgstr "Mezők ennek: {0}"
+
+#: "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgctxt "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgid "Ordered by {0}, ascending"
+msgstr "{0} szerint rendezve, növekvő sorrendben"
+
+#: "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgctxt "Orchard.Projections.Providers.SortCriteria.MemberBindingSortCriteria"
+msgid "Ordered by {0}, descending"
+msgstr "{0} szerint rendezve, csökkenő sorrendben"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "General"
+msgstr "Általános"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "General sort criteria"
+msgstr "Általános rendezési kritériumok"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "Random"
+msgstr "Véletlenszerű"
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "Sorts the results randomly."
+msgstr "Véletlenszerűen rendezi az elemeket."
+
+#: "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgctxt "Orchard.Projections.Providers.SortCriteria.RandomSortCriterion"
+msgid "Random order"
+msgstr "Véletlenszerű sorrend"
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "Sort ascending"
+msgstr "Növekvő sorrend"
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "Sort descending"
+msgstr "Csökkenő sorrend"
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "The direction the field will be sorted by."
+msgstr "A mező rendezésének iránya."
+
+#: "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgctxt "Orchard.Projections.Providers.SortCriteria.SortCriterionFormProvider"
+msgid "The Sort field is required."
+msgstr "A rendezés mező kitöltése kötelező."
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Edit Query - {0}"
+msgstr "Lekérdezés szerkesztése - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Filters"
+msgstr "Szűrők"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Add a new Group"
+msgstr "Új csoport hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Or"
+msgstr "Vagy"
+
+#. "Description"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "+ Add a new Filter"
+msgstr "+ Új szűrő hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Delete group"
+msgstr "Csoport törlése"
+
+#. "Edit"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Sort Criteria"
+msgstr "Rendezési kritérium"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "+ Add a new Sort Criteria"
+msgstr "+ Új rendezési kritérium hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Up"
+msgstr "Felfele"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Down"
+msgstr "Lefele"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Layouts"
+msgstr "Elrendezések"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "+ Add a new Layout"
+msgstr "+ Új elrendezés hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Add a new Layout"
+msgstr "Új elrendezés hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Edit.cshtml"
+msgid "Close"
+msgstr "Bezárás"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Manage Queries"
+msgstr "Lekérdezések kezelése"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Add a new Query"
+msgstr "Új lekérdezés hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "Sorrend:"
+
+#. "Name"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "Mutassa:"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "Mindegyik"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrő"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Index.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgid "Manage Queries"
+msgstr "Lekérdezések kezelése"
+
+#: "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Admin/Preview.cshtml"
+msgid "The query returned no results"
+msgstr "A lekérdezés nem adott vissza eredményt"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Binding"
+msgstr "Kötések"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Content Part Record"
+msgstr "Tartalomrész recordja"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "The content part to add to the providers."
+msgstr "A providerekhez hozzáadandó tartalomrész."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Member"
+msgstr "Mező"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "The name of the member."
+msgstr "A mező neve."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Display"
+msgstr "Megjelenés"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Text to display in lists for this property."
+msgstr "Szöveg a tulajdonság listákban való megjelenítéséhez."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Description to display in lists for this property."
+msgstr "Leírás a tulajdonság listákban való megjelenítéséhez."
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Manage Bindings"
+msgstr "Kötések kezelése"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Add a new Binding"
+msgstr "Új kötés hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Sort by:"
+msgstr "Sorrend:"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Show:"
+msgstr "Mutassa:"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "All"
+msgstr "Mindegyik"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrő"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Type"
+msgstr "Típus"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Member"
+msgstr "Mező"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Display"
+msgstr "Megjelenés"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgid "Add a Binding"
+msgstr "Kötés hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgid "There are no currently available bindings"
+msgstr "Jelenleg nincsenek rendelkezésre álló kötések"
+
+#: "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Binding/Select.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "For Query"
+msgstr "Lekérdezés"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "Edit Query"
+msgstr "Lekérdezés szerkesztése"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "The query to use to create menu items."
+msgstr "A lekérdezés a menüpontok létrehozására."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "Items to display"
+msgstr "Megjelenítendő elemek"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "The number of items to display. Enter 0 for no limit."
+msgstr "A megjelenítendő elemek száma. 0 esetén nincs korlátozás."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "Offset"
+msgstr "Eltolás"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/NavigationQueryPart.cshtml"
+msgid "The number of items to skip (e.g., if 2 is entered, the first 2 items won't be diplayed)."
+msgstr "Kihagyni szánt elemek száma (pl. 2 esetén az első 2 elem nem jelenik meg)."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "For Query"
+msgstr "Lekérdezés"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "(Default Layout)"
+msgstr "(Alapértelmezett elrendezés)"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "({0})"
+msgstr "({0})"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Edit Query"
+msgstr "Lekérdezés szerkesztése"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "The query to display."
+msgstr "A megjelenítendő lekérdezés."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Items to display"
+msgstr "Megjelenítendő elemek"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "The number of items to display. Enter 0 for no limit. When using pagination, this is the number of items per page."
+msgstr "A megjelenítendő elemek száma. Adjon meg 0-t a korlátozás megszüntetéséhez. Oldalakra bontás esetén ez az egy oldalon megjelenő elemek száma."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Offset"
+msgstr "Kihagyás"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "The number of items to skip (e.g., if 2 is entered, the first 2 items won't be diplayed)."
+msgstr "A kihagyott elemek száma (pl. ha a az értéke 2, az első két elem nem lesz megjelenítve)."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Maximum items"
+msgstr "Maximális elemek"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Maximum number of items which can be queried at once. Use 0 for unlimited. This is only used as a failsafe when the number of items comes from a user-provided source such as the query string."
+msgstr "Az egyszerre lekérdezhető elemek maximális száma. Használjon 0-t a korlátlanhoz. Ez csak biztonsági okokból szükséges, amikor az elemek száma egy felhasználó által megadott forrásból, például az URL-ből származik."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Suffix"
+msgstr "Végződés (suffix)"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Optional. Provide a suffix to use when multiple pagers are displayed on the same page, e.g., when using multiple Projection Widgets, or to define alternates."
+msgstr "Opcionális. Adjon meg egy végződést (suffixet), ha több oldalszámozás is megjelenik ugyanazon a lapon, pl. ha több Projection Widget látható, vagy alternatívok megadásához."
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Show pager"
+msgstr "Oldalszámozás megjelenítése"
+
+#: "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/EditorTemplates/Parts/ProjectionPart.cshtml"
+msgid "Check to add a pager to the list."
+msgstr "Jelölje be oldalszámozás hozzáadásához."
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "Add a Filter"
+msgstr "Szűrő hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "There are no currently available filters"
+msgstr "Jelenleg nem található szűrők"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Add.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "Edit Filter - {0}"
+msgstr "Szűrő szerkesztése - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "You may optionally give a description to this filter, to be used in the dashboard screens."
+msgstr "Opcionálisan megadhat ennek a szűrőnek egy leírást, ami az adminisztrációs felületen fog megjelenni."
+
+#: "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Filter/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "Add a Layout"
+msgstr "Elrendezés hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "There are no currently available layouts"
+msgstr "Jelenleg nem találhatók elrendezések"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Add.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Edit Layout - {0}"
+msgstr "Elrendezés szerkesztése - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgstr "Opcionálisan megadhat ennek az elrendezésnek egy leírást, ami az adminisztrációs felületen fog megjelenni."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Display mode"
+msgstr "Megjelenítési mód"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "You can choose to display each content item using specific properties only."
+msgstr "Kiválaszthatja, hogy mindegyik tartalmi elemnek csak meghatározott tulajdonságai jelenjenek meg."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Display Type"
+msgstr "DisplayType (megjelenítési típus)"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "The display type determines how the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgstr "A DisplayType (megjelenítési típus) azt tükrözi, hogy a tartalom milyen módon legyen formázva, pl. Summary, SummaryAdmin, Detail, stb."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "You can only add properties when this layout is saved."
+msgstr "Csak akkor adhat tulajdonságokat, ha előbb elmenti ezt az elrendezést."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Create.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Edit Layout - {0}"
+msgstr "Elrendezés szerkesztése - {0}"
+
+#. "Description"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "You may optionally give a description to this layout, to be used in the dashboard screens."
+msgstr "Opcionálisan megadhat ennek az elrendezésnek egy leírást, ami az adminisztrációs felületen fog megjelenni."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Display mode"
+msgstr "Megjelenítési mód"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Content"
+msgstr "Tartalom"
+
+#. "Properties"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Properties"
+msgstr "Tulajdonságok"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "You can choose to display each content item using specific properties only."
+msgstr "Kiválaszthatja, hogy mindegyik tartalmi elemnek csak meghatározott tulajdonságai jelenjenek meg."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Display Type"
+msgstr "DisplayType (megjelenítési típus)"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "The display type determines how the content item should be formatted. e.g., Summary, SummaryAdmin, Detail, ..."
+msgstr "A DisplayType (megjelenítési típus) azt tükrözi, hogy a tartalom milyen módon legyen formázva, pl. Summary, SummaryAdmin, Detail, stb."
+
+#. "Add a new Property"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Add a new Property"
+msgstr "Új tulajdonság hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Delete"
+msgstr "Törlése"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Up"
+msgstr "Felfele"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Down"
+msgstr "Lefele"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Grouping property"
+msgstr "Csoportosításhoz használt tulajdonság"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "None"
+msgstr "Nincs"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Optionally, select a property which will be used to group content items."
+msgstr "Opcionálisan választhat egy tulajdonságot, ami alapján az elemek csoportosítva lesznek."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "No properties are currently available in order to group this view."
+msgstr "Jelenleg nem találhatók tulajdonságok, melyekkel ezt a nézetet csoportosítani lehetne."
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Layout/Edit.cshtml"
+msgid "Close"
+msgstr "Bezárás"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "Add a Property"
+msgstr "Tulajdonság hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "There are no currently available properties"
+msgstr "Jelenleg nincsenek tulajdonságok"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Add.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Edit Property - {0}"
+msgstr "Tulajdonság szerkesztése - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "You may optionally give a description to this property, to be used in the dashboard screens."
+msgstr "Opcionálisan megadhat ennek a tulajdonságnak egy leírást, ami az adminisztrációs felületen fog megjelenni."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Display"
+msgstr "Megjelenítés"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Link to original content item"
+msgstr "Link az eredeti tartalmi elemre"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to make this property a link to the original content item."
+msgstr "Jelölje be, hogy a tulajdonság link legyen az eredeti tartalmi elemre."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Exclude from display"
+msgstr "Kihagyás a megjelenítésből"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check if this property should not be displayed, but only used by the layout for grouping for instance."
+msgstr "Jelölje be, ha ezt a tulajdonságot nem kell megjeleníteni, de az elrendezés használja pl. az elemek csoportosításához."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Label"
+msgstr "Címke"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Create a label"
+msgstr "Címke létrehozása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The text to display as a label for this property."
+msgstr "A tulajdonság címkéjeként megjelenítendő szöveg."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Style"
+msgstr "Stílus"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Customize property HTML"
+msgstr "Tulajdonság HTML-ének testreszabása"
+
+#. "HTML element"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "HTML element"
+msgstr "HTML elem"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The HTML element to wrap around this property (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "A tulajdonságot körülvevő HTML elem (pl. h1, p, stb.). Használjon kötőjelet (-), hogy ne jelenjen meg a tag."
+
+#. "Css class"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Css class"
+msgstr "CSS osztály"
+
+#. "The Css class to apply to this element."
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The Css class to apply to this element."
+msgstr "Az elemre alkalmazandó CSS osztály."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Customize label HTML"
+msgstr "Címke HTML-ének testreszabása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The HTML element to wrap around this label (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "A címkét körülvevő HTML elem (pl. h1, p, stb.). Használjon kötőjelet (-), hogy ne jelenjen meg a tag."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Customize Wrapper HTML"
+msgstr "Wrapper HTML-ének testreszabása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The HTML element to wrap around this wrapper (e.g., h1, p, etc.). Use - to prevent a tag from being rendered."
+msgstr "A wrappert körülvevő HTML elem (pl. h1, p, stb.). Használjon kötőjelet (-), hogy ne jelenjen meg a tag."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "No Results"
+msgstr "Nincs eredmény"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "No results text"
+msgstr "Nincs eredmény szöveg"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Text to display when the property is empty."
+msgstr "Megjelenítendő szöveg, ha a tulajdonság üres."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Number 0 as empty"
+msgstr "A 0 szám mint üres"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to simulate empty text when result is the number 0"
+msgstr "Jelölje be üres szöveg szimulálásához, amennyiben az eredmény a 0 szám."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Hide if empty"
+msgstr "Elrejtés, ha üres"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to hide the whole property when the value is empty."
+msgstr "Jelölje be, hogy az egész tulajdonság el legyen rejtve, amennyiben üres."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Rewrite Results"
+msgstr "Eredmény újraírása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Rewrite output"
+msgstr "Kimenet újraírása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to override the output of this property."
+msgstr "Jelölje be a tulajdonság kimenetének felülírásához."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Rewrite text"
+msgstr "Szöveg újraírása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The text to write for this field. It may include HTML. {Text} can be used to inject the current property text."
+msgstr "A mezőbe beleírandó szöveg. Tartalmazhat HTML-t. A \"{Text}\" token használható a tulajdonság értékének beszúrására."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Trim"
+msgstr "Lerövidítés"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to trim the result if it's longer that a specified amount of characters."
+msgstr "Jelölje be, hogy az eredmény le legyen rövidítve amennyiben hosszabb, mint a megadott karakterszám."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Maximum length"
+msgstr "Maximális hossz"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "The maximum number of characters this property can be."
+msgstr "A tulajdonság maximális hossza, karakterben."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Trim only on a word boundary"
+msgstr "Elválasztás csak szóhatáron"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Checked to trim the property only on a word boundary."
+msgstr "Jelölje be, hogy a tulajdonság csak szóhatáron legyen elválasztva."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Add an Ellipsis"
+msgstr "Szókihagyás jelzésének hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to insert and ellipsis ({0}) if the property is trimmed."
+msgstr "Jelölje be, hogy megjelenjen a szókihagyás jelzése ({0}), ha a tulajdonság rövidítve van."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Strip HTML tags"
+msgstr "HTML tagek eltávolítása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to remove any HTML tag from the property."
+msgstr "Jelölje be, hogy minden HTML tag el legyen távolítva a tulajdonságból."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Remove whitespace"
+msgstr "Üres helyek (szóközök, tabulátorok...) eltávolítása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to remove the spaces at both the beginning and the end of the property."
+msgstr "Jelölje be, hogy a tulajdonságok elején és végén található szóközök el legyenek távolítva."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Preserve new lines"
+msgstr "Sortörések megtartása"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Check to convert a line break to a &lt;br /&gt; tag."
+msgstr "Jelölje be, hogy a sortörések &lt;br /&gt; taggé legyenek alakítva."
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/Property/Edit.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "Add a Sort Criterion"
+msgstr "Rendezési kritérium hozzáadása"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "There are no currently available sort criterias"
+msgstr "Jelenleg nincsenek rendezési kritériumok"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Add.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "Edit Sort Criterion - {0}"
+msgstr "Rendezési kritérium szerkesztése - {0}"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "You may optionally give a description to this sort criterion, to be used in the dashboard screens."
+msgstr "Opcionálisan megadhat ennek a rendezési kritériumnak egy leírást, ami az adminisztrációs felületen fog megjelenni."
+
+#: "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Projections/Views/SortCriterion/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+

@@ -1,0 +1,196 @@
+msgctxt "~/Modules/Orchard.ImageEditor/Module.txt"
+msgid "Image Editor"
+msgstr "Képszerkesztő"
+
+msgctxt "~/Modules/Orchard.ImageEditor/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.ImageEditor/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Orchard.ImageEditor.Description"
+msgctxt "~/Modules/Orchard.ImageEditor/Module.txt"
+msgid "Adds a client side image editor for Media Library"
+msgstr "Kliensoldali képszerkesztő a Mediatárhoz"
+
+msgctxt "~/Modules/Orchard.ImageEditor/Module.txt"
+msgid "Media"
+msgstr "Média"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Content-ImageEditor.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Content-ImageEditor.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Content-ImageEditor.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Content-ImageEditor.cshtml"
+msgid "Close"
+msgstr "Bezár"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Crop.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Crop.cshtml"
+msgid "Crop"
+msgstr "Levágás"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "Maintain proportions"
+msgstr "Képarány rögzítése"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "Width"
+msgstr "Szélesség"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "The width of the selection in pixels."
+msgstr "A kiválasztott terület szélessége pixelben."
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "Height"
+msgstr "Magasság"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "The height of the selection in pixels."
+msgstr "A kiválasztott terület magassága pixelben."
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.CropOptions.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.cshtml"
+msgid "Image Editor"
+msgstr "Képszerkesztő"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Effects.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Effects.cshtml"
+msgid "Preset"
+msgstr "Előzetes beállítás"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.EffectsOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.EffectsOptions.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.EffectsOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.EffectsOptions.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Filter.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Filter.cshtml"
+msgid "Filters"
+msgstr "Szűrők"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "brightness"
+msgstr "fényesség"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "saturation"
+msgstr "telítettség"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "exposure"
+msgstr "expozíció"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "sepia"
+msgstr "szépia"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "noise"
+msgstr "zaj"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "contrast"
+msgstr "kontraszt"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "vibrance"
+msgstr "élénkség"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "hue"
+msgstr "árnyalat"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "gamma"
+msgstr "gamma"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "clip"
+msgstr "levágás"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.FilterOptions.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Resize.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.Resize.cshtml"
+msgid "Resize"
+msgstr "Átméretezés"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "Maintain proportions"
+msgstr "Képarány rögzítése"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "Width"
+msgstr "Szélesség"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "The width of the new image in pixels."
+msgstr "Az új kép szélessége pixelben."
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "Height"
+msgstr "Magasság"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "The height of the new image in pixels."
+msgstr "Az új kép magassága pixelben."
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgctxt "~/Modules/Orchard.ImageEditor/Views/Parts/Image.Editor.ResizeOptions.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+

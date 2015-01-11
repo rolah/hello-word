@@ -1,0 +1,51 @@
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "Archive Later"
+msgstr "Archiválás később"
+
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.ArchiveLater/Module.txt"
+msgid "The ArchiveLater module introduces scheduled archiving functionality."
+msgstr "Az Archiválás később (ArchiveLater) modul ütemezett archiválási funkciót vezet be. "
+
+#: "Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver"
+msgctxt "Orchard.ArchiveLater.Drivers.ArchiveLaterPartDriver"
+msgid "'{0} {1}' could not be parsed as a valid date and time."
+msgstr "'{0} {1}' nem értelmezhető, mint érvényes dátum és idő."
+
+#: "Orchard.ArchiveLater.Services.ArchiveLaterService"
+msgctxt "Orchard.ArchiveLater.Services.ArchiveLaterService"
+msgid "Couldn't archive selected content."
+msgstr "A kijelölt tartalom nem archiválható."
+
+#: "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Archive Settings"
+msgstr "Archiválási beállítások"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/EditorTemplates/Parts/ArchiveLater.cshtml"
+msgid "Archive Later"
+msgstr "Archiválás később"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "Scheduled"
+msgstr "Ütemezett"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "The page is scheduled for archiving"
+msgstr "Az oldal archiválása be van ütemezve"
+
+#: "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ArchiveLater/Views/Parts/ArchiveLater.Metadata.SummaryAdmin.cshtml"
+msgid "Unpublish on"
+msgstr "Közzététel visszavonásának ideje:"
+

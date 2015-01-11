@@ -1,0 +1,443 @@
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "AntiSpam"
+msgstr "AntiSpam"
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard Csapat"
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#. "Orchard.AntiSpam.Description"
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "Provides anti-spam services to protect your content from malicious submissions."
+msgstr "Spamszűrési szolgáltatásokat biztosít a káros tartalmak kivédésére."
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "Anti-Spam"
+msgstr "Anti-Spam"
+
+#. "Akismet.Filter.Category"
+#. "TypePad.Filter.Category"
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "Security"
+msgstr "Biztonság"
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "Akismet Anti-Spam Filter"
+msgstr "Akismet spamszűrő"
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "Provides an anti-spam filter based on Akismet."
+msgstr "Spamszűrést tesz lehetőve az Akismet-re alapozva."
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "TypePad Anti-Spam Filter"
+msgstr "TypePad spamszűrő"
+
+msgctxt "~/Modules/Orchard.AntiSpam/Module.txt"
+msgid "Provides an anti-spam filter based on TypePad."
+msgstr "Spamszűrési szolgáltatást biztosít a TypePad-re alapozva."
+
+#: "Orchard.AntiSpam.AdminMenu"
+msgctxt "Orchard.AntiSpam.AdminMenu"
+msgid "Spam"
+msgstr "Spam"
+
+#: "Orchard.AntiSpam.AdminMenu"
+msgctxt "Orchard.AntiSpam.AdminMenu"
+msgid "Manage Spam"
+msgstr "Spam-ek kezelése"
+
+#. "Not authorized to manage spam"
+msgctxt "Orchard.AntiSpam.Controllers.AdminController"
+msgid "Not authorized to manage spam"
+msgstr "Nincs hozzáférése a spam-ek kezeléséhez"
+
+#: "Orchard.AntiSpam.Drivers.JavaScriptAntiSpamPartDriver"
+msgctxt "Orchard.AntiSpam.Drivers.JavaScriptAntiSpamPartDriver"
+msgid "You are either a bot (we only serve humans, sorry) or have JavaScript turned off. If the latter, please turn on JavaScript to post this form."
+msgstr "Ön vagy egy robot (csak emberi felhasználókat tudunk kiszolgálni, sajnáljuk) vagy a JavaScript ki van kapcsolva a böngészőben. Utóbbi esetében kérem engedélyezze a JavaScript-et az űrlap beküldéséhez."
+
+#. "The text you entered in the Captcha field does not match the image"
+msgctxt "Orchard.AntiSpam.Drivers.ReCaptchaPartDriver"
+msgid "The text you entered in the Captcha field does not match the image"
+msgstr "Az ön által megadott szöveg nem egyezik a Captcha képen láthatóval"
+
+#: "Orchard.AntiSpam.Drivers.ReCaptchaPartDriver"
+msgctxt "Orchard.AntiSpam.Drivers.ReCaptchaPartDriver"
+msgid "There was an error while validating the Captcha image"
+msgstr "Hiba történt a Captch-kép ellenőrzése során"
+
+#: "Orchard.AntiSpam.Drivers.SpamFilterPartDriver"
+msgctxt "Orchard.AntiSpam.Drivers.SpamFilterPartDriver"
+msgid "Spam detected."
+msgstr "Spam észlelve."
+
+#: "Orchard.AntiSpam.Drivers.SubmissionLimitPartDriver"
+msgctxt "Orchard.AntiSpam.Drivers.SubmissionLimitPartDriver"
+msgid "The limit of submissions has been reached."
+msgstr "Elérte a beküldhető tartalmak számának engedélyezett mennyiségét."
+
+#: "Orchard.AntiSpam.Handlers.AkismetSettingsPartHandler"
+msgctxt "Orchard.AntiSpam.Handlers.AkismetSettingsPartHandler"
+msgid "Spam"
+msgstr "Spam"
+
+#: "Orchard.AntiSpam.Handlers.ReCaptchaSettingsPartHandler"
+msgctxt "Orchard.AntiSpam.Handlers.ReCaptchaSettingsPartHandler"
+msgid "Spam"
+msgstr "Spam"
+
+#: "Orchard.AntiSpam.Handlers.TypePadSettingsPartHandler"
+msgctxt "Orchard.AntiSpam.Handlers.TypePadSettingsPartHandler"
+msgid "Spam"
+msgstr "Spam"
+
+#. "Anti-Spam"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "Anti-Spam"
+msgstr "Anti-Spam"
+
+#: "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "Spam Reported"
+msgstr "Spam bejelentve"
+
+#: "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "Content is categorized as spam."
+msgstr "A tartalomelem spam."
+
+#: "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "When content is categorized as spam."
+msgstr "Amikor egy tartalomelem spam-ként van megjelölve."
+
+#: "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "Ham Reported"
+msgstr "Nem-spam bejelentve"
+
+#: "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "Content is categorized as ham."
+msgstr "A tartalomelem nem spam."
+
+#: "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgctxt "Orchard.AntiSpam.Rules.AntiSpamEvents"
+msgid "When content is categorized as ham."
+msgstr "Amikor egy tartalomelem nem spam-ként van megjelölve."
+
+#: "Orchard.AntiSpam.Services.MissingFilterBanner"
+msgctxt "Orchard.AntiSpam.Services.MissingFilterBanner"
+msgid "Anti-spam protection requires at least one anti-spam filter to be enabled and configured."
+msgstr "A spamvédelemhez szükséges legalább egy engedélyezett és konfigurált spamszűrő megléte."
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Manage Spam"
+msgstr "Spam-ek kezelése"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Mark as Spam"
+msgstr "Spam-ként megjelölés"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Mark as Ham"
+msgstr "Nem Spam"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Filter:"
+msgstr "Szűrő:"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "any (show all)"
+msgstr "bármely (összes)"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Spam"
+msgstr "Spam"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Ham"
+msgstr "Nem Spam"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "Rendezés:"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Creation date"
+msgstr "Létrehozás dátuma"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "Mutat:"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "Mind"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrés"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "When should items for this content type be categorized as Spam ?"
+msgstr "Milyen esetekben legyenek az ilyen típusú tartalomelemek Spam-ként megjelölve?"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "At least one filter reports spam"
+msgstr "Legalább egy Spamszűrő aktiválódjon"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "All filters report spam"
+msgstr "Minden Spamszűrő aktiválódjon"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Delete spam when found"
+msgstr "Spam-ek azonnali törlése"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Enable to have spam automatically deleted when found. You won't be able to find false positive."
+msgstr "Engedélyezze, hogy az észlelt spam-ek azonnal törlődjenek. Ebben az esetben nem tudja majd kezelni a téves riasztásokat."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Url"
+msgstr "URL"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "The front page or home URL of the instance making the request. For a blog or wiki this would be the front page. Note: Must be a full URI, including http://."
+msgstr "A kérést küldő oldal főoldala vagy alap URL-je. Egy blog vagy wiki esetében ez a főoldal. Fontos: teljes URL-nek kell lennie, amely http://-vel kezdődik."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Permalink"
+msgstr "Állandó hivatkozás"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "The permanent location of the entry the content item was submitted to."
+msgstr "Az állandó elérési útja a tartalmi elemnek, amely a beküldéskor létrejött."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Author"
+msgstr "Szerző"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Name submitted with the content item."
+msgstr "A tartalomelem beküldésekor megadott név."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Author's email"
+msgstr "Szerző email címe"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Email address submitted with the content item."
+msgstr "A tartalomelem beküldésekor megadott email cím."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Author's url"
+msgstr "Szerző által megadott URL"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "URL submitted with the content item."
+msgstr "A tartalom beküldésekor megadott URL."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "Comment content"
+msgstr "Hozzászólás szövege"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SpamFilterPartSettings.cshtml"
+msgid "The content that was submitted."
+msgstr "A beküldött tartalomelem."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "The number of allowed submissions."
+msgstr "A beküldések engedélyezett mennyisége."
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "Day"
+msgstr "Nap"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "Hour"
+msgstr "Óra"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "Month"
+msgstr "Hónap"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "Year"
+msgstr "Év"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "Overall"
+msgstr "Összesen"
+
+#: "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/DefinitionTemplates/SubmissionLimitPartSettings.cshtml"
+msgid "The period to take into account."
+msgstr "A hozzá tartozó időtartam."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgid "Akismet"
+msgstr "Akismet"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgid "Trust content submitted by authenticated users"
+msgstr "Bejelentkezett felhasználók tartalmainak elfogadása"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgid "Check if authenticated users should have their content automatically approved."
+msgstr "Jelölje be, hogy a bejelentkezett felhasználók által beküldött tartalmak automatikusan jóváhagyásra kerüljenek."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgid "Api key"
+msgstr "API-kulcs"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.AkismetSettings.cshtml"
+msgid "API key for <a href=\"http://akismet.com/personal/\">Akismet</a> service."
+msgstr "API-kulcs az <a href=\"http://akismet.com/personal/\">Akismet</a> szolgáltatáshoz."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgid "ReCaptcha"
+msgstr "ReCaptcha"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgid "Your public key."
+msgstr "Az ön nyilvános kulcsa."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgid "Your private key."
+msgstr "Az ön titkos kulcsa."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgid "Get custom keys:"
+msgstr "Saját kulcsok beszerzése:"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgid "Hide for authenticated users"
+msgstr "Elrejtés bejelentkezett felhasználóknál"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.ReCaptchaSettings.cshtml"
+msgid "Enable to hide reCaptcha when the user is authenticated."
+msgstr "Jelölje be a reCaptcha elrejtéséhez bejelentkezett felhasználók esetén."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgid "TypePad"
+msgstr "TypePad"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgid "Trust content submitted by authenticated users"
+msgstr "Bejelentkezett felhasználók tartalmainak elfogadása"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgid "Check if authenticated users should have their content automatically approved."
+msgstr "Jelölje be, hogy a bejelentkezett felhasználók által beküldött tartalmak automatikusan jóváhagyásra kerüljenek."
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgid "Api key"
+msgstr "API-kulcs"
+
+#: "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/EditorTemplates/Parts/AntiSpam.TypePadSettings.cshtml"
+msgid "API key for <a href=\"http://antispam.typepad.com/info/get-api-key.html\">TypePad AntiSpam</a> service."
+msgstr "API-kulcs a <a href=\"http://antispam.typepad.com/info/get-api-key.html\">TypePad AntiSpam</a> szolgáltatáshoz."
+
+#: "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
+msgid "Not Spam"
+msgstr "Nem spam"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
+msgid "Spam"
+msgstr "Spam"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.Actions.cshtml"
+msgid " | "
+msgstr " | "
+
+#. "Spam"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.SummaryAdmin.cshtml"
+msgid "Spam"
+msgstr "Spam"
+
+#: "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.AntiSpam/Views/Parts/SpamFilter.Metadata.SummaryAdmin.cshtml"
+msgid "The content has been categorized as spam"
+msgstr "A tartalom spam-ként lett minősítve"
+

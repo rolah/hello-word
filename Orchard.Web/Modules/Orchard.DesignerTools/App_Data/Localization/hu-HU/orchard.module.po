@@ -1,0 +1,107 @@
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Designer Tools"
+msgstr "Tervezői eszközök"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Contains designer tools to ease the Themes development process"
+msgstr "Tervezői eszközök a témák kidolgozásának megkönnyítésére"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Url Alternates"
+msgstr "URL alternatívák"
+
+#. "WidgetAlternates.Category"
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Designer"
+msgstr "Tervező"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Adds shape alternates for specific urls"
+msgstr "Alternatív shape-eket ad hozzá a megadott URL címekhez"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Widget Alternates"
+msgstr "Widget alternatívák"
+
+msgctxt "~/Modules/Orchard.DesignerTools/Module.txt"
+msgid "Adds shape alternates for content types stereotyped as widgets, allowing to customize shapes by widget and zone"
+msgstr "A tartalomtípusokhoz alternatív shape-eket ad widgetként, hogy a shape-eket widgetenként és zónákként testre lehessen szabni"
+
+#: "Orchard.DesignerTools.Controllers.AlternateController"
+msgctxt "Orchard.DesignerTools.Controllers.AlternateController"
+msgid "Not authorized to create templates"
+msgstr "Nem hozhat létre sablonokat"
+
+#. "n/a"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml"
+msgid "n/a"
+msgstr "n.e"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingMeta.cshtml"
+msgid "Content not available as coming from source code."
+msgstr "A tartalom nem elérhető, mivel a forráskódból jön."
+
+#. "Shape"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Shape"
+msgstr "Shape"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Model"
+msgstr "Modell"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Placement"
+msgstr "Elhelyezés"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Template"
+msgstr "Sablon"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "HTML"
+msgstr "HTML"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Active Template"
+msgstr "Aktív sablon"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Original Template"
+msgstr "Eredeti sablon"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Display Type"
+msgstr "Megjelenítési formátum"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Alternate ({0})"
+msgstr "Alternatív ({0})"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Create"
+msgstr "Létrehozás"
+
+#: "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgctxt "~/Modules/Orchard.DesignerTools/Views/ShapeTracingTemplates.cshtml"
+msgid "Wrappers ({0})"
+msgstr "Wrapper-ek ({0})"
+

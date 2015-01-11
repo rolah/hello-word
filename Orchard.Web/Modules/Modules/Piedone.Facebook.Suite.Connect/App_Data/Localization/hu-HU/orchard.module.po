@@ -1,0 +1,216 @@
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Facebook Suite Connect"
+msgstr "Facebook Suite Connect"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Piedone"
+msgstr "Piedone"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "http://facebooksuiteconnect.codeplex.com"
+msgstr "http://facebooksuiteconnect.codeplex.com "
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Lets users authenticate with their Facebook account"
+msgstr "Lehetővé teszi, hogy a felhasználók a Facebook-fiókjukkal bejelentkezzenek"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Piedone.Facebook.Suite.Connect.Name"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Facebook Connect"
+msgstr "Facebook Connect"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Piedone.Facebook.Suite.Connect.Description"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Lets users authenticate with their Facebook account"
+msgstr "Lehetővé teszi, hogy a felhasználók a Facebook-fiókjukkal bejelentkezzenek"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Module.txt
+#| msgid "Piedone.Facebook.Suite.Connect.Category"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Module.txt"
+msgid "Facebook Suite"
+msgstr "Facebook Suite "
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "Simple registration is not allowed on this site"
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "Simple registration is not allowed on this site"
+msgstr "Az egyszerű regisztráció nem engedélyezett ezen az oldalon"
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "The username you tried to register is taken. Please choose another one."
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "The username you tried to register is taken. Please choose another one."
+msgstr "Az igényelt felhasználónév már foglalt. Kérjük válasszon egy másikat."
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "You haven't granted the requested permissions."
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "You haven't granted the requested permissions."
+msgstr "Ön nem adta meg a kért engedélyeket."
+
+#: Piedone.Facebook.Suite.Controllers.ConnectController
+#| msgid "You're not a verified Facebook user. Only verified users are allowed to register, so please verify your account."
+msgctxt "Piedone.Facebook.Suite.Controllers.ConnectController"
+msgid "You're not a verified Facebook user. Only verified users are allowed to register, so please verify your account."
+msgstr "Ön nem egy megerősített Facebook felhasználó. Csak megerősített felhasználók regisztrálhatnak, így kérjük erősítse meg a Facebbok-fiókját."
+
+#: Piedone.Facebook.Suite.Drivers.FacebookConnectWidgetPartDriver
+#| msgid "Currently the Facebook app settings are not set, therefore Facebook Connect won't work properly. Please set the app settings first on the page Facebook Suite Settings under Settings."
+msgctxt "Piedone.Facebook.Suite.Drivers.FacebookConnectWidgetPartDriver"
+msgid "Currently the Facebook app settings are not set, therefore Facebook Connect won't work properly. Please set the app settings first on the page Facebook Suite Settings under Settings."
+msgstr "Jelenleg a Facebook alkalmazás-beállítások nincsenek megadva, így a Facebook Connect nem fog megfelelően működni. Kérjük előbb adja meg az alkalmazás-beállításokat a Facebook Suite beállítások alatt, a Beállításoknál."
+
+#: Piedone.Facebook.Suite.Services.FacebookConnectService
+#| msgid "Error in retrieving Facebook user data: {0}"
+msgctxt "Piedone.Facebook.Suite.Services.FacebookConnectService"
+msgid "Error in retrieving Facebook user data: {0}"
+msgstr "Hiba a Facebook-felhasználó adatainak letöltése közben: {0}"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml
+#| msgid "{0}'s profile picture"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml"
+msgid "{0}'s profile picture"
+msgstr "{0} profilképe"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml
+#| msgid "Logout from Facebook"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticated.cshtml"
+msgid "Logout from Facebook"
+msgstr "Kijelentkezés a Facebookból"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticatedNotConnected.cshtml
+#| msgid "Attach your Facebook account to your username for simple login"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectAuthenticatedNotConnected.cshtml"
+msgid "Attach your Facebook account to your username for simple login"
+msgstr "Csatolja Facebook fiókját a felhasználónevéhez az egyszerű bejelentkezés érdekében"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectNotAuthenticated.cshtml
+#| msgid "Connect with Facebook"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectNotAuthenticated.cshtml"
+msgid "Connect with Facebook"
+msgstr "Csatlakozás a Facebookkal"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "Simple registration"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "Simple registration"
+msgstr "Egyszerű regisztráció"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "You only have to choose a username, but later you can only login with your Facebook account."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "You only have to choose a username, but later you can only login with your Facebook account."
+msgstr "Csak felhasználónevet kell választania, de később csak a Facebook-fiókjával tud bejelentkezni."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "Full registration"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "Full registration"
+msgstr "Teljes regisztráció"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml
+#| msgid "You'll have to fill out the complete (actually quite short) registration form to register, but you'll be able to log in with your Facebook account. Choose this if you plan to log in later with username/password instead of your Facebook account."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectRegistrationChooser.cshtml"
+msgid "You'll have to fill out the complete (actually quite short) registration form to register, but you'll be able to log in with your Facebook account. Choose this if you plan to log in later with username/password instead of your Facebook account."
+msgstr "Ki kell töltenie a teljes (egyébként viszonylag rövid) regisztrációs űrlapot, de utána már Facebook-fiókjával is bejelentkezhet. Válassza ezt, ha később felhasználónévvel és jelszóval is be akar tudni jelentkezni a Facebook-fiók helyett."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml
+#| msgid "Username:"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml"
+msgid "Username:"
+msgstr "Felhasználónév:"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml
+#| msgid "Choose a unique username for your account you can login to with your Facebook credentials."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml"
+msgid "Choose a unique username for your account you can login to with your Facebook credentials."
+msgstr "Válasszon egy egyedi felhasználónevet a fiókjának, melybe aztán a Facebook-fiókjával jelentkezhet be."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml
+#| msgid "Register with your Facebook account"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/FacebookConnectSimpleRegistration.cshtml"
+msgid "Register with your Facebook account"
+msgstr "Regisztráljon a Facebook-fiókjával"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Facebook Connect Settings"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Facebook Connect Settings"
+msgstr "Facebook Connect beállítások"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "For the best experience, place this widget in a layer that both authenticated and anonymous users can see."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "For the best experience, place this widget in a layer that both authenticated and anonymous users can see."
+msgstr "A legjobb működés érdekében helyezze ezt a widgetet egy olyan rétegbe, amit a bejelentkezett és anonim felhasználók is látnak."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "WARNING: new users will only be able to connect if registration is enabled. Otherwise only existing users will be able to login."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "WARNING: new users will only be able to connect if registration is enabled. Otherwise only existing users will be able to login."
+msgstr "FIGYELEM: új felhasználók csak akkor fognak tudni csatlakozni ha a regisztráció engedélyezve van. Egyébként csak a meglévő felhasználók fognak tudni bejelentkezni."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Permissions"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Permissions"
+msgstr "Engedélyek"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If extended permissions are needed, enter a list of permission, separated by commas."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If extended permissions are needed, enter a list of permission, separated by commas."
+msgstr "Ha kiterjesztett hozzáférési engedélyekre van szükség, akkor adja meg itt az engedélyek vesszővel elválasztott listáját."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Automatically log in authenticated and connected users"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Automatically log in authenticated and connected users"
+msgstr "A Facebookon bejelentkezett és az alkalmazáshoz csatlakozott felhasználók automatikus bejelentkeztetése"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If checked, users who have connected to the site and are logged in at Facebook will be automatically logged in on the site, without clicking the login button. NOTE: this will practically prevent users from logging out of Orchard till they're logged in at Facebook."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If checked, users who have connected to the site and are logged in at Facebook will be automatically logged in on the site, without clicking the login button. NOTE: this will practically prevent users from logging out of Orchard till they're logged in at Facebook."
+msgstr "Ha be van jelölve, akkor azok a felhasználók, akik csatlakoztak az oldalhoz és be vannak jelentkezve Facebookon automatikusan be lesznek jelentkeztetve, a bejelentkezés gomb megnyomása nélkül. FIGYELEM: ez gyakorlatilag meg fogja akadályozni, hogy a felhasználók kijelentkezzenek az Orchardból amíg a Facebookon be vannak jelentkezve."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Only allow verified users"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Only allow verified users"
+msgstr "Csak megerősített felhasználók engedélyezése"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If checked, only verified Facebook users will get authenticated."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If checked, only verified Facebook users will get authenticated."
+msgstr "Ha be van jelölve, akkor csak a megerősített Facebook felhasználók fognak tudni bejelentkezni."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "Simple registration"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "Simple registration"
+msgstr "Egyszerű regisztráció"
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml
+#| msgid "If checked, new users will only be prompted for a user name when registering. This means that they won't be able to login with the built-in authentication form (only with their Facebook-account) and won't have an e-mail saved."
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/EditorTemplates/Parts.FacebookConnectSettings.SiteSettings.cshtml"
+msgid "If checked, new users will only be prompted for a user name when registering. This means that they won't be able to login with the built-in authentication form (only with their Facebook-account) and won't have an e-mail saved."
+msgstr "Ha be van jelölve, akkor az új felhasználóknak csak egy felhasználónevet kell megadniuk regisztrációkor. Ez azt jelenti, hogy nem fognak tudni bejelentkezni a beépített űrlapon keresztül (csak a Facebook-fiókjukkal) és nem lesz e-mail címük sem mentve."
+
+#: ~/Modules/Piedone.Facebook.Suite.Connect/Views/Parts/FacebookUser.cshtml
+#| msgid "Facebook profile"
+msgctxt "~/Modules/Piedone.Facebook.Suite.Connect/Views/Parts/FacebookUser.cshtml"
+msgid "Facebook profile"
+msgstr "Facebook profil"
+

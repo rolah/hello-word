@@ -1,0 +1,1162 @@
+#. "Orchard.Azure.MediaServices.Name"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Module.txt"
+msgid "Microsoft Azure Media Services"
+msgstr "Microsoft Azure Media Services"
+
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Module.txt"
+msgid "Microsoft Open Technologies, Inc"
+msgstr "Microsoft Open Technologies, Inc"
+
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Module.txt"
+msgid "http://msopentech.com"
+msgstr "http://msopentech.com"
+
+#. "Orchard.Azure.MediaServices.Description"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Module.txt"
+msgid "Provides integration of Microsoft Azure Media Services functionality into Orchard."
+msgstr "Microsoft Azure Media Service integrálása Orchard-ba."
+
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Module.txt"
+msgid "Hosting"
+msgstr "Hosting"
+
+#: "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgid "The Asset has been saved."
+msgstr "Az adatforrás el lett mentve."
+
+#. "You are not authorized to manage Microsoft Azure Media content."
+msgctxt "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgid "You are not authorized to manage Microsoft Azure Media content."
+msgstr "Nincs jogosultsága Microsoft Azure Media-hoz kapcsolódó elemek kezeléséhez."
+
+#: "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgid "The asset '{0}' was successfully deleted."
+msgstr "A(z) '{0}' eszköz sikeresen törölve lett."
+
+#: "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.AssetController"
+msgid "Ar error occurred while deleting the asset '{0}':\n{1}"
+msgstr "Hiba történt a(z) '{0}' eszköz törlésekor:\n{1}"
+
+#. "You are not authorized to manage cloud jobs."
+msgctxt "Orchard.Azure.MediaServices.Controllers.JobController"
+msgid "You are not authorized to manage cloud jobs."
+msgstr "Nincs jogosultsága a felhőben futó feladatok futtatásához."
+
+#: "Orchard.Azure.MediaServices.Controllers.JobController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.JobController"
+msgid "The job '{0}' was successfully created."
+msgstr "A(z) '{0}' eszköz sikeresen létrejött."
+
+#: "Orchard.Azure.MediaServices.Controllers.JobController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.JobController"
+msgid "Ar error occurred while creating the job:\n{0}"
+msgstr "Hiba történt az eszköz létrehozásakor:\n{0}"
+
+#: "Orchard.Azure.MediaServices.Controllers.JobController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.JobController"
+msgid "The job '{0}' was successfully archived."
+msgstr "A(z) '{0}' feladat sikeresen archiválva."
+
+#: "Orchard.Azure.MediaServices.Controllers.JobController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.JobController"
+msgid "The job '{0}' was successfully canceled."
+msgstr "A(z) '{0}' feladat sikeresen megszakítva."
+
+#: "Orchard.Azure.MediaServices.Controllers.JobController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.JobController"
+msgid "An error occurred while canceling the job:\n{0}"
+msgstr "Hiba történt a feladat megszakítása közben:\n{0}"
+
+#. "The cloud video item was successfully created."
+msgctxt "Orchard.Azure.MediaServices.Controllers.MediaController"
+msgid "The cloud video item was successfully created."
+msgstr "The felhőben tárolt videó sikeresen létrejött."
+
+#. "The cloud video item was successfully updated."
+msgctxt "Orchard.Azure.MediaServices.Controllers.MediaController"
+msgid "The cloud video item was successfully updated."
+msgstr "The felhőben tárolt videó sikeresen frissítve lett."
+
+#. "You are not authorized to manage Microsoft Azure Media content."
+msgctxt "Orchard.Azure.MediaServices.Controllers.MediaController"
+msgid "You are not authorized to manage Microsoft Azure Media content."
+msgstr "Nincs jogosultsága Microsoft Azure Media-hoz kapcsolódó elemek kezeléséhez."
+
+#: "Orchard.Azure.MediaServices.Controllers.MediaController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.MediaController"
+msgid "Ar error occurred while saving the cloud video item:\n{1}"
+msgstr "Hiba történt a felhőben tárolt videó mentése közben:\n{1}"
+
+#. "You are not authorized to manage Microsoft Azure Media settings."
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "You are not authorized to manage Microsoft Azure Media settings."
+msgstr "Nincs jogosultsága Microsoft Azure Media beállításainak kezeléséhez."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "The encoding preset '{0}' is invalid. Encoding presets can only contain letters, numbers and spaces."
+msgstr "A(z) '{0}' kódolási beállítás érvénytelen. Csak betűket, számokat és szóközt tartalmazhat."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "The account credentials verification failed. The settings were not saved."
+msgstr "A fiók hitelesítő adatainak ellenőrzése sikertelen. A beállítások mentése nem sikerült."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "The new account credentials were successfully verified."
+msgstr "Az új fiók hitelesítő adatai sikeresen ellenőrizve."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "CORS rules have been configured on your storage account for the following URLs: {0}."
+msgstr "CORS-szabályok a következő URL-ekhez vannak konfigurálva az ön tárolójához: {0}."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "Failed to check or configure CORS support on your storage account."
+msgstr "Nem sikerült ellenőrizni vagy konfigurálni a CORS-támogatást az ön tárolójához."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "The settings were saved successfully."
+msgstr "A beállítások mentése sikeres volt."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "The account credentials were successfully verified."
+msgstr "Az új fiók hitelesítő adatai sikeresen ellenőrizve."
+
+#: "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgctxt "Orchard.Azure.MediaServices.Controllers.SettingsController"
+msgid "The account credentials verification failed."
+msgstr "A fiók hitelesítő adatainak ellenőrzése sikertelen."
+
+#: "Orchard.Azure.MediaServices.Drivers.CloudVideoPartDriver"
+msgctxt "Orchard.Azure.MediaServices.Drivers.CloudVideoPartDriver"
+msgid "Your {0} has been unpublished."
+msgstr "A(z) {0} közzététele visszavonásra került."
+
+#: "Orchard.Azure.MediaServices.Drivers.CloudVideoPartDriver"
+msgctxt "Orchard.Azure.MediaServices.Drivers.CloudVideoPartDriver"
+msgid "You need to upload a video."
+msgstr "Fel kell töltenie egy videót."
+
+#: "Orchard.Azure.MediaServices.Drivers.ThumbnailAssetDriver"
+msgctxt "Orchard.Azure.MediaServices.Drivers.ThumbnailAssetDriver"
+msgid "Thumbnail"
+msgstr "Miniatűr"
+
+#: "Orchard.Azure.MediaServices.Drivers.VideoAssetDriver"
+msgctxt "Orchard.Azure.MediaServices.Drivers.VideoAssetDriver"
+msgid "Files"
+msgstr "Fájlok"
+
+#: "Orchard.Azure.MediaServices.Drivers.VideoAssetDriver"
+msgctxt "Orchard.Azure.MediaServices.Drivers.VideoAssetDriver"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "Orchard.Azure.MediaServices.Handlers.CloudVideoPartHandler"
+msgctxt "Orchard.Azure.MediaServices.Handlers.CloudVideoPartHandler"
+msgid "The cloud video item was saved, but will not be published until the primary video asset has finished uploading to Microsoft Azure Media Services."
+msgstr "A felhőben tárolt videó mentése megtörtént, de nem lesz publikálva, amíg az elsődleges adatforrás feltöltése a Windows Azure Media Services-be be nem fejeződik."
+
+#: "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgctxt "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgid "Media"
+msgstr "Média"
+
+#: "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgctxt "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgid "Microsoft Azure Media Jobs"
+msgstr "Microsoft Azure Media Jobs"
+
+#: "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgctxt "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgid "Settings"
+msgstr "Beállítások"
+
+#: "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgctxt "Orchard.Azure.MediaServices.Navigation.AdminMenu"
+msgid "Microsoft Azure Media"
+msgstr "Microsoft Azure Media"
+
+#: "Orchard.Azure.MediaServices.Navigation.MediaMenu"
+msgctxt "Orchard.Azure.MediaServices.Navigation.MediaMenu"
+msgid "Microsoft Azure Media"
+msgstr "Microsoft Azure Media"
+
+#: "Orchard.Azure.MediaServices.Services.Tasks.Providers.CreateThumbnailTaskProvider"
+msgctxt "Orchard.Azure.MediaServices.Services.Tasks.Providers.CreateThumbnailTaskProvider"
+msgid "Generate a thumbnail image for the cloud video item."
+msgstr "Miniatűr kép létrehozása a felhőben tárolt videóhoz."
+
+#: "Orchard.Azure.MediaServices.Services.Tasks.Providers.EncodeTaskProvider"
+msgctxt "Orchard.Azure.MediaServices.Services.Tasks.Providers.EncodeTaskProvider"
+msgid "Create a new encoding version of the cloud video item"
+msgstr "Más formátumban kódolt verzió létrehozása a felhőben tárolt videóhoz"
+
+#: "Orchard.Azure.MediaServices.Services.Tasks.Providers.EncryptTaskProvider"
+msgctxt "Orchard.Azure.MediaServices.Services.Tasks.Providers.EncryptTaskProvider"
+msgid "Create an encrypted version of the cloud video item."
+msgstr "Létrehoz egy titkosított változatot a felhőben tárolt videóból."
+
+#: "Orchard.Azure.MediaServices.Services.Wams.MissingSettingsBanner"
+msgctxt "Orchard.Azure.MediaServices.Services.Wams.MissingSettingsBanner"
+msgid "The <a href=\"{0}\">Microsoft Azure Media settings</a> are either missing or invalid and need to be configured."
+msgstr "A <a href=\"{0}\">Windows Azure Media beállítások</a> hiányoznak vagy nem megfelelőek, és be kell azokat konfigurálni."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Manifest (Smooth Streaming)"
+msgstr "Jegyzék (akadálymentes stream-elés)"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Manifest (HLS)"
+msgstr "Manifest (HLS)"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Manifest (MPEG DASH)"
+msgstr "Manifest (MPEG DASH)"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Are you sure you want to delete this asset?"
+msgstr "Biztosan törölni akarja ezt az eszközt?"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "There are no assets to display."
+msgstr "Nincsenek megjelenítendő eszközök."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Private"
+msgstr "Privát"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Public"
+msgstr "Nyilvános"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Include In Player"
+msgstr "Hozzáadás lejátszóhoz"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Media Query"
+msgstr "Media Query"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Upload Status"
+msgstr "Feltöltés állapota"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Actions"
+msgstr "Műveletek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Video Assets"
+msgstr "Videó eszközök"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Dynamic Video Assets"
+msgstr "Dinamikus videó eszközök"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Thumbnails"
+msgstr "Indexképek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Assets.cshtml"
+msgid "Subtitles"
+msgstr "Feliratok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Jobs"
+msgstr "Feladatok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Created"
+msgstr "Létrehozva"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Status"
+msgstr "Állapot"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Started"
+msgstr "Elindítva"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Finished"
+msgstr "Kész"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Error"
+msgstr "Hiba"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Actions"
+msgstr "Műveletek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Archive"
+msgstr "Archivál"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Jobs can be created once the mezzanine video asset has finished uploaded and the cloud video item has been saved."
+msgstr "Feladatok létrehozhatóak lesznek, amint az elsődleges videó feltöltése befejeződött és a felhőben tárolt videó mentése megtörtént."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.Jobs.cshtml"
+msgid "Create Job"
+msgstr "Feladat létrehozása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.UnpublishButton.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideo.Edit.UnpublishButton.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Preparing to upload..."
+msgstr "Feltöltés előkészítése..."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Uploading ({percentage}%)..."
+msgstr "Feltöltés ({percentage}%)..."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Are you sure you want to cancel this upload?"
+msgstr "Biztosan meg kívánja szakítani a feltöltést?"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Uploaded {uploaded} KB / {total} KB | Speed: {kbps} KB/s | Elapsed: {elapsed} | Remaining: {remaining}"
+msgstr "Feltöltve {uploaded} KB / {total} KB | Sebesség: {kbps} KB/s | Eltelt: {elapsed} | Hátravan: {remaining}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Successfully uploaded file '{filename}'."
+msgstr "'{filename}' sikeresen feltölve."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Cleaning up..."
+msgstr "Takarítás..."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "The selected file must have one of the following filename extensions: {0}"
+msgstr "A kijelölt fájl kiterjesztése az alábbiak közül valamelyik lehet: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "You must upload a file."
+msgstr "Fel kell töltenie egy fájlt."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Successfully uploaded file '{0}'."
+msgstr "'{0}' sikeresen feltöltve."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Video File"
+msgstr "Videofájl"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Subtitle language"
+msgstr "Felirat nyelve"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "Subtitle assets already exist for all configured subtitle languages. No additional subtitle files can be uploaded."
+msgstr "Már minden bekonfigurált nyelvhez rendelkezésre áll felirat. További feliratokat nem lehet feltölteni."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "There are uploads in progress and/or you have unsaved uploaded files. Uploads will be aborted and uploaded files will be discarded if you navigate away."
+msgstr "Még van folyamatban lévő videófeltöltés és/vagy van elmentetlen feltöltött fájl. Ha továbblép az oldalról, akkor a feltöltések megszakadnak és a feltöltött videók elvesznek."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Direct.cshtml"
+msgid "There are uploads in progress. Please wait for the uploads to complete or cancel them before saving this item."
+msgstr "Vannak folyamatban lévő feltöltések. Kérem várjon, amíg a feltöltések befejeződnek, vagy szakítsa meg, mielőtt elmenti ezt az elemet."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgid "The selected file must have one of the following filename extensions: {0}"
+msgstr "A kijelölt fájl kiterjesztése az alábbiak közül valamelyik lehet: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgid "Successfully uploaded video file '{0}'."
+msgstr "A videófájl '{0}' sikeresen feltöltve."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgid "Subtitle language"
+msgstr "Felirat nyelve"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgid "Subtitle assets already exist for all configured subtitle languages. No additional subtitle files can be uploaded."
+msgstr "Már minden bekonfigurált nyelvhez rendelkezésre áll felirat. További feliratokat nem lehet feltölteni."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoEditor.Proxied.cshtml"
+msgid "You must upload a video file before saving this item."
+msgstr "Az elem mentése előtt fel kell töltenie egy videófájlt."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoPlayer.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoPlayer.cshtml"
+msgid "This video item could not be played back on your computer."
+msgstr "Ezt a videót nem lehet az ön számítógépén lejátszani."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoPlayer.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoPlayer.cshtml"
+msgid "Description of video item: {0}"
+msgstr "A videó leírása: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoPlayer.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/CloudVideoPlayer.cshtml"
+msgid "Retry"
+msgstr "Újra"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Cloud Video Item"
+msgstr "Felhőben tárolt videó"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Created"
+msgstr "Létrehozva"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Status"
+msgstr "Állapot"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Started"
+msgstr "Elindítva"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Finished"
+msgstr "Kész"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Error"
+msgstr "Hiba"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Actions"
+msgstr "Műveletek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "There are no open jobs to display."
+msgstr "Nincsenek megjeleníthető befejezetlen feladatok."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Archive"
+msgstr "Archivál"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/OpenJobsTable.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "Edit {0}"
+msgstr "{0} szerkesztése"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "General"
+msgstr "Általános"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "Locators"
+msgstr "Lokátorok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "Save"
+msgstr "Mentés"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "Are you sure you want to delete this asset?"
+msgstr "Biztosan törölni akarja ezt az eszközt?"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Asset/Edit.cshtml"
+msgid "Back"
+msgstr "Vissza"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgid "Include In Player"
+msgstr "Hozzáadás lejátszóhoz"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.General.cshtml"
+msgid "Media Query"
+msgstr "Media Query"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.Locators.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.Locators.cshtml"
+msgid "Type"
+msgstr "Típus"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.Locators.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.Locators.cshtml"
+msgid "Id"
+msgstr "Azonosító"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.Locators.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Asset.Edit.Locators.cshtml"
+msgid "Url"
+msgstr "URL"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgid "Encoding presets"
+msgstr "Kódolási beállításkészletek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncodingSettingsViewModel.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncryptionSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncryptionSettingsViewModel.cshtml"
+msgid "Encryption settings"
+msgstr "Titkosítási beállítások"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncryptionSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncryptionSettingsViewModel.cshtml"
+msgid "Key seed value"
+msgstr "Kulcs-seed értéke"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncryptionSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/EncryptionSettingsViewModel.cshtml"
+msgid "License acquisition URL"
+msgstr "Liszensz lekérési URL"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Account credentials"
+msgstr "Fiók hozzáférési adatok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "The account name and access key for your Microsoft Azure Media Services account can be obtained from the Windows Azure management portal at <a href='https://manage.windowsazure.com'>https://manage.windowsazure.com</a>."
+msgstr "A Microsoft Azure Media Services fiókhoz tartozó felhasználónév és jelszó, amelyet a Microsoft Azure Management Portal-on tud beszerezni a <a href='https://manage.windowsazure.com'>https://manage.windowsazure.com</a> címen."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "If you do not yet have a Microsoft Azure subscription, visit <a href='http://www.windowsazure.com/pricing/free-trial'>http://www.windowsazure.com/pricing/free-trial</a> to sign up for a free trial or buy a subscription."
+msgstr "Ha még nincs Microsoft Azure előfizetése, akkor keresse fel a <a href='http://www.windowsazure.com/pricing/free-trial'>http://www.windowsazure.com/pricing/free-trial</a> oldalt és regisztráljon egy ingyenes próbaverzióért vagy fizessen elő."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Account name"
+msgstr "Fiók neve"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Account access key"
+msgstr "Fiók hozzáférési kulcs"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Storage account access key"
+msgstr "Tároló fiók hozzáférési kulcs"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Specify the account key for the underlying Microsoft Azure Storage account used by your Windows Azure Media Services instance if you want to automatically enable CORS support with the appropriate origin URLs for this web site. Enabling CORS support in your Windows Azure Storage account is required for uploading media files directly to Windows Azure Media Services. If you leave this field blank you will have to manually enable the appropriate CORS support for your Windows Azure Storage account using PowerShell."
+msgstr "Adja meg a fiók kulcsát a felhasznált Microsoft Azure Storage fiókhoz, amelyet a Microsoft Azure Media Services-hez kíván használni, ha automatikusan engedélyezni szeretné a CORS-támogatást a megfelelő forrás URL-ekhez ezen a weboldalon. A CORS-támogatás a Microsoft Azure Storage esetében kötelező, hogy médiafájlokat tudjon feltölteni a Microsoft Azure Media Services-be. Ha üresen hagyja ezt a mezőt, akkor PowerShell használata segítségével manuálisan kell engedélyeznie a megfelelő CORS-támogatást a Microsoft Azure Storage fiókhoz."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Test"
+msgstr "Teszt"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Dynamic packaging"
+msgstr "Dinamikus csomagolás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Enable dynamic packaging"
+msgstr "Dinamikus csomagolás engedélyezése"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "When checked, dynamic packaging assets will be created when encoding using one of the supported encoding presets for dynamic packaging."
+msgstr "Ha bejelöli, akkor dinamikusan generált csomagolási eszközök jönnek létre a kódoláskor valamelyik engedélyezett kódolási beállítás felhasználásával."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "NOTE: When enabling dynamic packaging you must ensure you have at least one unit of reserved capacity configured on your streaming origin."
+msgstr "FIGYELEM: A dinamikus csomagkezelés engedélyezésekor biztosítania kell legalább egy egységnyi szabad tárolóhelyet a stream forrásán."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Access policy"
+msgstr "Hozzáférési szabályok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Access policy duration"
+msgstr "Hozzáférési szabályok érvényességi ideje"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "The duration for all access policies created for asset locators, in standard TimeSpan format (dd.hh:mm:ss)."
+msgstr "Az eszközökhöz használt hozzáférési szabályok érvényességi ideje TimeSpam formátumban (dd.hh:mm:ss)."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Filename extensions"
+msgstr "Fájlnév-kiterjesztések"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Configure the allowed filename extensions when uploading asset files. Specify extensions as a semicolon-separated list without any * or period, e.g. \"mp4;wma;mpeg\"."
+msgstr "Konfigurálhatja a megengedett fájl kiterjesztéseket eszközök feltöltése esetén. A kiterjesztéseket pontosvesszővel elválasztva, * és pont karakterek nélkül adja meg, pl. \"mp4;wma;mpeg\"."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/GeneralSettingsViewModel.cshtml"
+msgid "Video files"
+msgstr "Videófájlok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/SubtitleLanguagesSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/SubtitleLanguagesSettingsViewModel.cshtml"
+msgid "Subtitle languages"
+msgstr "Feliratozási nyelvek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/SubtitleLanguagesSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/SubtitleLanguagesSettingsViewModel.cshtml"
+msgid "Culture code"
+msgstr "Területi beállítás kódja"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/SubtitleLanguagesSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/SubtitleLanguagesSettingsViewModel.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Asset Files"
+msgstr "Adatforrás fájlok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Expand All"
+msgstr "Összes kibontása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Collapse All"
+msgstr "Összes összecsukása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Mime Type: {0}"
+msgstr "Mime Type: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "<a href=\"{0}\">Public Url</a>"
+msgstr "<a href=\"{0}\">Publikus URL</a>"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "<a href=\"{0}\">Private Url</a>"
+msgstr "<a href=\"{0}\">Privát URL</a>"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Duration: {0}"
+msgstr "Időtartam: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Video Tracks"
+msgstr "Videó sávok"
+
+#. "Track {0}"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Track {0}"
+msgstr "Sáv {0}"
+
+#. "Bitrate: {0} kbps"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Bitrate: {0} kbps"
+msgstr "Bitráta: {0} kbps"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Target Bitrate: {0} kbps"
+msgstr "Cél bitráta: {0} kbps"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Framerate: {0}"
+msgstr "Képkockasebesség: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Target Framerate: {0}"
+msgstr "Cél képkockasebesség: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Width: {0}px"
+msgstr "Szélesség: {0} px"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Height: {0}px"
+msgstr "Magasság: {0} px"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Display Aspect Ratio: {0}x{1}"
+msgstr "Megjelenítési képarány: {0} x {1}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "FourCC: {0}"
+msgstr "FourCC: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Audio Tracks"
+msgstr "Audio sávok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Codec: {0}"
+msgstr "Kodek: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Bits Per Sample: {0}"
+msgstr "Mintánkénti bitek száma: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Sampling Rate: {0}"
+msgstr "Mintavételezési frekvencia: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Channels: {0}"
+msgstr "Csatornák: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Assets/Video.Files.cshtml"
+msgid "Encoder Version: {0}"
+msgstr "Kódoló verziója: {0}"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgid "Upload"
+msgstr "Feltöltés"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgid "Assets"
+msgstr "Eszközök"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgid "Jobs"
+msgstr "Feladatok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/Parts/CloudVideo.cshtml"
+msgid "No video assets exist on this cloud video item other than the mezzanine. Mezzanine assets are not supported for preview or playback. To create additional video assets, start an encoding job."
+msgstr "Ehhez a felhőben tárolt videóhoz nem áll rendelkezésre az elsődlegesen kívül más eszköz. Az elsődleges eszközök nem támogatják az előnézetet és a lejátszást. További videóeszközök létrehozásához indítson el egy kódolási feladatot."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encode.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encode.cshtml"
+msgid "Encoding preset"
+msgstr "Kódolási beállításkészletek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Adjust Sub Samples"
+msgstr "Mintavételezés beállítása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "When encrypting subsamples on H.264 tracks, adjusts the clear space at the beginning of each subsample so that a whole number of encryption blocks is used. This leaves slightly more of the sample data unencrypted but maximizes player compatibility."
+msgstr "H.264 titkosítású minták kódolása közben beállítja a minták előtt kihagyott helyet, hogy a kódoláshoz használt adatblokkok száma egész szám legyen. Emiatt kevéssel több adat marad titkosítatlanul, de maximalizája a lejátszókkal való kompatibilitást."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Content Key"
+msgstr "Titkosítási kulcs"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "A base64-encoded 16-byte value, which is produced by the key seed in conjunction with the key ID and is used to encrypt content. You must enter a content key value if no key seed value is specified."
+msgstr "Base64 kódolású 16 byte-os érték, amely a kulcsgeneráló seed alapján jön létre a kulcs azonosítójának segítségével a titkosításhoz lesz felhasználva. Ha nincs kulcsgeneráló seed megadva, akkor meg kell adnia egy kulcsot."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Custom Attributes"
+msgstr "Egyéni attribútumok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "A comma-delimited list of name:value pairs (in the form name1:value1,name2:value2,name3:value3) to be included in the CUSTOMATTRIBUTES section of the WRM header. The WRM header is XML metadata added to encrypted content and included in the client manifest. It is also included in license challenges made to license servers."
+msgstr "Név-érték párok vesszővel elválasztott listája (ebben a formában: név1:érték1,név2:érték2,név3:érték3) amely a WRM-fejléc CUSTOMATTRIBUTES szekciójába kerül. A WRM fejléc egy XML metaadat, amely a titkosított tartalomhoz lesz hozzáadva és a manifest tartalmazza. A liszensz-szervereknek küldött liszensz-ellenőrzésben is szerepel."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Data Formats"
+msgstr "Adatformátumok"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "A comma-delimited list of four-character codes (FourCCs) that specify the data formats to be encrypted. If no value is specified, all data formats are encrypted."
+msgstr "Négy karakterből álló kódok (FourCCs) vesszővel elválasztott listája, amely a titkosítandó adatformátumokat határozza meg. Ha nem ad meg értéket, akkor minden adatformátum titkosítva lesz."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Key ID"
+msgstr "Kulcsazonosító"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "A globally unique identifier (GUID) that uniquely identifies content for the purposes of licensing. Each presentation should use a unique value. If no value is specified, a random value is used."
+msgstr "Egy GUID, amely egyedi azonosítót biztosít a tartalomnak a liszenszeléshez. Minden esetben egyedi értéket kell használni. Ha nem ad meg értéket, akkor véletlenszerűen generált érték lesz felhasználva."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Key Seed Value"
+msgstr "Kulcs-seed értéke"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "A base64-encoded 30-byte value, which is used in conjunction with the key ID to create the content key. Typically, one key seed is used with many key IDs to protect multiple files or sets of files; for example, all files issued by a license server or perhaps all files by a particular artist. Key seeds are stored on license servers."
+msgstr "Base64 kódolású 30 byte-os érték, amely a kulcs azonosítójának segítségével a tartalom azonosítóját határozza meg. Általában egy kulcs-seed használatos több kulcsazonosítóhoz több fájl vagy több fájlkészlet megvédése érdekében; például egy adott szerzőhöz tartozó minden fájl esetében a liszensz szerveren. A kulcs-seed-ek a liszensz-szerveren vannak eltárolva."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "License Acquisition URL"
+msgstr "Liszensz lekérési URL"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "The Web page address on a license server from which clients can obtain a license to play the encrypted content."
+msgstr "A liszensz szerveren elérhető webcím, amelyről a titkosított tartalom lejátszásához szükséges liszensz beszerezhető."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Use Senc Box"
+msgstr "Senc tároló használata"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Use a 'senc' box to hold encryption metadata instead of a Protected Interoperable File Format (PIFF) 1.1 'uuid' box."
+msgstr "'Senc' box használata a titkosítási metaadatok tárolására Protected Interoperable File Format (PIFF) 1.1 'uuid' tároló helyett."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "Service ID"
+msgstr "Szolgáltatás azonosító"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Encrypt.cshtml"
+msgid "The service ID to include in the PlayReady header that is added to each file and in the client manifest (.ismc). This value must be a globally unique identifier (GUID) in Little Endian string form (like this 237A4EB1-9D01-4F4A-A2D2-79E51468014D)."
+msgstr "A szolgáltatás azonosítója, amelyet a PlayReady fejléc tartalmaz, amely minden fájlhoz és jegyzékhez (.ismc) hozzá lesz csatolva. Ez az érték egy Little Endian formátumban megadott GUID karakterlánc, pl. 237A4EB1-9D01-4F4A-A2D2-79E51468014D."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "Thumbnail"
+msgstr "Miniatűr"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "Sets the width in pixels to be used for the thumbnail. An asterisk (*) character used in place of a width in pixels means to maintain aspect ratio based on the height of the first video source stream."
+msgstr "Beállítja az indexkép pixelekben mért szélességét. A csillag (*) karakter használata esetén az első videó forrás-stream magassága alapján lesz beállítva a képarány megtartása mellett."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "Sets the height in pixels to be used for the thumbnail. An asterisk (*) character used in place of a height in pixels means to maintain aspect ratio based on the width of the first video source stream."
+msgstr "Beállítja az indexkép pixelekben mért magasságát. A csillag (*) karakter használata esetén az első videó forrás-stream szélességét alapján lesz beállítva a képarány megtartása mellett."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "Indicates the image format type of the output file."
+msgstr "A kimeneti képfájl formátumát adja meg."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "Specifies the file name of the generated thumbnail image. The following replaceable fields can be used: {OriginalFilename}, {ThumbnailTime}, {Size}, {ThumbnailIndex}, {DefaultExtension}."
+msgstr "A generált indexkép fájlnevét határozza meg. A következő token-ek használhatóak: {OriginalFilename}, {ThumbnailTime}, {Size}, {ThumbnailIndex}, {DefaultExtension}."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "A string value that indicates the start time in a video that will correspond with a sequence of thumbnails generated from the video. If no step is specified, this value is the sole time on which a generated thumbnail is based. The format of the string for the time value is: [hours]:[minutes]:[seconds]."
+msgstr "Karakterlánc, amely meghatározza, hogy a videó mely pontja alapján jön létre a videóhoz tartotozó indexkép-készlet. Ha nem ad meg lépéseket, akkor ez az érték az önmagában meghatározza a létrehozott indexképet. A karakterlánc formátuma a következő: [óra]:[perc]:[másodperc]."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "A string value that describes the time increments in a video at which thumbnail images will be generated, if generating a sequence of thumbnails. The format of the string for the time value is: [hours]:[minutes]:[seconds]."
+msgstr "Karakterlánc, amely meghatározza, hogy az indexképek sorozatában az indexképek között mennyi időnek kell eltelnie, amennyiben az indexképekből sorozatot képez. A karakterlánc formátuma a következő: [óra]:[perc]:[másodperc]."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/EditorTemplates/TaskSettings/Thumbnail.cshtml"
+msgid "A string value that describes the end point in a video, if generating a sequence of thumbnails. The format of the string for the time value is: [hours]:[minutes]:[seconds]."
+msgstr "Karakterlánc, amely indexkép-sorozat generálása esetén a záró időpontot határozza meg. A karakterlánc forumátuma a következő: [óra]:[perc]:[másodperc]."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Input Asset"
+msgstr "Bemeneti adatforrás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Select the input asset for the job."
+msgstr "Válassza ki a feladathoz használt eszközöket."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Output Asset Name"
+msgstr "Kimeneti eszköz neve"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Optional. Specify the name you wish to assign to the output asset. When left blank, the task name will be used."
+msgstr "Opcionális. Adja meg a kimeneti eszköz nevét. Ha üresen hagyja, a feladat neve lesz felhasználva."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Output Asset Description"
+msgstr "Kimeneti eszköz leírása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Optional. Specify a description you wish to assign to the output asset."
+msgstr "Opcionális. Adja meg a leírást, amelyet a kimeneti eszközhöz szeretne hozzárendelni."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Job Name"
+msgstr "Feladat neve"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Optional. Specify the name of this job. When left blank, the task name will be used."
+msgstr "Opcionális. Adja meg a feladat nevét. Ha üresen hagyja, akkor a feladat neve lesz felhasználva."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Job Description"
+msgstr "Feladat leírása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Optional. Specify a description for this job."
+msgstr "Opcionális. Adja meg a feladat leírását."
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Create Job"
+msgstr "Feladat létrehozása"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/Create.cshtml"
+msgid "Cancel"
+msgstr "Mégsem"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Job/SelectTask.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Job/SelectTask.cshtml"
+msgid "Select a Microsoft Azure Media task to perform"
+msgstr "Válassza ki a végrehajtandó Microsoft Azure Media feladatot"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgid "Published"
+msgstr "Közzétéve"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgid "Draft"
+msgstr "Vázlat"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgid "Upload Status:"
+msgstr "Feltöltés állapota:"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgid "Upload Progress:"
+msgstr "Feltöltés haladása:"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgid "{0}%"
+msgstr "{0}%"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Parts/CloudVideo.Metadata.cshtml"
+msgid "Active Jobs:"
+msgstr "Aktív feladatok:"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgid "Microsoft Azure Media Settings"
+msgstr "Microsoft Azure Media beállítások"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgid "General"
+msgstr "Általános"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgid "Encoding"
+msgstr "Kódolás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgid "Encryption"
+msgstr "Titkosítás"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgid "Subtitle languages"
+msgstr "Feliratozási nyelvek"
+
+#: "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgctxt "~/Modules/Orchard.Azure.MediaServices/Views/Settings/Index.cshtml"
+msgid "Save"
+msgstr "Mentés"
+

@@ -1,0 +1,402 @@
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widgets"
+msgstr "Widgetek"
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "An implementation of widgets for Orchard."
+msgstr "Widgetek implementálása az Orchard számára."
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Page Layer Hinting"
+msgstr "Oldalréteg üzenetcsík"
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Adds a notification after creating a new Page with a direct link to create a Widget Layer for that specific page by URL."
+msgstr "Értesítést küld egy olyan új oldal létrehozása után, ahol az URL cím alapján létrejön egy widgetréteg az adott oldalhoz."
+
+#. "Orchard.Widgets.ControlWrapper.Category"
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widget"
+msgstr "Widget"
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Widget Control Wrapper"
+msgstr "Widget Control Wrapper"
+
+msgctxt "~/Modules/Orchard.Widgets/Module.txt"
+msgid "Add an Edit button on the front-end for authenticated users"
+msgstr "Bejelentkezett felhasználók számára gomb hozzáadása a felületeten a szerkesztéshez"
+
+#: "Orchard.Widgets.AdminMenu"
+msgctxt "Orchard.Widgets.AdminMenu"
+msgid "Widgets"
+msgstr "Widgetek"
+
+#: "Orchard.Widgets.AdminMenu"
+msgctxt "Orchard.Widgets.AdminMenu"
+msgid "Configure"
+msgstr "Konfigurálás"
+
+#: "Orchard.Widgets.Commands.LayerCommands"
+msgctxt "Orchard.Widgets.Commands.LayerCommands"
+msgid "Creating Layer {0}"
+msgstr "{0} réteg létrehozása"
+
+#: "Orchard.Widgets.Commands.LayerCommands"
+msgctxt "Orchard.Widgets.Commands.LayerCommands"
+msgid "Layer created successfully."
+msgstr "Réteg létrehozása sikerült."
+
+#: "Orchard.Widgets.Commands.WidgetCommands"
+msgctxt "Orchard.Widgets.Commands.WidgetCommands"
+msgid "Creating widget failed : type {0} was not found. Supported widget types are: {1}."
+msgstr "Widget létrehozása nem sikerült: {0} típus nem található. Támogatott típusok: {1}."
+
+#: "Orchard.Widgets.Commands.WidgetCommands"
+msgctxt "Orchard.Widgets.Commands.WidgetCommands"
+msgid "Creating widget failed : layer {0} was not found."
+msgstr "Widget létrehozása nem sikerült: {0} réteg nem található."
+
+#: "Orchard.Widgets.Commands.WidgetCommands"
+msgctxt "Orchard.Widgets.Commands.WidgetCommands"
+msgid "Widget created successfully."
+msgstr "Widget sikeresen létrehozva."
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "To manage widgets you must have a theme enabled."
+msgstr "A widget-ek kezeléséhez engedélyezni kell egy témát."
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "There are no widget layers defined. A layer will need to be added in order to add widgets to any part of the site."
+msgstr "Nincs egy widgetréteg sem megadva. Legalább egy réteget létre kell hozni, hogy a webhelyen widgeteket lehessen elhelyezni."
+
+#. "Layer not found: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Layer not found: {0}"
+msgstr "Réteg nem található: {0}"
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Not authorized to manage widgets."
+msgstr "Nincs engedélye a widget-ek kezeléséhez"
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Need a zone specified for widget placement."
+msgstr "A widget elhelyezéséhez egy meghatározott zónára van szükség."
+
+#. "Creating widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Creating widget failed: {0}"
+msgstr "A widget létrehozása nem sikerült: {0}"
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Your {0} has been added."
+msgstr "{0} hozzáadása megtörtént."
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Your {0} has been created."
+msgstr "{0} létrehozása megtörtént."
+
+#. "Your {0} has been saved."
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Your {0} has been saved."
+msgstr "{0} mentése megtörtént."
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Layer was successfully deleted"
+msgstr "A réteg törlése megtörtént"
+
+#. "Removing Layer failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Removing Layer failed: {0}"
+msgstr "A réteg eltávolítása nem sikerült: {0}"
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Widget not found: {0}"
+msgstr "Widget nem található: {0}"
+
+#. "Editing widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Editing widget failed: {0}"
+msgstr "A widget módoítása nem sikerült: {0}"
+
+#: "Orchard.Widgets.Controllers.AdminController"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Widget was successfully deleted"
+msgstr "A widget törlése megtörtént"
+
+#. "Removing Widget failed: {0}"
+msgctxt "Orchard.Widgets.Controllers.AdminController"
+msgid "Removing Widget failed: {0}"
+msgstr "A widget eltávolítása nem sikerült: {0}"
+
+#: "Orchard.Widgets.Drivers.LayerPartDriver"
+msgctxt "Orchard.Widgets.Drivers.LayerPartDriver"
+msgid "A Layer with the same name already exists"
+msgstr "Már létezik ilyen nevű réteg"
+
+#: "Orchard.Widgets.Drivers.LayerPartDriver"
+msgctxt "Orchard.Widgets.Drivers.LayerPartDriver"
+msgid "The rule is not valid: {0}"
+msgstr "A szabály érvénytelen: {0}"
+
+#: "Orchard.Widgets.Drivers.WidgetPartDriver"
+msgctxt "Orchard.Widgets.Drivers.WidgetPartDriver"
+msgid "Title can't be empty."
+msgstr "A cím nem lehet üres."
+
+#: "Orchard.Widgets.Drivers.WidgetPartDriver"
+msgctxt "Orchard.Widgets.Drivers.WidgetPartDriver"
+msgid "A Widget with the same Name already exists."
+msgstr "Már létezik widget ezzel a névvel."
+
+#: "Orchard.Widgets.Filters.WidgetFilter"
+msgctxt "Orchard.Widgets.Filters.WidgetFilter"
+msgid "An error occured during layer evaluation on: {0}"
+msgstr "Hiba történt a réteg értékelése során: {0}"
+
+#: "Orchard.Widgets.Handlers.LayerHintHandler"
+msgctxt "Orchard.Widgets.Handlers.LayerHintHandler"
+msgid "Would you like to <a href=\"{0}\">add a widget layer</a> for \"{1}\"?"
+msgstr "Szeretne <a href=\"{0}\">felvenni egy widgetréteget</a> a \"{1}\" számára?"
+
+#: "Orchard.Widgets.Handlers.LayerHintHandler"
+msgctxt "Orchard.Widgets.Handlers.LayerHintHandler"
+msgid "A widget layer for \"{0}\" at \"{1}\"."
+msgstr "Egy widgetréteg \"{0}\" oldalhoz \"{1}\" útvonalon."
+
+#: "Orchard.Widgets.RuleEngine.RuleManager"
+msgctxt "Orchard.Widgets.RuleEngine.RuleManager"
+msgid "There are currently not scripting engine enabled"
+msgstr "Jelenleg nincs engedélyezett parancsfájlkezelési motor"
+
+#: "Orchard.Widgets.RuleEngine.RuleManager"
+msgctxt "Orchard.Widgets.RuleEngine.RuleManager"
+msgid "Expression is not a boolean value"
+msgstr "A kifejezés nem logikai érték"
+
+#: "~/Modules/Orchard.Widgets/Views/Widget.ControlWrapper.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Widget.ControlWrapper.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Widgets/Views/Widget.DeleteButton.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Current Layer:"
+msgstr "Jelenlegi réteg:"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Show"
+msgstr "Látható:"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayersControl.cshtml"
+msgid "Add a new layer..."
+msgstr "Új réteg létrehozása..."
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetLayerVisibility.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetLayerVisibility.cshtml"
+msgid "All Layers:"
+msgstr "Minden réteg:"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml"
+msgid "Zones for other enabled themes."
+msgstr "További engedélyezett témák zónái."
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.cshtml"
+msgid "Widgets in these zones will not appear anywhere when your currently active theme is applied. They might still appear in selectively applied (e.g. mobile) themes."
+msgstr "Ezen zónák widgetjei a jelenleg engedélyezett téma esetén nem jelennek meg sehol. Speciálisan kiválasztott (pl. mobil) témák esetében azonban megjelenhetnek."
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgid "Widgets with problems."
+msgstr "Problémás widgetek."
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgid "These widgets aren't going to appear anywhere because they're missing the CommonPart from their content type. To fix these widgets, if you still want to keep them around, start by fixing their <a href=\"{0}\">Content Types</a>."
+msgstr "Ezek a widgetek nem jelennek meg sehol, mert a típusuk nem tartalmazza a CommonPart részt. Ha továbbra is meg akarja tartani a widgeteket, akkor  a <a href=\"{0}\">Tartalomtípusok</a> oldalon javítsa ezeket."
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Orphans.cshtml"
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Move to current layer"
+msgstr "Áthelyezés a jelenlegi rétegre"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Remove"
+msgstr "Eltávolítás"
+
+#. "Move up"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Move up"
+msgstr "Feljebb"
+
+#. "Move down"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetPlacement.Zones.cshtml"
+msgid "Move down"
+msgstr "Lejjebb"
+
+#: "~/Modules/Orchard.Widgets/Views/WidgetSimplePreview.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/WidgetSimplePreview.cshtml"
+msgid "{0} zone preview"
+msgstr "{0} zóna előnézete"
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/AddLayer.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/AddLayer.cshtml"
+msgid "Add Layer"
+msgstr "Réteg hozzáadása"
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/AddWidget.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/AddWidget.cshtml"
+msgid "Add Widget"
+msgstr "Widget hozzáadása"
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml"
+msgid "Choose A Widget"
+msgstr "Válasszon egy widgetet"
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/ChooseWidget.cshtml"
+msgid "There are no widgets available to add."
+msgstr "Nincs elérhető widget a hozzáadáshoz."
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/EditLayer.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/EditLayer.cshtml"
+msgid "Edit Layer"
+msgstr "Réteg szerkesztése"
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/EditWidget.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/EditWidget.cshtml"
+msgid "Edit Widget"
+msgstr "Widget szerkesztése"
+
+#: "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/Admin/Index.cshtml"
+msgid "Widgets"
+msgstr "Widgetek"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "The name of the Layer as it will be displayed in the admin pages."
+msgstr "A réteg neve, ahogy az adminfelületen megjelenik."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Some text describing the purpose of this Layer."
+msgstr "A réteg leírása néhány szóban."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "Layer Rule"
+msgstr "Rétegszabály"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.LayerPart.cshtml"
+msgid "An expression that evaluates to true when the widgets in this layer must be displayed. See <a href=\"http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer\">http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer</a> for more information."
+msgstr "Ha a kifejezés igaz értéket ad vissza, a rétegen található widgetek meg fognak jelenni. További információ: <a href=\"http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer\">http://docs.orchardproject.net/Documentation/Managing-widgets#AddingaLayer</a>."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Zone"
+msgstr "Zóna"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The Zone in the Layout where the Widget will be rendered."
+msgstr "A zóna a felületen, ahová a widgetet szeretné elhelyezni."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Layer"
+msgstr "Réteg"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The Layer where the Widget will be rendered."
+msgstr "A réteg, ahova a widgetet szeretné elhelyezni."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Position"
+msgstr "Pozíció"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The position of the Widget inside the Zone."
+msgstr "A widget pozíciója a zónán belül."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The title of the Widget."
+msgstr "A widget megnevezése."
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Check to render the title on the front-end, uncheck to hide"
+msgstr "Jelölje be a cím megjelenítéséhez az oldalon, az elrejtéshez szüntesse meg a bejelölést"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgctxt "~/Modules/Orchard.Widgets/Views/EditorTemplates/Parts.Widgets.WidgetPart.cshtml"
+msgid "The technical name of the Widget, used for css class and alternates."
+msgstr "A widgetet azonosító név, amellyel hivatkozni lehet rá CSS-ben."
+

@@ -1,0 +1,481 @@
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "Media Picker"
+msgstr "Médiaválasztó"
+
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.MediaPicker/Module.txt"
+msgid "UI for browsing for, uploading, or selecting an image for an HTML editor."
+msgstr "Felhasználói felület képek böngészéséhez, feltöltéséhez és kiválasztásához a HTML-szerkesztőhöz."
+
+#: "Orchard.MediaPicker.Controllers.AdminController"
+msgctxt "Orchard.MediaPicker.Controllers.AdminController"
+msgid "Couldn't create media folder"
+msgstr "A médiamappa létrehozása nem sikerült."
+
+#: "Orchard.MediaPicker.Controllers.AdminController"
+msgctxt "Orchard.MediaPicker.Controllers.AdminController"
+msgid "Creating Folder failed: {0}"
+msgstr "Mappa létrehozása nem sikerült: {0}"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr "A(z) {0} mező kötelező"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "The field {0} doesn't accept multiple media items"
+msgstr "A(z) {0} mezőnek nem lehet egynél több médiaelemet megadni"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "Items"
+msgstr "Elemek"
+
+#: "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaGalleryFieldDriver"
+msgid "A Json serialized list of the media."
+msgstr "A médiaelemek JSON-szérializált listája."
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "The field {0} must have one of these extensions: {1}"
+msgstr "A {0} mező értéke az alábbi kiterjesztések valamelyike lehet: {1}"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr "A(z) {0} mező kötelező"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "Url"
+msgstr "URL"
+
+#: "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgctxt "Orchard.MediaPicker.Drivers.MediaPickerFieldDriver"
+msgid "The url of the media."
+msgstr "A médiaelem URL-je."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Media Picker Field"
+msgstr "Médiaválasztó mező"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Tokens for Media Picker Fields"
+msgstr "Media Picker Field tokenek"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Url"
+msgstr "URL"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The url of the media."
+msgstr "A médiaelem URL-je."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Alternate Text"
+msgstr "Helyettesítő szöveg"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The alternate text of the media."
+msgstr "A médiaelem helyettesítő szövege."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Class"
+msgstr "CSS-class"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The class of the media."
+msgstr "A médiaelem CSS-osztálya."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Style"
+msgstr "Stílus"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The style of the media."
+msgstr "A médiaelem Style-attribútuma."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The alignment of the media."
+msgstr "A médiaelem igazítása."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Width"
+msgstr "Szélesség"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The width of the media."
+msgstr "A médiaelem szélessége."
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "Height"
+msgstr "Magasság"
+
+#: "Orchard.MediaPicker.Tokens.FieldTokens"
+msgctxt "Orchard.MediaPicker.Tokens.FieldTokens"
+msgid "The height of the media."
+msgstr "A médiaelem magassága."
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Pick Image"
+msgstr "Kép választása"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Cannot perform requested operation"
+msgstr "A kért műveletet nem lehet végrehajtani."
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Authentication timed-out: please log-on again"
+msgstr "Lejárt a munkamenet: kérem jelentkezzen be újra"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Update/Upload Image"
+msgstr "Kép frissítése/feltöltése"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Insert/Upload Image"
+msgstr "Kép beszúrása/feltöltése"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml"
+msgid "Browse Media"
+msgstr "Média tallózása"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Media Folders"
+msgstr "Médiamappák"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Create Folder"
+msgstr "Mappa létrehozása"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "This is a table of the images currently available for use in your application."
+msgstr "Ez a webhelyen használható, jelenleg elérhető képek táblázata."
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Folder"
+msgstr "Mappa"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Added on"
+msgstr "Felvéve:"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Size"
+msgstr "Méret"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Upload an image from your computer"
+msgstr "Töltsön fel egy képet a számítógépéről"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "URL"
+msgstr "URL"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Alternative Text"
+msgstr "Helyettesítő szöveg"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Class"
+msgstr "CSS-osztály"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Style"
+msgstr "Stílus"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Width"
+msgstr "Szélesség"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Height"
+msgstr "Magasság"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Lock Aspect Ratio"
+msgstr "Képarány megtartása"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Insert"
+msgstr "Beszúrás"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Update"
+msgstr "Módosítás"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Preview of Image"
+msgstr "Kép előnézete"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "URL for the image resource"
+msgstr "A kép URL-je"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Upload an image from your computer"
+msgstr "Töltsön fel egy képet a számítógépéről"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Alternative Text"
+msgstr "Helyettesítő szöveg"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Class"
+msgstr "CSS-osztály"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Style"
+msgstr "Stílus"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Alignment"
+msgstr "Igazítás"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Width"
+msgstr "Szélesség"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Height"
+msgstr "Magasság"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Lock Aspect Ratio"
+msgstr "Képarány megtartása"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Insert"
+msgstr "Beszúrás"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Update"
+msgstr "Módosítás"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "A media is required"
+msgstr "Egy médiaelemet kötelező kijelölni"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Check to ensure the user is providing at least one media."
+msgstr "Jelölje be, hogy a felhasználónak legalább egy médiaelemet ki kelljen jelölnie."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Allow only specific extensions"
+msgstr "Csak a megadott kiterjesztések engedélyezése"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "You can define a set of extensions the user will be able to pick, separated by spaces, e.g. jpg png gif"
+msgstr "Vesszővel elválasztva megadhat kiterjesztéseket, amik közül a felhasználó választani tud."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Leave it empty if you don't want to apply any restriction."
+msgstr "Hagyja üresen, hogy ne legyenek megszorítások."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Allow multiple media items"
+msgstr "Több médiaelemet is ki lehet jelölni"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Check to allow the user to select multiple media items."
+msgstr "Jelölje be, hogy a felhasználó több médiaelemet is kijelölhessen."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "Help text"
+msgstr "Tipp"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaGalleryFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are selecting media items."
+msgstr "A tipp a mező alatt fog megjelenni amikor a felhasználó médiaelemeket választ ki."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "The media is required"
+msgstr "A médiatartalom kötelező"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Check to ensure the user is providing a valid media for this field."
+msgstr "Jelölje be, hogy a felhasználónak egy érvényes médiaelemet kelljen kiválasztania."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Allow only specific extensions"
+msgstr "Csak a megadott kiterjesztések engedélyezése"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "You can define a set of extensions the user will be able to pick, separated by spaces, e.g. jpg png gif"
+msgstr "Vesszővel elválasztva megadhat kiterjesztéseket, amik közül a felhasználó választani tud."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Leave it empty if you don't want to apply any restriction."
+msgstr "Hagyja üresen, hogy ne legyenek megszorítások."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Provide custom parameters"
+msgstr "Saját paraméterek megadása"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom parameters can be used if your own views."
+msgstr "Saját paramétereket használhat a nézeteinél."
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom1"
+msgstr "Saját1"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom2"
+msgstr "Saját2"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Custom3"
+msgstr "Saját3"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "Help text"
+msgstr "Tipp"
+
+#: "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/DefinitionTemplates/MediaPickerFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are selecting a media."
+msgstr "A tipp a mező alatt fog megjelenni amikor a felhasználó médiaelemeket választ ki."
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "You need to save your changes."
+msgstr "Kérem mentse el a változtatásokat."
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Media"
+msgstr "Média"
+
+#. "Edit"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#. "Remove"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Remove"
+msgstr "Eltávolít"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaGallery.Edit.cshtml"
+msgid "Add"
+msgstr "Hozzáad"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgid "Browse"
+msgstr "Böngészés"
+
+#: "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/EditorTemplates/Fields/MediaPicker.Edit.cshtml"
+msgid "Clear"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.cshtml"
+msgid "No media."
+msgstr "Nincs média."
+
+#: "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.MediaPicker/Views/Fields/MediaGallery.SummaryAdmin.cshtml"
+msgid "No media."
+msgstr "Nincs média."
+

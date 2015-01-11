@@ -1,0 +1,16 @@
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "Task Lease"
+msgstr "Feladat bérlés"
+
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "http://orchardtasklease.codeplex.com"
+msgstr "http://orchardtasklease.codeplex.com "
+
+msgctxt "~/Modules/Orchard.TaskLease/Module.txt"
+msgid "Provides services to synchronize tasks in a farm environment"
+msgstr "Szolgáltatásokat biztosít a feladatok szinkronizálására webfarm környezetben."
+

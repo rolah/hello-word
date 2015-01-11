@@ -1,0 +1,818 @@
+#. "PackagingServices.Category"
+#. "Gallery.Category"
+#. "Gallery.Updates.Category"
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Packaging"
+msgstr "Packaging"
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "The packaging module enables packaging modules using the OPC format."
+msgstr "A Packaging (csomagkezelő) modul segítségével OPC formátumú csomagokat kezelhet."
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Packaging commands"
+msgstr "Packaging parancsok"
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Core services for packaging using the OPC format."
+msgstr "Alapszolgáltatások OPC formátumú csomagok kezelésére."
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Gallery"
+msgstr "Gyűjtemény"
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Module gallery management."
+msgstr "Modulgyűjtemény kezelése."
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Package Updates"
+msgstr "Csomagfrissítések"
+
+msgctxt "~/Modules/Orchard.Packaging/Module.txt"
+msgid "Manages updates for packages."
+msgstr "Csomagfrissítések kezelése"
+
+#: "Orchard.Packaging.AdminMenu"
+msgctxt "Orchard.Packaging.AdminMenu"
+msgid "Modules"
+msgstr "Modulok"
+
+#. "Gallery"
+msgctxt "Orchard.Packaging.AdminMenu"
+msgid "Gallery"
+msgstr "Gyűjtemény"
+
+#: "Orchard.Packaging.AdminMenu"
+msgctxt "Orchard.Packaging.AdminMenu"
+msgid "Themes"
+msgstr "Témák"
+
+#: "Orchard.Packaging.AdminMenu"
+msgctxt "Orchard.Packaging.AdminMenu"
+msgid "Settings"
+msgstr "Beállítások"
+
+#. "Updates"
+msgctxt "Orchard.Packaging.AdminMenuGalleryUpdates"
+msgid "Updates"
+msgstr "Frissítések"
+
+#. "Updates ({0})"
+msgctxt "Orchard.Packaging.AdminMenuGalleryUpdates"
+msgid "Updates ({0})"
+msgstr "Frissítések ({0})"
+
+#: "Orchard.Packaging.AdminMenuGalleryUpdates"
+msgctxt "Orchard.Packaging.AdminMenuGalleryUpdates"
+msgid "Modules"
+msgstr "Modulok"
+
+#: "Orchard.Packaging.AdminMenuGalleryUpdates"
+msgctxt "Orchard.Packaging.AdminMenuGalleryUpdates"
+msgid "Themes"
+msgstr "Témák"
+
+#: "Orchard.Packaging.Commands.PackagingCommands"
+msgctxt "Orchard.Packaging.Commands.PackagingCommands"
+msgid "Module or Theme \"{0}\" does not exist in this Orchard installation."
+msgstr "A(z) \"{0}\" modul vagy téma ebben az Orchard telepítésben nem létezik."
+
+#: "Orchard.Packaging.Commands.PackagingCommands"
+msgctxt "Orchard.Packaging.Commands.PackagingCommands"
+msgid "Package \"{0}\" successfully created"
+msgstr "A(z) \"{0}\" csomag létrehozása megtörtént"
+
+#. "Could not install the package: {0}"
+msgctxt "Orchard.Packaging.Commands.PackagingCommands"
+msgid "Could not install the package: {0}"
+msgstr "A csomagot nem sikerült telepíteni: {0}"
+
+#: "Orchard.Packaging.Commands.PackagingCommands"
+msgctxt "Orchard.Packaging.Commands.PackagingCommands"
+msgid "Could not unintall the package: {0}"
+msgstr "A csomagot nem sikerült eltávolítani: {0}"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Not authorized to list sources"
+msgstr "Nincs jogosultsága források listázásához"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Not authorized to remove sources"
+msgstr "Nincs jogosultsága források eltávolításához"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "The feed has been removed successfully."
+msgstr "A hírcsatorna eltávolítása megtörtént."
+
+#. "Not authorized to add sources"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Not authorized to add sources"
+msgstr "Nincs jogosultsága források hozzáadásához"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "The Url is not valid"
+msgstr "Érvénytelen URL"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Url is required"
+msgstr "URL-cím megadása kötelező"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "The feed has no title."
+msgstr "A hírcsatornának nincs címe."
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "The url of the feed or its content is not valid."
+msgstr "A hírcsatorna URL-címe vagy tartalma érvénytelen."
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "The feed has been added successfully."
+msgstr "A hírcsatorna hozzáadása megtörtént."
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Not authorized to list Modules"
+msgstr "Nincs jogosultsága modulok listázásához"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Not authorized to list Themes"
+msgstr "Nincs jogosultsága témák listázásához"
+
+#: "Orchard.Packaging.Controllers.GalleryController"
+msgctxt "Orchard.Packaging.Controllers.GalleryController"
+msgid "Error loading extensions from gallery source '{0}'. {1}."
+msgstr "Hiba a bővítmények {0} gyűjteményforrásból történő betöltése során: {1}."
+
+#: "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgctxt "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgid "The feed has been notified for update. It might take a few minutes before the updates are displayed."
+msgstr "A hírcsatornát frissíteni kell. Néhány percet igénybe vehet, amíg a frissítések megjelennek."
+
+#: "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgctxt "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgid "Not authorized to add sources"
+msgstr "Nincs jogosultsága források hozzáadásához"
+
+#: "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgctxt "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgid "No Gallery feed configured"
+msgstr "Nincs gyűjtemény hírcsatorna konfigurálva"
+
+#: "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgctxt "Orchard.Packaging.Controllers.GalleryUpdatesController"
+msgid "Package retrieve error: {0}"
+msgstr "Hiba a csomag lehívása közben: {0}"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Not authorized to add themes"
+msgstr "Nincs jogosultsága témák hozzáadásához"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Not authorized to remove themes"
+msgstr "Nincs jogosultsága témák eltávolításához"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Not authorized to add modules"
+msgstr "Nincs jogosultsága modulok hozzáadásához"
+
+#. "Not authorized to add sources"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Not authorized to add sources"
+msgstr "Nincs jogosultsága források hozzáadásához"
+
+#. "The theme has been successfully installed. It can be enabled in the \"Themes\" page accessible from the menu."
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "The theme has been successfully installed. It can be enabled in the \"Themes\" page accessible from the menu."
+msgstr "A téma telepítése megtörtént. A témát a menüből elérhető \"Témák\" oldalon engedélyezheti."
+
+#. "The module has been successfully installed."
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "The module has been successfully installed."
+msgstr "A modul telepítése sikerült."
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Package installation failed: {0}"
+msgstr "A csomag telepítése nem sikerült: {0}"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Package installation failed."
+msgstr "A csomag telepítése nem sikerült."
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Not authorized to install packages"
+msgstr "Nincs jogosultsága csomagok telepítéséhez"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Select a file to upload."
+msgstr "Jelölje ki a feltöltendő fájlt."
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Package uploading and installation failed: "
+msgstr "A csomag feltöltése és telepítése nem sikerült:"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Package uploading and installation failed."
+msgstr "A csomag feltöltése és telepítése nem sikerült."
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Recipes contains {0} unsupported module installation steps."
+msgstr "A receptek {0} nem támogatott modultelepítési lépést tartalmaznak."
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Post installation steps failed with error: {0}"
+msgstr "Hiba történt a telepítés utáni lépésekben: {0}"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Not authorized to uninstall packages"
+msgstr "Nincs jogosultsága csomagok eltávolításához"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Uninstall failed: {0}"
+msgstr "Az eltávolítás sikertelen: {0}"
+
+#: "Orchard.Packaging.Controllers.PackagingServicesController"
+msgctxt "Orchard.Packaging.Controllers.PackagingServicesController"
+msgid "Uninstalled package \"{0}\""
+msgstr "\"{0}\" csomag eltávolítva"
+
+#: "Orchard.Packaging.Events.ExtensionDisplayEventHandler"
+msgctxt "Orchard.Packaging.Events.ExtensionDisplayEventHandler"
+msgid "Version {0} is available (See <a href=\"{1}\">Updates</a>)."
+msgstr "Elérhető verzió: {0} (ld. <a href=\"{1}\">Frissítések</a>)."
+
+#: "Orchard.Packaging.Services.FolderUpdater"
+msgctxt "Orchard.Packaging.Services.FolderUpdater"
+msgid "Skipping file \"{0}\" because it is the same content as the source file"
+msgstr "\"{0}\" fájl átugrása, mert a tartalma megegyezik a forrásfájléval"
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "The specified package could not be found, id:{0} version:{1}"
+msgstr "A megadott csomag nem található, azonosító (id):{0} verzió:{1}"
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "No version"
+msgstr "Nincs verzió"
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Unable to backup existing local package directory."
+msgstr "Létező helyi csomagkönyvtárat nem lehet menteni."
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Unable to un-install local package before updating."
+msgstr "Helyi csomagot mentés nélkül nem lehet eltávolítani."
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "The package is compatible with version {0} and above. Please update Orchard or install another version of this package."
+msgstr "Ez a csomag a(z) {0} és afeletti verziókkal kompatibilis. Kérem frissítse az Orchardot, vagy válassza ki a csomag egy másik verzióját."
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Package not found: {0}"
+msgstr "A csomag nem található"
+
+#. "Backup folder {0} has too many backups subfolder (limit is 1,000)"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Backup folder {0} has too many backups subfolder (limit is 1,000)"
+msgstr "{0} mentési mappa túl sok almappát tartalmaz (1000 a határ)"
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Successfully restored local package to local folder \"{0}\""
+msgstr "A helyi csomag visszaállítása sikerült a(z) \"{0}\" helyi mappába"
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Successfully backed up local package to local folder \"{0}\""
+msgstr "A helyi csomag mentése sikerült a(z) \"{0}\" helyi mappába"
+
+#: "Orchard.Packaging.Services.PackageInstaller"
+msgctxt "Orchard.Packaging.Services.PackageInstaller"
+msgid "Successfully un-installed local package {0}"
+msgstr "{0} helyi csomag eltávolítása sikerült"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/AddSource.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/AddSource.cshtml"
+msgid "Add a Feed"
+msgstr "Hírcsatorna hozzáadása"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/AddSource.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/AddSource.cshtml"
+msgid "Feed Url"
+msgstr "Hírcsatorna URL-címe"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/AddSource.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/AddSource.cshtml"
+msgid "Add Feed"
+msgstr "Hírcsatorna hozzáadása"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Modules"
+msgstr "Modulok"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Feed:"
+msgstr "Hírcsatorna:"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "All feeds"
+msgstr "Összes hírcsatorna"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Sort by:"
+msgstr "Rendezés:"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Downloads"
+msgstr "Letöltések"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Ratings"
+msgstr "Értékelések"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Alphanumeric"
+msgstr "Alfanumerikus"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Version: {0}"
+msgstr "Verzió: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Install"
+msgstr "Telepítés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Download"
+msgstr "Letöltés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "(No description"
+msgstr "(Nincs leírás"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "more..."
+msgstr "tovább..."
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Last Updated: {0}"
+msgstr "Legutóbbi frissítés: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Author: {0}"
+msgstr "Szerző: {0}"
+
+#. "Unknown"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Downloads: {0}"
+msgstr "Letöltések: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Website: "
+msgstr "Webhely:"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Rating: "
+msgstr "Értékelés: "
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Modules.cshtml"
+msgid "Rating: {0} out of 5 ({1} total)."
+msgstr "Értékelés: 5-ből {0} ({1} darab)."
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "Settings"
+msgstr "Beállítások"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "Gallery"
+msgstr "Gyűjtemény"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "Add Feed"
+msgstr "Hírcsatorna hozzáadása"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "This is a table of the gallery feeds in your application"
+msgstr "Ez az Ön alkalmazásában található gyűjtemény hírcsatornák táblája"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "Url"
+msgstr "URL"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Sources.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Themes"
+msgstr "Témák"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Show"
+msgstr "Látható:"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "All feeds"
+msgstr "(összes hírcsatorna)"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Sort by:"
+msgstr "Rendezés:"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Downloads"
+msgstr "letöltések"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Ratings"
+msgstr "Értékelések"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Alphanumeric"
+msgstr "Alfanumerikus"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Version: {0}"
+msgstr "Verzió: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Install"
+msgstr "Telepítés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Download"
+msgstr "Letöltés"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "(No description"
+msgstr "(Nincs leírás"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "more..."
+msgstr "tovább..."
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Last Updated: {0}"
+msgstr "Legutóbbi frissítés: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Author: {0}"
+msgstr "Szerző: {0}"
+
+#. "Unknown"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Downloads: {0}"
+msgstr "Letöltések: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Website: "
+msgstr "Webhely:"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Rating: "
+msgstr "Értékelés: "
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "Rating: {0} out of 5 ({1} total)."
+msgstr "Értékelés: 5-ből {0} ({1} darab)"
+
+#: "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/Gallery/Themes.cshtml"
+msgid "No themes available."
+msgstr "Nincs elérhető téma."
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Modules"
+msgstr "Modulok"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Most recent check for updates: {0}"
+msgstr "Frissítések legutolsó keresése: {0}"
+
+#. "Unknown"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Check for Updates"
+msgstr "Frissítések keresése"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "No module updates available."
+msgstr "Nincs elérhető modulfrissítés."
+
+#. "Version: {0}"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Version: {0}"
+msgstr "Verzió: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Install Latest"
+msgstr "Legutóbbi telepítése"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Download"
+msgstr "Letöltés"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "(No description"
+msgstr "(Nincs leírás"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Last Updated: {0}"
+msgstr "Utolsó frissítés: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Author: {0}"
+msgstr "Szerző: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Downloads: {0}"
+msgstr "Letöltések: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Website: "
+msgstr "Webhely: "
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Rating: "
+msgstr "Értékelés: "
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ModulesUpdates.cshtml"
+msgid "Rating: {0} out of 5 ({1} total)."
+msgstr "Értékelés: 5-ből {0} ({1} darab)"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Themes"
+msgstr "Témák"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Most recent check for updates: {0}"
+msgstr "Frissítések legutolsó keresése: {0}"
+
+#. "Unknown"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Check for Updates"
+msgstr "Frissítések keresése"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "No theme updates available."
+msgstr "Nincs elérhető témafrissítés."
+
+#. "Version: {0}"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Version: {0}"
+msgstr "Verzió: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Install Latest"
+msgstr "Legutóbbi telepítése"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Download"
+msgstr "Letöltés"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "(No description"
+msgstr "(Nincs leírás"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Last Updated: {0}"
+msgstr "Utolsó frissítés: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Author: {0}"
+msgstr "Szerző: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Downloads: {0}"
+msgstr "Letöltések: {0}"
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Website: "
+msgstr "Webhely: "
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Rating: "
+msgstr "Értékelés: "
+
+#: "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/GalleryUpdates/ThemesUpdates.cshtml"
+msgid "Rating: {0} out of 5 ({1} total)."
+msgstr "Értékelés: 5-ből {0} ({1} darab)"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/AddModule.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/AddModule.cshtml"
+msgid "Install a module from your computer"
+msgstr "Modul telepítése a  számítógépéről"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/AddModule.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/AddModule.cshtml"
+msgid "Module Package"
+msgstr "Modulcsomag"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/AddModule.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/AddModule.cshtml"
+msgid "Install"
+msgstr "Telepítés"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/AddTheme.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/AddTheme.cshtml"
+msgid "Install a theme from your computer"
+msgstr "Téma telepítése a  számítógépéről"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/AddTheme.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/AddTheme.cshtml"
+msgid "Theme Package"
+msgstr "Témacsomag"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/AddTheme.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/AddTheme.cshtml"
+msgid "Install"
+msgstr "Telepítés"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgid "{0} - {1} Details"
+msgstr "{0} - {1} adatai"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgid "Pick the recipes you want to run"
+msgstr "Válassza ki a futtatni kívánt receptet"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgid "Pick the features you want enabled"
+msgstr "Válassza ki az engedélyezni kívánt funkciót"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallModuleDetails.cshtml"
+msgid "Ok"
+msgstr "OK"
+
+#: "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallPackageFailed.cshtml"
+msgctxt "~/Modules/Orchard.Packaging/Views/PackagingServices/InstallPackageFailed.cshtml"
+msgid "Install package failed"
+msgstr "Nem sikerült a csomag telepítése"
+

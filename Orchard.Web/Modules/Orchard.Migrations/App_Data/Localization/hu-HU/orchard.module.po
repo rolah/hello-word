@@ -1,0 +1,63 @@
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "Migrations"
+msgstr "Migrations"
+
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "Data migration commands."
+msgstr "Data migration parancsok."
+
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "Database Update"
+msgstr "Adatbázis frissítés"
+
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "Commands for updating the database schema according to the definition of the \"Record\" classes in code."
+msgstr "Parancsok az adatbázisséma frissítéséhez, a programkód \"Record\" osztályainak meghatározása szerint."
+
+msgctxt "~/Modules/Orchard.Migrations/Module.txt"
+msgid "Developer"
+msgstr "Fejlesztői"
+
+#: "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgctxt "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgid "An error occured while updating the database."
+msgstr "Hiba történt az adatbázis frissítése során."
+
+#: "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgctxt "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgid "Database updated"
+msgstr "Adatbázis frissítve"
+
+#: "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgctxt "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgid "There are no tables to create for feature {0}."
+msgstr "Nem kell táblákat létrehozni a(z) {0} funkcióhoz."
+
+#: "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgctxt "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgid "An error occured while creating the tables."
+msgstr "Hiba történt a tábla létrehozása során."
+
+#: "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgctxt "Orchard.Migrations.Commands.DatabaseUpdateCommands"
+msgid "Tables created"
+msgstr "Táblák létrehozva"
+
+#: "Orchard.Migrations.Commands.DataMigrationCommands"
+msgctxt "Orchard.Migrations.Commands.DataMigrationCommands"
+msgid "An error occured while upgrading the database."
+msgstr "Hiba történt az adatbázis bővítése során."
+
+#: "Orchard.Migrations.Commands.DataMigrationCommands"
+msgctxt "Orchard.Migrations.Commands.DataMigrationCommands"
+msgid "Database upgraded"
+msgstr "Adatbázis bővítve."
+

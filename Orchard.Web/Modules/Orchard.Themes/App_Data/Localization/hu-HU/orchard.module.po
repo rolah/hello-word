@@ -1,0 +1,291 @@
+msgctxt "~/Modules/Orchard.Themes/Module.txt"
+msgid "Themes"
+msgstr "Témák"
+
+msgctxt "~/Modules/Orchard.Themes/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Themes/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Themes/Module.txt"
+msgid "The themes module makes it possible for Orchard applications to customize the look and feel of an Orchard web site."
+msgstr "A Themes (témák) modul az Orchard alkalmazások számára lehetővé teszi az Orchard-webhelyek megjelenésének testre szabását."
+
+#: "Orchard.Themes.AdminMenu"
+msgctxt "Orchard.Themes.AdminMenu"
+msgid "Themes"
+msgstr "Témák"
+
+#: "Orchard.Themes.AdminMenu"
+msgctxt "Orchard.Themes.AdminMenu"
+msgid "Installed"
+msgstr "Telepítve"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "{0}"
+msgstr "{0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Current theme"
+msgstr "Jelenlegi téma"
+
+#. "--------------------------"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "List of available themes"
+msgstr "Elérhető témák listája"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "  Name: {0}"
+msgstr "  Megnevezés: {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    State:         {0}"
+msgstr "    Állapot:       {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Enabled"
+msgstr "Bekapcsolva"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Disabled"
+msgstr "Kikapcsolva"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    NeedsUpdate:   {0}"
+msgstr "    NeedsUpdate: {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Yes"
+msgstr "Igen"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "No"
+msgstr "Nem"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    Author:        {0}"
+msgstr "    Szerző:        {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    Version:       {0}"
+msgstr "    Verzió:        {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    Description:   {0}"
+msgstr "    Leíás:         {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    Website:       {0}"
+msgstr "    Webhely:       {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "    Zones:         {0}"
+msgstr "    Zónák:         {0}"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Could not find theme {0}"
+msgstr "{0} téma nem található"
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Enabling theme \"{0}\"..."
+msgstr "\"{0}\" téma bekapcsolása..."
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Activating theme \"{0}\"..."
+msgstr "\"{0}\" téma aktiválása..."
+
+#: "Orchard.Themes.Commands.ThemeCommands"
+msgctxt "Orchard.Themes.Commands.ThemeCommands"
+msgid "Theme \"{0}\" activated"
+msgstr "\"{0}\" téma aktiválva"
+
+#. "Couldn't preview the current theme"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "Couldn't preview the current theme"
+msgstr "A jelenlegi téma előnézete nem érhető el"
+
+#. "Theme {0} was not found"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "Theme {0} was not found"
+msgstr "{0} téma nem található"
+
+#: "Orchard.Themes.Controllers.AdminController"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "Couldn't enable the theme"
+msgstr "A téma nem kapcsolható be"
+
+#: "Orchard.Themes.Controllers.AdminController"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "Couldn't disable the current theme"
+msgstr "A jelenlegi téma nem kapcsolható ki"
+
+#: "Orchard.Themes.Controllers.AdminController"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "Couldn't set the current theme"
+msgstr "A jelenlegi téma nem állítható be"
+
+#: "Orchard.Themes.Controllers.AdminController"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "Couldn't update theme"
+msgstr "Nem sikerült a téma frissítése"
+
+#: "Orchard.Themes.Controllers.AdminController"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "The theme {0} was updated successfully"
+msgstr "A(z) {0} téma frissítése megtörtént"
+
+#. "An error occured while updating the theme {0}: {1}"
+msgctxt "Orchard.Themes.Controllers.AdminController"
+msgid "An error occured while updating the theme {0}: {1}"
+msgstr "Hiba történt a(z) {0} téma frissítése során: {1}"
+
+#: "Orchard.Themes.Services.ThemeService"
+msgctxt "Orchard.Themes.Services.ThemeService"
+msgid "The theme \"{0}\" is already in the stack of themes that need features disabled."
+msgstr "A(z) {0} téma már szerepel azok között a témák között, amelyeknek egyes funkcióit le kell tiltani."
+
+#: "Orchard.Themes.Services.ThemeService"
+msgctxt "Orchard.Themes.Services.ThemeService"
+msgid "The theme \"{0}\" is already in the stack of themes that need features enabled."
+msgstr "A(z) \"{0}\" téma már a funkciók bekapcsolását igénylő témák között van."
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Activate"
+msgstr "Aktiválás"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Set Current"
+msgstr "Beállít témának"
+
+#. "Preview"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "By"
+msgstr "Készítette:"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Version:"
+msgstr "Verzió:"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Disable"
+msgstr "Kikapcsolás"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Enable"
+msgstr "Bekapcsolás"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Update"
+msgstr "Frissítás"
+
+#. "Uninstall"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.cshtml"
+msgid "Uninstall"
+msgstr "Eltávolítás"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml"
+msgid "By"
+msgstr "Készítette"
+
+#: "~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemeEntry.Current.cshtml"
+msgid "Version:"
+msgstr "Verzió:"
+
+#: "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgid "You are previewing: "
+msgstr "Előnézet a következőről: "
+
+#. "Preview"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgid "Preview"
+msgstr "Előnézet"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgid "Apply this theme"
+msgstr "E téma alkalmazása"
+
+#. "Cancel"
+msgctxt "~/Modules/Orchard.Themes/Views/ThemePreview.cshtml"
+msgid "Cancel"
+msgstr "Mégse"
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "Themes"
+msgstr "Témák"
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "There is no current theme in the application. The built-in theme will be used."
+msgstr "Az alkalmazásban nincs jelenlegi téma. A beépített téma kerül használatba."
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "Install a new Theme"
+msgstr "Új téma telepítése"
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "Current Theme"
+msgstr "Jelenlegi téma"
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "Available"
+msgstr "Elérhető"
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "Install a theme from your computer"
+msgstr "Téma telepítése a számítógépéről"
+
+#: "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Themes/Views/Admin/Index.cshtml"
+msgid "There are no additional themes installed."
+msgstr "Nincs több telepített téma."
+

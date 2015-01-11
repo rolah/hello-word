@@ -1,0 +1,187 @@
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Orchard.Templates"
+msgstr "Orchard.Templates"
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Provides a Template type that can be used to store template code and used as a shape."
+msgstr "Biztosít egy Template tartalomtípust, amely segítségével template-eket tárolhat és velük shape-eket jeleníthet meg."
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Templates"
+msgstr "Template-ek"
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Provides a Template type that represents a shape template, stored as a content item."
+msgstr "Biztosít egy Template tartalomtípust, amely egy shape-et képvisel és tartalomelem formájában van tárolva."
+
+#. "Orchard.Templates.Razor.Category"
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Content"
+msgstr "Tartalom"
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Razor Templates"
+msgstr "Razor Template-ek"
+
+msgctxt "~/Modules/Orchard.Templates/Module.txt"
+msgid "Extends Templates with Razor templates."
+msgstr "Razor-támogatás a Templates modulhoz."
+
+#: "Orchard.Templates.AdminMenu"
+msgctxt "Orchard.Templates.AdminMenu"
+msgid "Templates"
+msgstr "Template-ek"
+
+#: "Orchard.Templates.Controllers.AdminController"
+msgctxt "Orchard.Templates.Controllers.AdminController"
+msgid "Couldn't publish selected content."
+msgstr "A kijelölt tartalom nem tehető közzé."
+
+#: "Orchard.Templates.Controllers.AdminController"
+msgctxt "Orchard.Templates.Controllers.AdminController"
+msgid "Content successfully published."
+msgstr "A tartalom közzététele megtörtént."
+
+#: "Orchard.Templates.Controllers.AdminController"
+msgctxt "Orchard.Templates.Controllers.AdminController"
+msgid "Couldn't unpublish selected content."
+msgstr "A kijelölt tartalom közzététele nem vonható vissza."
+
+#: "Orchard.Templates.Controllers.AdminController"
+msgctxt "Orchard.Templates.Controllers.AdminController"
+msgid "Content successfully unpublished."
+msgstr "A tartalom közzététele visszavonva."
+
+#: "Orchard.Templates.Controllers.AdminController"
+msgctxt "Orchard.Templates.Controllers.AdminController"
+msgid "Couldn't remove selected content."
+msgstr "A kijelölt tartalom nem távolítható el."
+
+#: "Orchard.Templates.Controllers.AdminController"
+msgctxt "Orchard.Templates.Controllers.AdminController"
+msgid "Content successfully removed."
+msgstr "A tartalom eltávolítása megtörtént."
+
+#: "Orchard.Templates.Drivers.ShapePartDriver"
+msgctxt "Orchard.Templates.Drivers.ShapePartDriver"
+msgid "Template processing error: {0}"
+msgstr "Template feldolgozási hiba: {0}"
+
+#: "Orchard.Templates.Drivers.ShapePartDriver"
+msgctxt "Orchard.Templates.Drivers.ShapePartDriver"
+msgid "{0} names can only contain alphanumerical or underscore (_) characters and have to start with a letter."
+msgstr "{0} nevek csak alfanumerikus karaktereket és aláhúzást (_) tartalmazhatnak és betűvel kell kezdődniük."
+
+#: "Orchard.Templates.Services.NoTemplateProcessorBanner"
+msgctxt "Orchard.Templates.Services.NoTemplateProcessorBanner"
+msgid "To be able to use Templates enable a template processor like Razor Templates."
+msgstr "A Templates modul használatához engedélyezzen egy template-feldolgozót, mint a Razor Templates."
+
+#: "~/Modules/Orchard.Templates/Views/Admin/CreatableTypeList.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/CreatableTypeList.cshtml"
+msgid "Create New Template"
+msgstr "Új template létrehozása"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Manage Templates"
+msgstr "Template-ek kezelése"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Create New Template"
+msgstr "Új template létrehozása"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Manage {0}s"
+msgstr "{0} kezelése"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Create New {0}"
+msgstr "Új {0} létrehozása"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Show"
+msgstr "Mutat"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "any (show all)"
+msgstr "bármely (mindet mutat)"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "Ordered by"
+msgstr "Sorbarendezés e szerint"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "recently created"
+msgstr "legutóbb létrehozva"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "recently modified"
+msgstr "legutóbb módosítva"
+
+#: "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/Admin/List.cshtml"
+msgid "recently published"
+msgstr "legutóbb közzétéve"
+
+#: "~/Modules/Orchard.Templates/Views/DefinitionTemplates/Parts.Shape.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/DefinitionTemplates/Parts.Shape.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#: "~/Modules/Orchard.Templates/Views/DefinitionTemplates/Parts.Shape.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/DefinitionTemplates/Parts.Shape.cshtml"
+msgid "The name of this template, which can be used to reference from code (as when using shape type names) and tokens."
+msgstr "A template neve, amelyet kódból (mintha egy shape-típus neven lenne) és token-ekben is tud használni."
+
+#: "~/Modules/Orchard.Templates/Views/DefinitionTemplates/ShapePartSettingsViewModel.cshtml"
+msgctxt "~/Modules/Orchard.Templates/Views/DefinitionTemplates/ShapePartSettingsViewModel.cshtml"
+msgid "Template Processor"
+msgstr "Template feldolgozó"
+

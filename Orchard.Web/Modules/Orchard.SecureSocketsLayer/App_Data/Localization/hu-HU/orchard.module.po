@@ -1,0 +1,111 @@
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "Secure Sockets Layer"
+msgstr "Secure Sockets Layer"
+
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Module.txt"
+msgid "This module will ensure SSL is used when accessing specific parts of the website like the dashboard, authentication pages or custom pages."
+msgstr "Ez a modul biztosítja, hogy a weboldal megadott részei, mint például az Admin felület, bejelentkezési oldalak és saját oldalak SSL-en keresztül jelenjenek meg."
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Urls' site setting invalid"
+msgstr "Az \"URL-ek\" beállítás érvénytelen"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Secure Everything' site setting set to '{0}'"
+msgstr "A 'Secure Everything' weboldal beállítás értéke beállítva: {0}"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Custom Enabled' site setting set to '{0}'"
+msgstr "A 'Custom Enabled' weboldal beállítás értéke beállítva: {0}"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Urls' site setting set to '{0}'"
+msgstr "Az 'Urls' weboldal beállítás értéke beállítva: {0}"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Secure Host Name' site setting set to '{0}'"
+msgstr "A 'Secure Host Name' weboldal beállítás értéke beállítva: {0}"
+
+#: "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgctxt "Orchard.SecureSocketsLayer.Commands.SecureSocketsLayersCommand"
+msgid "'Insecure Host Name' site setting set to '{0}'"
+msgstr "Az 'Insecure Host Name' weboldal beállítás értéke beállítva: {0}"
+
+#: "Orchard.SecureSocketsLayer.Filters.SecureSocketsLayersFilter"
+msgctxt "Orchard.SecureSocketsLayer.Filters.SecureSocketsLayersFilter"
+msgid "You need to configure the SSL settings."
+msgstr "Az SSL-beállítások be kell konfigurálni."
+
+#: "Orchard.SecureSocketsLayer.Handlers.SslSettingsPartHandler"
+msgctxt "Orchard.SecureSocketsLayer.Handlers.SslSettingsPartHandler"
+msgid "SSL"
+msgstr "SSL"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "SSL Settings"
+msgstr "SSL-beállítások"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Enable SSL redirection"
+msgstr "SSL-átirányítás engedélyezése"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Secure Host Name"
+msgstr "Biztonságos host név"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "(Mandatory) The host name secured traffic should be redirected to (e.g. localhost:44300, secure.mydomain.com). Don't include the protocol or anything else than the host name. A port can be specified after a colon if necessary (e.g. secure.127-0-0-1.org.uk:4333)."
+msgstr "(Kötelező) A host név, amelyre a biztonságos forgalmat át kell irányítani (pl. localhost:44300, secure.mydomain.com). Ne írja be a protokolt vagy bármi egyebet a host neven kívül. A portot megadhatja kettőspont után, ha szükséges (pl. secure.127-0-0-1.org.uk:4333)."
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Insecure Host Name"
+msgstr "Nem-biztonságos host név"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "(Mandatory) The host name non-secured traffic should be redirected to (e.g. localhost:30321, mydomain.com). Don't include the protocol or anything else than the host name. A port can be specified after a colon if necessary (e.g. dev.127-0-0-1.org.uk:4333)."
+msgstr "(Kötelező) A host név, amelyre a nem-biztonságos forgalmat át kell irányítani (pl. localhost:30321, mydomain.com). Ne írja be a protokolt vagy bármi egyebet a host neven kívül. A portot megadhatja a kettőspont után, ha szükséges (pl. dev.127-0-0-1.org.uk:4333)."
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Force SSL on all pages"
+msgstr "SSL kötelező használata minden oldalon"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Enable SSL on specific pages"
+msgstr "SSL engedélyezése megadott oldalakon"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Urls"
+msgstr "URL-ek"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Provide a list of urls, one per line. Urls can contains wildcard matches using '*', or root identifier like '~/'"
+msgstr "Adjon meg egy URL-listát, egyet soronként. Az URL-ek tartalmazhatnak wildcard-okat a '*' használatával, vagy a gyökér azonosítóját, mint a ''~/'"
+
+#: "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgctxt "~/Modules/Orchard.SecureSocketsLayer/Views/EditorTemplates/Parts/SecureSocketsLayer.Settings.cshtml"
+msgid "Examples: http://mysite.com/mypage, ~/Profile/Edit, ~/Profile/*"
+msgstr "Példák: http://mysite.com/mypage, ~/Profile/Edit, ~/Profile/*"
+

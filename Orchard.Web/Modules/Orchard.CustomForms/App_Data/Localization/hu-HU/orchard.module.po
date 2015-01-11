@@ -1,0 +1,302 @@
+#. "Orchard.CustomForms.Name"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Custom Forms"
+msgstr "Egyéni űrlapok"
+
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "http://orchardcustomforms.codeplex.com"
+msgstr "http://orchardcustomforms.codeplex.com"
+
+#. "Orchard.CustomForms.Description"
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Create custom forms like contact forms or content contributions."
+msgstr "Egyéni űrlapokat hozhat létre például tartalmak beküldéséhez vagy kapcsolatfelvétel céljából."
+
+msgctxt "~/Modules/Orchard.CustomForms/Module.txt"
+msgid "Forms"
+msgstr "Űrlapok"
+
+#: "Orchard.CustomForms.AdminMenu"
+msgctxt "Orchard.CustomForms.AdminMenu"
+msgid "Custom Forms"
+msgstr "Egyéni űrlapok"
+
+#: "Orchard.CustomForms.AdminMenu"
+msgctxt "Orchard.CustomForms.AdminMenu"
+msgid "Manage Forms"
+msgstr "Űrlapok kezelése"
+
+#. "Done"
+msgctxt "Orchard.CustomForms.Activities.FormSubmittedActivity"
+msgid "Done"
+msgstr "Kész"
+
+#: "Orchard.CustomForms.Activities.FormSubmittedActivity"
+msgctxt "Orchard.CustomForms.Activities.FormSubmittedActivity"
+msgid "Content Items"
+msgstr "Tartalomelemek"
+
+#: "Orchard.CustomForms.Activities.FormSubmittedActivity"
+msgctxt "Orchard.CustomForms.Activities.FormSubmittedActivity"
+msgid "A custom form is submitted."
+msgstr "Egy saját űrlap be lett küldve."
+
+#: "Orchard.CustomForms.Activities.SelectCustomForm"
+msgctxt "Orchard.CustomForms.Activities.SelectCustomForm"
+msgid "Custom Forms"
+msgstr "Egyéni űrlapok"
+
+#: "Orchard.CustomForms.Activities.SelectCustomForm"
+msgctxt "Orchard.CustomForms.Activities.SelectCustomForm"
+msgid "Select some custom forms."
+msgstr "Válasszon ki néhány saját űrlapot."
+
+#: "Orchard.CustomForms.Activities.SelectCustomForm"
+msgctxt "Orchard.CustomForms.Activities.SelectCustomForm"
+msgid "Any"
+msgstr "Bármely"
+
+#: "Orchard.CustomForms.Controllers.AdminController"
+msgctxt "Orchard.CustomForms.Controllers.AdminController"
+msgid "Not authorized to list custom forms"
+msgstr "Nincs hozzáférése az egyéni űrlapok kezeléséhez"
+
+#. "Not authorized to manage customForm"
+msgctxt "Orchard.CustomForms.Controllers.AdminController"
+msgid "Not authorized to manage customForm"
+msgstr "Nincs hozzáférése a customForm típus kezeléséhez"
+
+#: "Orchard.CustomForms.Controllers.ItemController"
+msgctxt "Orchard.CustomForms.Controllers.ItemController"
+msgid "The content type must have CommonPart attached"
+msgstr "A tartalomtípushoz kötelező a CommonPart-ot csatolni"
+
+#: "Orchard.CustomForms.Controllers.ItemController"
+msgctxt "Orchard.CustomForms.Controllers.ItemController"
+msgid "Cannot create content"
+msgstr "Nem lehet a tartalmat létrehozni"
+
+#. "Couldn't create content"
+msgctxt "Orchard.CustomForms.Controllers.ItemController"
+msgid "Couldn't create content"
+msgstr "Nem sikerült a tartalom létrehozása"
+
+#. "Custom Forms"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Custom Forms"
+msgstr "Egyéni űrlapok"
+
+#: "Orchard.CustomForms.Rules.CustomFormEvents"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Custom Form Submitted"
+msgstr "Beküldött egyéni űrlap"
+
+#: "Orchard.CustomForms.Rules.CustomFormEvents"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Custom Form is submitted."
+msgstr "Egyéni űrlap beküldve"
+
+#: "Orchard.CustomForms.Rules.CustomFormEvents"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "When a custom form for types ({0}) is submitted."
+msgstr "Amikor {0} típusokhoz tartozó űrlapok beküldése történik."
+
+#: "Orchard.CustomForms.Rules.CustomFormEvents"
+msgctxt "Orchard.CustomForms.Rules.CustomFormEvents"
+msgid "Any"
+msgstr "Bármely"
+
+#: "~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.SummaryAdmin.cshtml"
+msgid "Renders a form for {0}"
+msgstr "Űrlap megjelenítése a következőhöz: {0}"
+
+#: "~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.Wrapper.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Parts.CustomForm.Wrapper.cshtml"
+msgid "Submit"
+msgstr "Beküldés"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Manage Custom Forms"
+msgstr "Egyéni űrlapok kezelése"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Add a new Custom Form"
+msgstr "Új egyéni űrlap hozzáadása"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Művelet kiválasztása..."
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Publish"
+msgstr "Közzétesz"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "Sorrend:"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Creation date"
+msgstr "Létrehozás dátuma"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Show:"
+msgstr "Megjelenít:"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "All"
+msgstr "Összes"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrő"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Content Type"
+msgstr "Tartalomtípus"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "-"
+msgstr "-"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Widget"
+msgstr "Widget"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkeszt"
+
+#. " | "
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid " | "
+msgstr " | "
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Index.cshtml"
+msgid "Submissions"
+msgstr "Beküldések"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Choose action..."
+msgstr "Művelet kiválasztása..."
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Publish Now"
+msgstr "Közzététel most"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Unpublish"
+msgstr "Közzététel visszavonása"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Admin/Item.cshtml"
+msgid "There are no submissions for this form."
+msgstr "Ezen az űrlapon keresztül még nem küldtek be semmit."
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Content Type"
+msgstr "Tartalomtípus"
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Select the content type which will be used to render the custom form."
+msgstr "Válassza ki a tartalomtípust, amely alapján az űrlap felépül."
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Save the content item once the form is submitted"
+msgstr "A tartalomelem mentése az űrlap beküldésekor"
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Check if you want to save the content item associated to the form. Leave empty if you just want to trigger an action on the event."
+msgstr "Jelölje be, hogy az űrlaphoz tartozó tartalomelem mentésre kerüljön. Hagyja üresen, hogy csak egy esemény aktiválódjon beküldéskor."
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Specify a custom message when the form is submitted"
+msgstr "Adjon meg egy üzenet, amely az űrlap beküldésekor megjelenik"
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "The custom message to display to the user when the form is submitted. Leave empty if no messages should be displayed."
+msgstr "Egy üzenet, amely az űrlap beküldésekor megjelenik. Hagyja üresen, ha nem akar üzenet megjeleníteni."
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "Redirect the user once the form is submitted"
+msgstr "A felhasználó átirányítása az űrlap beküldése után"
+
+#: "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/EditorTemplates/Parts.CustomForm.Fields.cshtml"
+msgid "The url the user should be redirected to once the form is successfully submitted. e.g.: ~/About"
+msgstr "Az URL, amelyre a felhasználót át szeretné irányítani az űrlap sikeres beküldése után, pl.: ~/Rolunk"
+
+#: "~/Modules/Orchard.CustomForms/Views/Item/Create.cshtml"
+msgctxt "~/Modules/Orchard.CustomForms/Views/Item/Create.cshtml"
+msgid "Submit"
+msgstr "Beküldés"
+

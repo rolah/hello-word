@@ -1,0 +1,176 @@
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Import Export"
+msgstr "Importálás/exportálás"
+
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.ImportExport/Module.txt"
+msgid "Provides content item data import and export capability."
+msgstr "Képességet biztosít a tartalmak adatainak importálására és exportálására."
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Import/Export"
+msgstr "Importálás/exportálás"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Import"
+msgstr "Importálás"
+
+#: "Orchard.ImportExport.AdminMenu"
+msgctxt "Orchard.ImportExport.AdminMenu"
+msgid "Export"
+msgstr "Exportálás"
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Invalid file path"
+msgstr "Érvénytelen fájl útvonal"
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "File not found."
+msgstr "Fájl nem található."
+
+#: "Orchard.ImportExport.Commands.ImportExportCommands"
+msgctxt "Orchard.ImportExport.Commands.ImportExportCommands"
+msgid "Import running..."
+msgstr "Folyamatban van az importálás..."
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Not allowed to import."
+msgstr "Nem importálhat adatokat."
+
+#. "Please choose a recipe file to import."
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Please choose a recipe file to import."
+msgstr "Válasszon egy receptfájlt az importáláshoz."
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Your recipe has been imported."
+msgstr "A recept importálása megtörtént."
+
+#: "Orchard.ImportExport.Controllers.AdminController"
+msgctxt "Orchard.ImportExport.Controllers.AdminController"
+msgid "Not allowed to export."
+msgstr "Nem exportálhat adatokat."
+
+#. "Export"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Export"
+msgstr "Exportálás"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Choose the types to include in the export file:"
+msgstr "Válassza ki az exportálandó típusokat:"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Choose what to save for these types:"
+msgstr "Válasszon, hogy mit kell kimenteni ezeknél a típusoknál:"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Metadata"
+msgstr "Metaadatok"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Metadata is the definition of your content types: what parts and fields they have, with what settings."
+msgstr "A metaadatok a tartalomtípusokat határozzák meg: milyen részeket és mezőket tartalmazna, milyen beállításokkal."
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Data"
+msgstr "Adatok"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Data is the actual content of your site."
+msgstr "Az adatok a webhely valódi tartalmai."
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Version History"
+msgstr "Előzmények"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Only Published Versions"
+msgstr "Csak a közzétett változatokat"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Only Drafts"
+msgstr "Csak a vázlatokat"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Site Settings"
+msgstr "Webhely beállítások"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Please verify that you are not exporting confidential information, such as passwords or application keys."
+msgstr "Vigyázzon rá, hogy bizalmas adatokat ne exportáljon, mint például jelszavak vagy alkalmazáskulcsok."
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Export.cshtml"
+msgid "Choose the custom steps to execute in the export file:"
+msgstr "Válassza az exportálási fájlban lefuttatandó lépéseket:"
+
+#. "Import"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Import"
+msgstr "Importálás"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Choose a recipe file to import. Please consider {0} or backing up your data first."
+msgstr "Válasszon egy receptfájlt az importáláshoz. Először mentse el az adatait, vagy {0}."
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "exporting"
+msgstr "exportálás"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/Import.cshtml"
+msgid "Recipe File:"
+msgstr "Receptfájl:"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Import Result"
+msgstr "Importálás eredménye"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Status"
+msgstr "Állapot"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "These are messages logged during the import process"
+msgstr "Az alábbi üzenetek kerültek a feljegyzések közé az importálás során"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Message"
+msgstr "Üzenet"
+
+#: "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgctxt "~/Modules/Orchard.ImportExport/Views/Admin/ImportResult.cshtml"
+msgid "Close"
+msgstr "Bezár"
+

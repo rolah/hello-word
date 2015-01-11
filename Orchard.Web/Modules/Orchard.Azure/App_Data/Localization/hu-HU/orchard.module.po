@@ -1,0 +1,49 @@
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Microsoft Azure Services"
+msgstr "Microsoft Azure Services"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "The Orchard Team"
+msgstr "A Orchard csapat"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Provides a set of Orchard service implementations targeting Microsoft Azure services."
+msgstr "Microsoft Azure-hoz kapcsolódó szolgáltatások használata Orchard-ban."
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Microsoft Azure Media Storage"
+msgstr "Microsoft Azure Media Storage"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Activates an Orchard media storage provider that targets Microsoft Azure Blob Storage."
+msgstr "Microsoft Azure Blob Storage-et támogató médiatároló Orchard-hoz."
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Hosting"
+msgstr "Hosting"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Microsoft Azure Output Cache"
+msgstr "Microsoft Azure Output Cache"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Activates an Orchard output cache provider that targets Windows Azure Cache."
+msgstr "Microsoft Azure Cache-t támogató cache implementáció Orchard-hoz."
+
+#. "Orchard.Azure.DatabaseCache.Category"
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Performance"
+msgstr "Teljesítmény"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Microsoft Azure Database Cache"
+msgstr "Microsoft Azure Database Cache"
+
+msgctxt "~/Modules/Orchard.Azure/Module.txt"
+msgid "Activates an NHibernate second-level cache provider that targets Microsoft Azure Cache."
+msgstr "Microsoft Azure Cache-t támogató NHibernate másodszintű gyorsítótár."
+

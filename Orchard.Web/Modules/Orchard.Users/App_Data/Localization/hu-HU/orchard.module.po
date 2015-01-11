@@ -1,0 +1,754 @@
+msgctxt "~/Modules/Orchard.Users/Module.txt"
+msgid "Users"
+msgstr "Felhasználók"
+
+msgctxt "~/Modules/Orchard.Users/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Users/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Users/Module.txt"
+msgid "The users module enables user management."
+msgstr "A Users (felhasználók) modul a felhasználók felügyeletét teszi lehetővé."
+
+msgctxt "~/Modules/Orchard.Users/Module.txt"
+msgid "Standard users."
+msgstr "Alapértelmezett felhasználók."
+
+msgctxt "~/Modules/Orchard.Users/Module.txt"
+msgid "Core"
+msgstr "Core"
+
+#. "Users"
+msgctxt "Orchard.Users.AdminMenu"
+msgid "Users"
+msgstr "Felhasználók"
+
+#: "Orchard.Users.Commands.UserCommands"
+msgctxt "Orchard.Users.Commands.UserCommands"
+msgid "Username cannot be empty."
+msgstr "A felhasználónév nem lehet üres."
+
+#: "Orchard.Users.Commands.UserCommands"
+msgctxt "Orchard.Users.Commands.UserCommands"
+msgid "User with that username and/or email already exists."
+msgstr "Már létezik ilyen névvel és/vagy e-mail címmel rendelkező felhasználó."
+
+#: "Orchard.Users.Commands.UserCommands"
+msgctxt "Orchard.Users.Commands.UserCommands"
+msgid "You must specify a password of {0} or more characters."
+msgstr "Legalább {0} karakterből álló jelszót kell megadnia."
+
+#: "Orchard.Users.Commands.UserCommands"
+msgctxt "Orchard.Users.Commands.UserCommands"
+msgid "Could not create user {0}. The authentication provider returned an error"
+msgstr "Nem sikerült a felhasználó létrehozása: {0}. Az authentication provider hibát adott vissza."
+
+#: "Orchard.Users.Commands.UserCommands"
+msgctxt "Orchard.Users.Commands.UserCommands"
+msgid "User created successfully"
+msgstr "A felhasználó létrehozása megtörtént"
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "Access Denied"
+msgstr "Hozzáférés megtagadva"
+
+#. "Log On"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "Log On"
+msgstr "Bejelentkezés"
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "Invalid username or E-mail."
+msgstr "Érvénytelen felhasználónév vagy email-cím."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "Check your e-mail for the confirmation link."
+msgstr "Ellenőrizze, hogy megkapta-e a megerősítő hivatkozást tartalmazó e-mailt."
+
+#. "The current password is incorrect or the new password is invalid."
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "The current password is incorrect or the new password is invalid."
+msgstr "A jelenlegi jelszó hibás, vagy az új jelszó érvénytelen."
+
+#. "You must specify a new password of {0} or more characters."
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a new password of {0} or more characters."
+msgstr "Legalább {0} karakterből álló, új jelszót kell megadnia."
+
+#. "The new password and confirmation password do not match."
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "The new password and confirmation password do not match."
+msgstr "Az új jelszó és a jelszó megerősítése nem egyezik meg."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a current password."
+msgstr "Meg kell adnia egy jelenlegi jelszót."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a username or e-mail."
+msgstr "Meg kell adnia egy felhasználónevet vagy e-mail címet."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a password."
+msgstr "Meg kell adnia egy jelszót."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "The username or e-mail or password provided is incorrect."
+msgstr "A megadott felhasználónév vagy e-mail cím vagy jelszó hibás."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a username."
+msgstr "Meg kell adnia egy felhasználónevet."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "The username you provided is too long."
+msgstr "A megadott felhasználónév túl hosszú."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify an email address."
+msgstr "Meg kell adnia egy e-mail címet."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "The email address you provided is too long."
+msgstr "A megadott email-cím túl hosszú."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a valid email address."
+msgstr "Érvényes e-mail címet kell megadnia."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "User with that username and/or email already exists."
+msgstr "Már létezik ilyen névvel és/vagy e-mail címmel rendelkező felhasználó."
+
+#: "Orchard.Users.Controllers.AccountController"
+msgctxt "Orchard.Users.Controllers.AccountController"
+msgid "You must specify a password of {0} or more characters."
+msgstr "Legalább {0} karakterből álló jelszót kell megadnia."
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "Not authorized to list users"
+msgstr "Felhasználók listázására nincs jogosultsága"
+
+#. "Not authorized to manage users"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "Not authorized to manage users"
+msgstr "Felhasználók kezelésére nincs jogosultsága"
+
+#. "User with that username and/or email already exists."
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "User with that username and/or email already exists."
+msgstr "Már létezik ilyen névvel és/vagy e-mail címmel rendelkező felhasználó."
+
+#. "You must specify a valid email address."
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "You must specify a valid email address."
+msgstr "Érvényes e-mail címet kell megadnia."
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "Password confirmation must match"
+msgstr "A jelszó megerősítésének egyeznie kell a jelszóval"
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "User created"
+msgstr "Felhasználó létrehozva"
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "User information updated"
+msgstr "Felhasználó adatai frissítve"
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "The Super user can't be removed. Please disable this account or specify another Super user account."
+msgstr "A super user nem távolítható el. Tiltsa le ezt a fiókot, vagy adjon meg másik super user-t."
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "You can't remove your own account. Please log in with another account."
+msgstr "A saját fiókját nem távolíthatja el. Jelentkezzen be másik fiókkal."
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "User {0} deleted"
+msgstr "{0} felhasználó törölve"
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "Challenge email sent to {0}"
+msgstr "Megerősítő e-mail elküldve {0} címre"
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "User {0} approved"
+msgstr "{0} felhasználó jóváhagyva"
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "You can't disable your own account. Please log in with another account"
+msgstr "A saját fiókját Ön nem tilthatja le. Jelentkezzen be másik fiókkal."
+
+#: "Orchard.Users.Controllers.AdminController"
+msgctxt "Orchard.Users.Controllers.AdminController"
+msgid "User {0} disabled"
+msgstr "{0} felhasználó letiltva"
+
+#: "Orchard.Users.Handlers.RegistrationSettingsPartHandler"
+msgctxt "Orchard.Users.Handlers.RegistrationSettingsPartHandler"
+msgid "Users"
+msgstr "Felhasználók"
+
+#: "Orchard.Users.Services.MembershipService"
+msgctxt "Orchard.Users.Services.MembershipService"
+msgid "New account"
+msgstr "Új fiók"
+
+#: "Orchard.Users.Services.MembershipService"
+msgctxt "Orchard.Users.Services.MembershipService"
+msgid "Unexpected password format value"
+msgstr "Váratlan jelszóformátum-érték"
+
+#: "Orchard.Users.Services.MissingSettingsBanner"
+msgctxt "Orchard.Users.Services.MissingSettingsBanner"
+msgid "Some Orchard.User settings require an Email channel to be enabled."
+msgstr "Egyes Orchard.User beállítások bekapcsolása e-mail csatornát igényel."
+
+#: "Orchard.Users.Services.UserService"
+msgctxt "Orchard.Users.Services.UserService"
+msgid "Verification E-Mail"
+msgstr "Érvényesítő e-mail"
+
+#: "Orchard.Users.Services.UserService"
+msgctxt "Orchard.Users.Services.UserService"
+msgid "Lost password"
+msgstr "Elfelejtett jelszó"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Please enter your username and password."
+msgstr "Kérem adja meg felhasználónevét és jelszavát."
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Register"
+msgstr "Regisztráljon"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid " if you don't have an account."
+msgstr ", ha még nem rendelkezik fiókkal."
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Lost your Password?"
+msgstr "Elfelejtette a jelszavát?"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Login was unsuccessful. Please correct the errors and try again."
+msgstr "A bejelentkezés nem sikerült. Kérjük javítsa ki a hibákat és próbálja újra."
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Account Information"
+msgstr "Fiók adatai"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Password"
+msgstr "Jelszó"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Remember Me"
+msgstr "Emlékezzen rám"
+
+#: "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/LogOn.cshtml"
+msgid "Sign In"
+msgstr "Bejelentkezés"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Create a New Account"
+msgstr "Új fiók létrehozása"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Use the form below to create a new account."
+msgstr "Töltse ki az alábbi űrlapot az új fiók létrehozásához."
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Passwords are required to be a minimum of {0} characters in length."
+msgstr "Az új jelszó legalább {0} karakter hosszú kell legyen."
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Account creation was unsuccessful. Please correct the errors and try again."
+msgstr "A fiók létrehozása nem sikerült. Kérjük javítsa ki a hibákat és próbálja újra."
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Account Information"
+msgstr "Fiók adatai"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Username:"
+msgstr "Felhasználónév:"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Email:"
+msgstr "E-mail:"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Password:"
+msgstr "Jelszó:"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Confirm password:"
+msgstr "Új jelszó megerősítése:"
+
+#: "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Register.cshtml"
+msgid "Register"
+msgstr "Regisztráció"
+
+#: "~/Modules/Orchard.Users/Views/Template.User.LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Template.User.LostPassword.cshtml"
+msgid "Dear {0}, please <a href=\"{1}\">click here</a> to change your password."
+msgstr "Kedves {0}, a jelszó megváltoztatásához <a href=\"{1}\">kattintson ide</a>."
+
+#: "~/Modules/Orchard.Users/Views/Template.User.Moderated.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Template.User.Moderated.cshtml"
+msgid "The user <b>{0}</b> with email <b>{1}</b> has requested a new account. This user won't be able to log while his account has not been approved."
+msgstr "A <b>{0}</b> nevű felhasználó <b>{1}</b> email-címmel új fiókot szeretne létrehozni. Ez a felhasználó nem fog tudni bejelentkezni, amíg a fiókja nincs engedélyezve."
+
+#: "~/Modules/Orchard.Users/Views/Template.User.Validated.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Template.User.Validated.cshtml"
+msgid "Thank you for registering with {0}.<br /><br /><br /><b>Final Step</b><br />To verify that you own this e-mail address, please click the following link:<br /><a href=\"{1}\">{1}</a><br /><br /><b>Troubleshooting:</b><br />If clicking on the link above does not work, try the following:<br /><br />Select and copy the entire link.<br />Open a browser window and paste the link in the address bar.<br />Click <b>Go</b> or, on your keyboard, press <b>Enter</b> or <b>Return</b>."
+msgstr "Köszönjük, hogy regisztrált a {0} weboldalon.<br/><br/><br/><b>Utolsó lépés</b><br/>Annak ellenőrzéséhez, hogy a saját e-mail címét adta meg, kattintson a következő hivatkozásra:<br/><a href=\"{1}\">{1}</a><br/><br/><b>Hibaelhárítás:</b><br/>Ha a kattintás a fenti hivatkozáson nem működik, próbálja meg ezt:<br/><br/>Másolja a vágólapra a teljes hivatkozást.<br/>Nyisson meg egy böngészőablakot és illessze be a hivatkozást a címsorba.<br/>Kattintson az <b>Ugrás</b> gombra, vagy a billentyűzeten üsse le az <b>Enter</b> vagy <b>Return</b> billentyűket."
+
+#: "~/Modules/Orchard.Users/Views/Template.User.Validated.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Template.User.Validated.cshtml"
+msgid "<br /><br />If you continue to have access problems or want to report other issues, please <a href=\"mailto:{0}\">Contact Us</a>."
+msgstr "<br/><br/>Ha továbbra is hozzáférési problémákat észlel, vagy más hibákat kíván jelenteni, <a href=\"mailto:{0}\">vegye fel velünk a kapcsolatot</a>."
+
+#: "~/Modules/Orchard.Users/Views/Account/AccessDenied.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/AccessDenied.cshtml"
+msgid "Access Denied"
+msgstr "Hozzáférés megtagadva"
+
+#: "~/Modules/Orchard.Users/Views/Account/AccessDenied.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/AccessDenied.cshtml"
+msgid "You do not have permission to complete your request."
+msgstr "Ön nem rendelkezik engedéllyel a kérés teljesítéséhez."
+
+#: "~/Modules/Orchard.Users/Views/Account/ChallengeEmailFail.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChallengeEmailFail.cshtml"
+msgid "Challenge Email"
+msgstr "Érvényesítő e-mail"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChallengeEmailFail.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChallengeEmailFail.cshtml"
+msgid "Your email address could not be validated."
+msgstr "Az Ön e-mail címe nem érvényesíthető."
+
+#: "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSent.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSent.cshtml"
+msgid "Challenge Email Sent"
+msgstr "Érvényesítő e-mail elküldve"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSent.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSent.cshtml"
+msgid "An email has been sent to you. Please click on the link it contains in order to have access on this site."
+msgstr "E-mailt küldtünk Önnek, amelyben egy hivatkozás található. A hivatkozásra kattintva hozzáférhet ehhez a webhelyhez."
+
+#: "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSuccess.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSuccess.cshtml"
+msgid "Challenge Email"
+msgstr "Érvényesítő e-mail"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSuccess.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChallengeEmailSuccess.cshtml"
+msgid "Your email address has been validated."
+msgstr "Az Ön e-mail címét érvényesítettük."
+
+#. "Change Password"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "Change Password"
+msgstr "Jelszó megváltoztatása"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "Use the form below to change your password."
+msgstr "Jelszava módosításához használja az alábbi űrlapot."
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "New passwords are required to be a minimum of {0} characters in length."
+msgstr "Az új jelszó legalább {0} karakter hosszú kell legyen."
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "Password change was unsuccessful. Please correct the errors and try again."
+msgstr "A jelszó módosítása nem sikerült. Kérjük javítsa ki a hibákat és próbálja újra."
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "Account Information"
+msgstr "Fiók adatai"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "Current password:"
+msgstr "Jelenlegi jelszó:"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "New password:"
+msgstr "Új jelszó:"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePassword.cshtml"
+msgid "Confirm new password:"
+msgstr "Új jelszó megerősítése:"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePasswordSuccess.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePasswordSuccess.cshtml"
+msgid "Change Password"
+msgstr "Jelszó megváltoztatása"
+
+#: "~/Modules/Orchard.Users/Views/Account/ChangePasswordSuccess.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/ChangePasswordSuccess.cshtml"
+msgid "Your password has been changed successfully."
+msgstr "Jelszavának módosítása megtörtént."
+
+#. "Change Password"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "Change Password"
+msgstr "Jelszó megváltoztatása"
+
+#: "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "Use the form below to change your password."
+msgstr "Jelszava módosításához használja az alábbi űrlapot."
+
+#: "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "New passwords are required to be a minimum of {0} characters in length."
+msgstr "Az új jelszó legalább {0} karakter hosszú kell legyen."
+
+#: "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "Password change was unsuccessful. Please correct the errors and try again."
+msgstr "A jelszó módosítása nem sikerült. Javítsa ki a hibákat és próbálja újra."
+
+#: "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "Account Information"
+msgstr "Fiók adatai"
+
+#: "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "New password:"
+msgstr "Új jelszó:"
+
+#: "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/LostPassword.cshtml"
+msgid "Confirm new password:"
+msgstr "Új jelszó megerősítése:"
+
+#: "~/Modules/Orchard.Users/Views/Account/RegistrationPending.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RegistrationPending.cshtml"
+msgid "User Registration Pending"
+msgstr "A felhasználói regisztráció várakozik"
+
+#: "~/Modules/Orchard.Users/Views/Account/RegistrationPending.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RegistrationPending.cshtml"
+msgid "Your user account has been created but has to be approved before it can be used."
+msgstr "Az Ön felhasználói fiókja létrejött, de használatba vétele előzetes jóváhagyást igényel."
+
+#: "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgid "Lost Password"
+msgstr "Elfelejtett jelszó"
+
+#: "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "Adja meg felhasználónevét vagy e-mail címét. Az új jelszó létrehozásához szükséges hivatkozást e-mailben kapja meg."
+
+#: "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgid "Account Information"
+msgstr "Fiók adatai"
+
+#: "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgid "Username or E-mail:"
+msgstr "Felhasználónév vagy e-mail cím:"
+
+#: "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Account/RequestLostPassword.cshtml"
+msgid "Send Request"
+msgstr "Kérés küldése"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Create.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Create.cshtml"
+msgid "Add User"
+msgstr "Felhasználó hozzáadása"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Edit.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Edit.cshtml"
+msgid "Edit User"
+msgstr "Felhasználó szerkesztése"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Users"
+msgstr "Felhasználók"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Add a new user"
+msgstr "Új felhasználó hozzáadása"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Actions:"
+msgstr "Műveletek"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Choose action..."
+msgstr "Válasszon műveletet..."
+
+#. "Approve"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Approve"
+msgstr "Jóváhagyás"
+
+#. "Disable"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Disable"
+msgstr "Letiltás"
+
+#. "Send challenge E-mail"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Send challenge E-mail"
+msgstr "Érvényesítő e-mail küldése"
+
+#. "Delete"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Delete"
+msgstr "Törlés"
+
+#. "Apply"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Apply"
+msgstr "Alkalmazás"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Filter:"
+msgstr "Szűrés:"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "All Users"
+msgstr "összes felhasználó"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Approved Users"
+msgstr "jóváhagyott felhasználók"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Pending Users"
+msgstr "várakozó felhasználók"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Pending Emails"
+msgstr "várakozó e-mailek"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Sort by:"
+msgstr "Sorrend:"
+
+#. "Name"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Name"
+msgstr "Név"
+
+#. "Email"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Email"
+msgstr "E-mail"
+
+#. "Filter"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Filter"
+msgstr "Szűrés"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Actions"
+msgstr "Műveletek"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Approved"
+msgstr "Jóváhagyva"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "User is approved"
+msgstr "Felhasználó jóváhagyva"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Moderated"
+msgstr "Moderált"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "User is moderated"
+msgstr "Felhasználó moderálva"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "E-mail validation is pending"
+msgstr "Az e-mail érvényesítés várakozik"
+
+#: "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/Admin/Index.cshtml"
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgid "User Name"
+msgstr "Felhasználónév"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgid "Email"
+msgstr "E-mail"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgid "Password"
+msgstr "Jelszó"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Create.cshtml"
+msgid "Confirm Password"
+msgstr "Jelszó megerősítése"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Edit.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Edit.cshtml"
+msgid "User Name"
+msgstr "Felhasználónév"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Edit.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/User.Edit.cshtml"
+msgid "Email"
+msgstr "E-mail"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Users"
+msgstr "Felhasználók"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Users can create new accounts on the site"
+msgstr "A webhelyen a felhasználók új fiókokat hozhatnak létre"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Display a link to enable users to reset their password"
+msgstr "A felhasználók új jelszót kérhetnek maguknak"
+
+#. "This option is available when an email module is activated."
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "This option is available when an email module is activated."
+msgstr "Ez az opció akkor használható, ha egy e-mail modul be van kapcsolva."
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Users must verify their email address"
+msgstr "A felhasználóknak meg kell erősíteniük az e-mail címüket"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Website public name"
+msgstr "A webhely nyilvános neve"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "The name of your website as it will appear in the verification e-mail."
+msgstr "A webhely neve, ahogy az a megerősítő e-mailben meg fog jelenni."
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Contact Us E-Mail address"
+msgstr "Kapcsolatfelvételi e-mail cím"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "The e-mail address displayed in the verification e-mail for a Contact Us link. Leave empty for no link."
+msgstr "A kapcsolatfelvételi hivatkozáshoz a megerősítő e-mailben megjelenő e-mail cím. Hivatkozás kihagyásához hagyja üresen."
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Users must be approved before they can log in"
+msgstr "A felhasználók csak a jóváhagyást követően jelentkezhetnek be"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Send a notification when a user needs moderation"
+msgstr "Értesítés küldése, ha egy felhasználót moderálni szükséges"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "Moderators"
+msgstr "Moderátorok"
+
+#: "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgctxt "~/Modules/Orchard.Users/Views/EditorTemplates/Parts/Users.RegistrationSettings.cshtml"
+msgid "The usernames to send the notifications to (e.g., \"admin, user1, ...\")."
+msgstr "Az értesítés címzettjéül szolgáló felhasználónevek (pl. \"admin, user1, ...\")."
+

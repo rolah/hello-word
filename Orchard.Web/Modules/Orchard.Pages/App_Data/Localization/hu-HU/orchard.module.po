@@ -1,0 +1,21 @@
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "Pages"
+msgstr "Oldalak"
+
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Pages/Module.txt"
+msgid "Introduces a preconfigured page content type."
+msgstr "Előkonfigurált oldal tartalomtípust vezet be."
+
+#: "Orchard.Pages.Commands.PageCommands"
+msgctxt "Orchard.Pages.Commands.PageCommands"
+msgid "Page created successfully."
+msgstr "Oldal létrehozása skerült."
+

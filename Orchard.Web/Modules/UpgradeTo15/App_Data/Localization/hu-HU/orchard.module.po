@@ -1,0 +1,144 @@
+#: ~/Modules/UpgradeTo15/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/UpgradeTo15/Module.txt"
+msgid "UpgradeTo15"
+msgstr "UpgradeTo15"
+
+#: ~/Modules/UpgradeTo15/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/UpgradeTo15/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+#: ~/Modules/UpgradeTo15/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/UpgradeTo15/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/UpgradeTo15/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/UpgradeTo15/Module.txt"
+msgid "Description for the module"
+msgstr "A modul leírása"
+
+#: ~/Modules/UpgradeTo15/Module.txt
+#| msgid "UpgradeTo15.Description"
+msgctxt "~/Modules/UpgradeTo15/Module.txt"
+msgid "Description for feature UpgradeTo15."
+msgstr "Az UpgradeTo15 modul leírása."
+
+#: UpgradeTo15.AdminMenu
+#| msgid "Migrate to 1.5"
+msgctxt "UpgradeTo15.AdminMenu"
+msgid "Migrate to 1.5"
+msgstr "1.5-re migrálás"
+
+#: UpgradeTo15.AdminMenu
+#| msgid "Migrate Routes"
+msgctxt "UpgradeTo15.AdminMenu"
+msgid "Migrate Routes"
+msgstr "Elérési utak migrálása"
+
+#: UpgradeTo15.AdminMenu
+#| msgid "Migrate Fields"
+msgctxt "UpgradeTo15.AdminMenu"
+msgid "Migrate Fields"
+msgstr "Mezők migrálása"
+
+#: UpgradeTo15.Controllers.FieldController
+#| msgid "There are no content types with custom fields"
+msgctxt "UpgradeTo15.Controllers.FieldController"
+msgid "There are no content types with custom fields"
+msgstr "Nincsenek egyéni mezőkkel rendelkező tartalomtípusok"
+
+#: UpgradeTo15.Controllers.FieldController
+#| msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgctxt "UpgradeTo15.Controllers.FieldController"
+msgid "You need to enable Orchard.Fields in order to migrate current fields. Then you can safely remove Contrib.DateTimeField and Contrib.MediaPickerField."
+msgstr "Engedélyeznie kell az Orchard.Fields modult a jelenlegi mezők migrálásához. Ezután biztonságosan eltávolíthatja a Contrib.DateTimeField és Contrib.MediaPickerField mezőket."
+
+#: UpgradeTo15.Controllers.FieldController
+#| msgid "Not allowed to migrate fields."
+msgctxt "UpgradeTo15.Controllers.FieldController"
+msgid "Not allowed to migrate fields."
+msgstr "Nincs engedélye mezőket migrálni"
+
+#: UpgradeTo15.Controllers.FieldController
+#| msgid "{0} fields were migrated successfully"
+msgctxt "UpgradeTo15.Controllers.FieldController"
+msgid "{0} fields were migrated successfully"
+msgstr "{0} mező sikeresen migrálva"
+
+#: UpgradeTo15.Controllers.RouteController
+#| msgid "There are no content types with RoutePart"
+msgctxt "UpgradeTo15.Controllers.RouteController"
+msgid "There are no content types with RoutePart"
+msgstr "Nincsenek RoutePart-tal rendelkező tartalomtípusok"
+
+#: UpgradeTo15.Controllers.RouteController
+#| msgid "Not allowed to migrate routes."
+msgctxt "UpgradeTo15.Controllers.RouteController"
+msgid "Not allowed to migrate routes."
+msgstr "Nincs engedélye elérési utakat migrálni."
+
+#: UpgradeTo15.Controllers.RouteController
+#| msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgctxt "UpgradeTo15.Controllers.RouteController"
+msgid "Some content items could not be imported. Please refer to the corresponding Report."
+msgstr "Néhány tartalomelemet nem lehet importálni. Kérem tekintse meg az idevonatkozó jelentést."
+
+#: UpgradeTo15.Controllers.RouteController
+#| msgid "{0} was migrated successfully"
+msgctxt "UpgradeTo15.Controllers.RouteController"
+msgid "{0} was migrated successfully"
+msgstr "{0} sikeresen migrálva"
+
+#: ~/Modules/UpgradeTo15/Views/Field/Index.cshtml
+#| msgid "Migrate Fields"
+msgctxt "~/Modules/UpgradeTo15/Views/Field/Index.cshtml"
+msgid "Migrate Fields"
+msgstr "Mezők migrálása"
+
+#: ~/Modules/UpgradeTo15/Views/Field/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo15/Views/Field/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr "Válassza ki a migrálandó típusokat:"
+
+#: ~/Modules/UpgradeTo15/Views/Field/Index.cshtml
+#| msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgctxt "~/Modules/UpgradeTo15/Views/Field/Index.cshtml"
+msgid "The migration process fields data. You will still need to enable Orchard.Fields, and remove Contrib.DateTime and Contrib.MediaPicker if you have installed them."
+msgstr "A mezők migrálása. Engedélyeznie kell az Orchard.Fields modult és amennyiben telepítve vannak, távolítsa el a Contrib.DateTime és Contrib.MediaPicker modulokat."
+
+#: ~/Modules/UpgradeTo15/Views/Field/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo15/Views/Field/Index.cshtml"
+msgid "Migrate"
+msgstr "Migrálás"
+
+#: ~/Modules/UpgradeTo15/Views/Route/Index.cshtml
+#| msgid "Migrate Routes"
+msgctxt "~/Modules/UpgradeTo15/Views/Route/Index.cshtml"
+msgid "Migrate Routes"
+msgstr "Elérési utak migrálása"
+
+#: ~/Modules/UpgradeTo15/Views/Route/Index.cshtml
+#| msgid "Choose the types to migrate:"
+msgctxt "~/Modules/UpgradeTo15/Views/Route/Index.cshtml"
+msgid "Choose the types to migrate:"
+msgstr "Válassza ki a migrálandó típusokat:"
+
+#: ~/Modules/UpgradeTo15/Views/Route/Index.cshtml
+#| msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgctxt "~/Modules/UpgradeTo15/Views/Route/Index.cshtml"
+msgid "The migration process will move the Route and Title properties by adding an Autoroute and a Title part to all the content items for the selected content types."
+msgstr "A migrálási folyamat eltávolítja a Route és Title tulajdonságokat, majd hozzáadja az AutoRoute és Title tartalomrészeket a kiválasztott tartalomtípusokhoz tartozó összes elemhez."
+
+#: ~/Modules/UpgradeTo15/Views/Route/Index.cshtml
+#| msgid "Migrate"
+msgctxt "~/Modules/UpgradeTo15/Views/Route/Index.cshtml"
+msgid "Migrate"
+msgstr "Migrálás"
+

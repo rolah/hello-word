@@ -1,0 +1,60 @@
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Name"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging"
+msgstr "Üzenetküldés"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Author"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Website"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Description"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "The Messaging module adds messaging functionalities."
+msgstr "Az üzenetkezelő (Messaging) modul üzenetkezelési funkciókat biztosít."
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Orchard.Messaging.Name"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging"
+msgstr "Üzenetküldés"
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Orchard.Messaging.Description"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging services."
+msgstr "Üzenetkezelő szolgáltatások."
+
+#: ~/Modules/Orchard.Messaging/Module.txt
+#| msgid "Orchard.Messaging.Category"
+msgctxt "~/Modules/Orchard.Messaging/Module.txt"
+msgid "Messaging"
+msgstr "Üzenetküldés"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Messaging"
+msgctxt "~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml"
+msgid "Messaging"
+msgstr "Üzenetkezelés"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "Default channel service for messages"
+msgctxt "~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml"
+msgid "Default channel service for messages"
+msgstr "Alapértelmezett csatorna szolgáltatás üzenetek számára"
+
+#: ~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml
+#| msgid "You must enable a messaging channel (e.g., Orchard.Email) before being able to send messages."
+msgctxt "~/Modules/Orchard.Messaging/Views/EditorTemplates/Parts/MessageSettings.cshtml"
+msgid "You must enable a messaging channel (e.g., Orchard.Email) before being able to send messages."
+msgstr "Az üzenetküldés csak egy üzenetkezelési csatorna (pl. Orchard.Email) előzetes engedélyezését követően lehetséges."
+

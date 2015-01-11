@@ -1,0 +1,336 @@
+msgctxt "~/Modules/Orchard.Modules/Module.txt"
+msgid "Modules"
+msgstr "Modulok"
+
+msgctxt "~/Modules/Orchard.Modules/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.Modules/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.Modules/Module.txt"
+msgid "The Modules module enables the administrator of the site to manage the installed modules as well as activate and de-activate features."
+msgstr "A Modulok (Modules) modul a webhely rendszergazdája számára lehetővé teszi a telepített modulok kezelését, valamint a funkciók aktiválását és deaktiválását."
+
+#: "Orchard.Modules.AdminMenu"
+msgctxt "Orchard.Modules.AdminMenu"
+msgid "Modules"
+msgstr "Modulok"
+
+#: "Orchard.Modules.AdminMenu"
+msgctxt "Orchard.Modules.AdminMenu"
+msgid "Features"
+msgstr "Funkciók"
+
+#: "Orchard.Modules.AdminMenu"
+msgctxt "Orchard.Modules.AdminMenu"
+msgid "Installed"
+msgstr "Telepítve"
+
+#: "Orchard.Modules.AdminMenu"
+msgctxt "Orchard.Modules.AdminMenu"
+msgid "Recipes"
+msgstr "Receptek"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "{0}, {1}"
+msgstr "{0}, {1}"
+
+#. "Enabled"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Enabled"
+msgstr "Engedélyezve"
+
+#. "Disabled"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Disabled"
+msgstr "Letiltva"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "List of available features"
+msgstr "Rendelkezésre álló funkciók listája"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "--------------------------"
+msgstr "--------------------------"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Category: {0}"
+msgstr "Kategória: {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "General"
+msgstr "Általános"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "  Name: {0}"
+msgstr "  Név: {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "    State:         {0}"
+msgstr "    Állapot:         {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "    Description:   {0}"
+msgstr "    Leírás:   {0}"
+
+#. "<none>"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "<none>"
+msgstr "<nincs>"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "    Category:      {0}"
+msgstr "    Kategória:     {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "    Module:        {0}"
+msgstr "    Modul:         {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "    Dependencies:  {0}"
+msgstr "    Ezektől függ:  {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Enabling features {0}"
+msgstr "{0} funkciók engedélyezése"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Could not find feature {0}"
+msgstr "A(z) {0} funkció nem található"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Could not enable features: {0}"
+msgstr "Nem engedélyezhető funkciók: {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Available features are : {0}"
+msgstr "Elérhető funkciók: {0}"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Disabling features {0}"
+msgstr "{0} funkciók letiltása"
+
+#: "Orchard.Modules.Commands.FeatureCommands"
+msgctxt "Orchard.Modules.Commands.FeatureCommands"
+msgid "Disabled features  {0}"
+msgstr "Letiltott funkciók  {0}"
+
+#. "Not allowed to manage modules"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "Not allowed to manage modules"
+msgstr "Modulok kezelése nem engedélyezett"
+
+#: "Orchard.Modules.Controllers.AdminController"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "Recipes contains {0} unsupported module installation steps."
+msgstr "A(z) {0} recept nem támogatott modultelepítési lépéseket tartalmaz."
+
+#: "Orchard.Modules.Controllers.AdminController"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "The recipe {0} was executed successfully."
+msgstr "A(z) {0} recept sikeresen végrehajtva."
+
+#. "Not allowed to manage features"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "Not allowed to manage features"
+msgstr "Funkciók kezelése nem engedélyezett"
+
+#: "Orchard.Modules.Controllers.AdminController"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "Please select one or more features."
+msgstr "Kérem válasszon ki egy vagy több funkciót."
+
+#: "Orchard.Modules.Controllers.AdminController"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "The feature {0} was updated successfully"
+msgstr "{0} funkció frissítése sikerült"
+
+#: "Orchard.Modules.Controllers.AdminController"
+msgctxt "Orchard.Modules.Controllers.AdminController"
+msgid "An error occured while updating the feature {0}: {1}"
+msgstr "A(z) {0} funkció frissítése során hiba történt: {1}"
+
+#: "Orchard.Modules.Data.Migration.DataMigrationNotificationProvider"
+msgctxt "Orchard.Modules.Data.Migration.DataMigrationNotificationProvider"
+msgid "Some features need to be upgraded: {0}"
+msgstr "Néhány funkciót frissíteni kell: {0}"
+
+#: "Orchard.Modules.Services.ModuleService"
+msgctxt "Orchard.Modules.Services.ModuleService"
+msgid "{0} was enabled"
+msgstr "{0} engedélyezve"
+
+#: "Orchard.Modules.Services.ModuleService"
+msgctxt "Orchard.Modules.Services.ModuleService"
+msgid "{0} was disabled"
+msgstr "{0} letiltva"
+
+#: "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgid "Version: {0}"
+msgstr "Verzió: {0}"
+
+#: "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgid "1.0"
+msgstr "1.0"
+
+#: "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgid "Features: {0}"
+msgstr "Funkciók: {0}"
+
+#: "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgid "Author: {0}"
+msgstr "Szerző: {0}"
+
+#. "Unknown"
+msgctxt "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgid "Unknown"
+msgstr "Ismeretlen"
+
+#: "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/ModuleEntry.cshtml"
+msgid "Website: "
+msgstr "Webhely: "
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Modules"
+msgstr "Modulok"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Filter:"
+msgstr "Szűrés:"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Actions:"
+msgstr "Műveletek:"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Choose action..."
+msgstr "Művelet kiválasztása..."
+
+#. "Enable"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Enable"
+msgstr "Engedélyezés"
+
+#. "Disable"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Disable"
+msgstr "Letiltás"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Toggle"
+msgstr "Ki-/ bekapcsolás"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Execute"
+msgstr "Végrehajtás"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Uncategorized"
+msgstr "Kategorizálatlan"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "{0} is {1}"
+msgstr "A(z) {0} {1}"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Depends on:"
+msgstr "A következőtől függ:"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Missing:"
+msgstr "Hiányzik:"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Update"
+msgstr "Frissítés"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Features.cshtml"
+msgid "Disabling this feature will also disable the following dependent features. Are you sure you want to continue?"
+msgstr "Ennek a funkciónak a kikapcsolása miatt az alábbi funkciókat is ki kell kapcsolni. Biztosan folytatni kívánja?"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgid "Modules"
+msgstr "Modulok"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgid "Search"
+msgstr "Keresés"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgid "Install a module from your computer"
+msgstr "Modul telepítése a számítógépéről"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Index.cshtml"
+msgid "No modules available"
+msgstr "Nincs elérhető modul"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgid "Recipes"
+msgstr "Receptek"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgid "Version: {0}"
+msgstr "Verzió: {0}"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgid "1.0"
+msgstr "1.0"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgid "Execute"
+msgstr "Futtatás"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgid "No description"
+msgstr "Nincs leírás"
+
+#: "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgctxt "~/Modules/Orchard.Modules/Views/Admin/Recipes.cshtml"
+msgid "No modules available"
+msgstr "Nincsenek elérhető modulok"
+

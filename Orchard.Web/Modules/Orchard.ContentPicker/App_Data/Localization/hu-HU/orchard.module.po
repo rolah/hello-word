@@ -1,0 +1,281 @@
+msgctxt "~/Modules/Orchard.ContentPicker/Module.txt"
+msgid "Orchard.ContentPicker"
+msgstr "Orchard.ContentPicker"
+
+msgctxt "~/Modules/Orchard.ContentPicker/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.ContentPicker/Module.txt"
+msgid "http://orchardcontentpicker.codeplex.com"
+msgstr "http://orchardcontentpicker.codeplex.com"
+
+#. "Orchard.ContentPicker.Description"
+msgctxt "~/Modules/Orchard.ContentPicker/Module.txt"
+msgid "UI for selecting Content Items."
+msgstr "Tartalomelemek kiválasztását teszi lehetővé."
+
+msgctxt "~/Modules/Orchard.ContentPicker/Module.txt"
+msgid "Input Editor"
+msgstr "Szövegbeviteli mező"
+
+#: "Orchard.ContentPicker.Drivers.ContentMenuItemPartDriver"
+msgctxt "Orchard.ContentPicker.Drivers.ContentMenuItemPartDriver"
+msgid "You must select a Content Item"
+msgstr "Válasszon egy tartalomelemet"
+
+#: "Orchard.ContentPicker.Drivers.ContentPickerFieldDriver"
+msgctxt "Orchard.ContentPicker.Drivers.ContentPickerFieldDriver"
+msgid "The field {0} is mandatory"
+msgstr "A(z) {0} mezőt kötelező kitölteni"
+
+#: "Orchard.ContentPicker.Drivers.ContentPickerFieldDriver"
+msgctxt "Orchard.ContentPicker.Drivers.ContentPickerFieldDriver"
+msgid "Ids"
+msgstr "Azonosítók"
+
+#: "Orchard.ContentPicker.Drivers.ContentPickerFieldDriver"
+msgctxt "Orchard.ContentPicker.Drivers.ContentPickerFieldDriver"
+msgid "A formatted list of the ids, e.g., {1},{42}"
+msgstr "A numerikus azonosítók formázott listája, pl.: {1},{42}"
+
+#: "Orchard.ContentPicker.Drivers.NavigationPartDriver"
+msgctxt "Orchard.ContentPicker.Drivers.NavigationPartDriver"
+msgid "The MenuText field is required"
+msgstr "A MenuText mezőt kötelező kitölteni"
+
+#: "Orchard.ContentPicker.Services.ContentPickerNavigationProvider"
+msgctxt "Orchard.ContentPicker.Services.ContentPickerNavigationProvider"
+msgid "Content Picker"
+msgstr "Tartalomkiválasztó"
+
+#: "Orchard.ContentPicker.Services.ContentPickerNavigationProvider"
+msgctxt "Orchard.ContentPicker.Services.ContentPickerNavigationProvider"
+msgid "Recent Content"
+msgstr "Friss tartalom"
+
+#: "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgctxt "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgid "Content Picker Field"
+msgstr "Tartalomkiválasztó mező"
+
+#: "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgctxt "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgid "Tokens for Content Picker Fields"
+msgstr "A tartalomkiválasztó mező token-jei"
+
+#: "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgctxt "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgid "Content Item"
+msgstr "Tartalomelem"
+
+#: "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgctxt "Orchard.ContentPicker.Tokens.ContentPickerFieldTokens"
+msgid "The content item."
+msgstr "A tartalomelem."
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.cshtml"
+msgid "Select Content Item"
+msgstr "Tartalomelem kiválasztása"
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.cshtml"
+msgid "Cannot perform requested operation"
+msgstr "Nem sikerült a kért műveletet végrehajtani"
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.cshtml"
+msgid "Authentication timed-out: please log-on again"
+msgstr "Lejárt a munkamenet: kérem jelentkezzen be újra"
+
+#. "Remove"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgid "Remove"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgid "You need to save your changes."
+msgstr "Kérem mentse el a változtatásokat."
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgid "Content Item"
+msgstr "Tartalomelem"
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.Edit.cshtml"
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: "~/Modules/Orchard.ContentPicker/Views/ContentPicker.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/ContentPicker.SummaryAdmin.cshtml"
+msgid "Select"
+msgstr "Választás"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "Recent Content"
+msgstr "Friss tartalom"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "Manage {0} Content"
+msgstr "{0} tartalomelem kezelése"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "Show"
+msgstr "Megjelenít"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "any (show all)"
+msgstr "bármely (összes)"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "Ordered by"
+msgstr "Rendezési szempont: "
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "recently created"
+msgstr "mostanában jött létre"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "recently modified"
+msgstr "mostanában módosult"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "recently published"
+msgstr "mostanában lett közzétéve"
+
+#: "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/RecentContentTab.cshtml"
+msgid "Apply"
+msgstr "Alkalmaz"
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "A content item is required"
+msgstr "Egy tartalomelem kötelező"
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Check to ensure the user is providing at least one content item."
+msgstr "Jelölje be, hogy a felhasználónak legalább egy tartalomelemet ki kelljen választani."
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Allow multiple content items"
+msgstr "Több tartalomelem engedélyezése"
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Check to allow the user to select multiple content items."
+msgstr "Jelölje be, hogy a felhasználó több tartalomelemet is kiválaszthasson."
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Help text"
+msgstr "Tipp"
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "The help text is written under the field when authors are selecting content items."
+msgstr "A tipp a mező alatt jelenik meg, amikor a szerző tartalomelemeket választ ki."
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Show Content tab"
+msgstr "Tartalom-fül megjelenítése"
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Uncheck to hide the Content tab from the picker window."
+msgstr "Szüntesse meg a kijelölést a Tartalom-fül elrejtéséhez a tartalomválasztó ablakban."
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "Content Types and Parts"
+msgstr "Tartalomtípusok és tartalomrészek"
+
+#: "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/DefinitionTemplates/ContentPickerFieldSettings.cshtml"
+msgid "A comma separated value of all the content types or content parts to display."
+msgstr "A megjelenítendő tartalomtípusok és tartalomrészek vesszővel elválasztott listája."
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgid "Empty"
+msgstr "Üres"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgid "Content Item"
+msgstr "Tartalomelem"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgid "Browse"
+msgstr "Böngészés"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.ContentMenuItem.Edit.cshtml"
+msgid "Select the Content Item to display in the menu."
+msgstr "Válassza ki a menüben megjelenítendő tartalomelemet."
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "Menu Items"
+msgstr "Menüpontok"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "The menu items linking to this content item."
+msgstr "Erre a tartalomelemre mutató menü linkek."
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "on"
+msgstr "a következő menüben:"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "Not displayed in any menu."
+msgstr "Egyik menüben sem szerepel."
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "Add on a menu"
+msgstr "Hozzáadás egy menühöz"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "Select which menu you want the content item to be added on."
+msgstr "Válassza ki azt a menüt, amelyhez a tartalomelemet hozzá szeretné adni."
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "Menu text"
+msgstr "Menü szöveg"
+
+#: "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/EditorTemplates/Parts.Navigation.Edit.cshtml"
+msgid "The text that should appear in the menu."
+msgstr "A menüben megjeleníteni kívánt szöveg."
+
+#: "~/Modules/Orchard.ContentPicker/Views/Fields/ContentPicker.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/Fields/ContentPicker.cshtml"
+msgid "No content items."
+msgstr "Nincsenek tartalomelemek."
+
+#: "~/Modules/Orchard.ContentPicker/Views/Fields/ContentPicker.SummaryAdmin.cshtml"
+msgctxt "~/Modules/Orchard.ContentPicker/Views/Fields/ContentPicker.SummaryAdmin.cshtml"
+msgid "No content items."
+msgstr "Nincsenek tartalomelemek."
+

@@ -1,0 +1,686 @@
+#. "Orchard.Tokens.Name"
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "Tokens"
+msgstr "Token-ek"
+
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapat"
+
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "http://orchardtokens.codeplex.com"
+msgstr "http://orchardtokens.codeplex.com"
+
+#. "Orchard.Tokens.Description"
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "Provides a system for performing string replacements with common site values."
+msgstr "Stringek cseréjét teszi lehetővé az weboldalon használt globális értékekre."
+
+#. "Orchard.Tokens.Feeds.Category"
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "Content"
+msgstr "Tartalom"
+
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "Feeds Tokens"
+msgstr "RSS-feed token-ek"
+
+msgctxt "~/Modules/Orchard.Tokens/Module.txt"
+msgid "Provides a content part to customize RSS fields based on tokens."
+msgstr "Biztosít egy tartalomrészt, amellyel az RSS-feed-eket tudja testreszabni token-ek segítségével."
+
+#. "Content Items"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Content Items"
+msgstr "Tartalmi elemek"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Content Id"
+msgstr "Tartalom Id"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Numeric primary key value of content."
+msgstr "A tartalom numerikus elsődleges azonosítója."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Content Author"
+msgstr "Tartalom szerzője"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Person in charge of the content."
+msgstr "A tartalom tulajdonosa."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Content Date"
+msgstr "Tartalom dátuma"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Date the content was created."
+msgstr "A tartalom létrehozásának dáuma."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Identity"
+msgstr "Azonosító"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Identity of the content."
+msgstr "A tartalom azonosítója."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Content Type"
+msgstr "Tartalomtípus"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "The name of the item Content Type."
+msgstr "A tartalomelem neve."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Display Text"
+msgstr "Megjelenítendő szöveg"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Title of the content."
+msgstr "A tartalom címe."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Display Url"
+msgstr "Megjelenítendő URL"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Url to display the content."
+msgstr "A tartalmat megjelenítő URL."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Edit Url"
+msgstr "Szerkesztési URL"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Url to edit the content."
+msgstr "A tartalom szerkesztéséhez használt URL."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Container"
+msgstr "Tároló"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "The container Content Item."
+msgstr "A tároló tartalomelem."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Body"
+msgstr "Body"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "The body text of the content item."
+msgstr "A tartalomelem szövegtörzse."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "{0} {1}"
+msgstr "{0} {1}"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "The content of the {0} field."
+msgstr "A(z) {0} mező tartalma."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Text Field"
+msgstr "Szövegmező"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Tokens for Text Fields"
+msgstr "Szövegmezők tokenjei"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Length"
+msgstr "Hossz"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "The length of the field."
+msgstr "A mező hossza."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Url"
+msgstr "URL"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Tokens for Urls"
+msgstr "URL-ek tokenjei"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Absolute"
+msgstr "Abszolút"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Absolute url."
+msgstr "Abszolút URL."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Type Definition"
+msgstr "Típus definíció"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Tokens for Content Types"
+msgstr "Tartalomtípusok tokenjei"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Name"
+msgstr "Név"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Name of the content type."
+msgstr "A tartalomtípus neve."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Display Name"
+msgstr "Megjelenítendő név"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Display name of the content type."
+msgstr "A tartalomtípus megjelenítendő neve."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Parts"
+msgstr "Tartalomrészek"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "List of the attached part names."
+msgstr "A csatolt tartalomrészek neveinek listája."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Fields"
+msgstr "Mezők"
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Fields for each of the attached parts. For example, Fields.Page.Approved."
+msgstr "A csatolt tartalomrészekhez tartozó mezők, pl. Fields.Page.Approved."
+
+#: "Orchard.Tokens.Providers.ContentTokens"
+msgctxt "Orchard.Tokens.Providers.ContentTokens"
+msgid "Anonymous"
+msgstr "Névtelen"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Date/time"
+msgstr "Dátum és idő"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Current date/time tokens"
+msgstr "Jelenlegi dátum és idő tokenek"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Since"
+msgstr "Óta:"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Relative to the current date/time."
+msgstr "Relatív az aktuális dátumhoz és időhöz képest."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Local"
+msgstr "Helyi"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Based on the configured time zone and calendar."
+msgstr "A beállított időzóna és naptár alapján."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Short Date"
+msgstr "Rövid Dátum"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Short date format."
+msgstr "Rövid dátum formátum."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Short Time"
+msgstr "Rövid Idő."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Short time format."
+msgstr "Rövid idő formátum."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Long Date and Time"
+msgstr "Hosszú Dátum és idő"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Long date and time format."
+msgstr "Hosszú dátum és idő formátum."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Format:<date format>"
+msgstr "Format:<dátumformátum>"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "Optional format specifier (e.g. yyyy/MM/dd). See format strings at <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/az4se3k1.aspx\">Standard Formats</a> and <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx\">Custom Formats</a>"
+msgstr "Opcionális formátumdefiníció (pl. yyyy/MM/dd). A formázó stringekről bővebben olvashat a <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/az4se3k1.aspx\">Standard Formats</a> és <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx\">Custom Formats</a> oldalakon angol nyelven."
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "'on' MMM d yyyy 'at' h:mm tt"
+msgstr "d MMM yyyy'-n' h:mm tt'-kor'"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "a moment ago"
+msgstr "1 pillanattal ezelőtt"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "1 day ago"
+msgstr "1 napja"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "{0} days ago"
+msgstr "{0} napja"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "1 hour ago"
+msgstr "1 órája"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "{0} hours ago"
+msgstr "{0} órája"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "1 minute ago"
+msgstr "1 perce"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "{0} minutes ago"
+msgstr "{0} perce"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "1 second ago"
+msgstr "1 másodperce"
+
+#: "Orchard.Tokens.Providers.DateTokens"
+msgctxt "Orchard.Tokens.Providers.DateTokens"
+msgid "{0} seconds ago"
+msgstr "{0} másodperce"
+
+#: "Orchard.Tokens.Providers.RequestTokens"
+msgctxt "Orchard.Tokens.Providers.RequestTokens"
+msgid "Http Request"
+msgstr "HTTP lekérés"
+
+#: "Orchard.Tokens.Providers.RequestTokens"
+msgctxt "Orchard.Tokens.Providers.RequestTokens"
+msgid "Current Http Request tokens."
+msgstr "Jelenlegi HTTP lekérés tokenjei."
+
+#: "Orchard.Tokens.Providers.RequestTokens"
+msgctxt "Orchard.Tokens.Providers.RequestTokens"
+msgid "QueryString:<element>"
+msgstr "QueryString:<elem>"
+
+#: "Orchard.Tokens.Providers.RequestTokens"
+msgctxt "Orchard.Tokens.Providers.RequestTokens"
+msgid "The Query String value for the specified element."
+msgstr "A megadott elem Query String értéke."
+
+#: "Orchard.Tokens.Providers.RequestTokens"
+msgctxt "Orchard.Tokens.Providers.RequestTokens"
+msgid "Form:<element>"
+msgstr "Form:<elem>"
+
+#: "Orchard.Tokens.Providers.RequestTokens"
+msgctxt "Orchard.Tokens.Providers.RequestTokens"
+msgid "The Form value for the specified element."
+msgstr "A megadott elem értéke az űrlapon."
+
+#: "Orchard.Tokens.Providers.ShapeTokens"
+msgctxt "Orchard.Tokens.Providers.ShapeTokens"
+msgid "Shape"
+msgstr "Shape"
+
+#: "Orchard.Tokens.Providers.ShapeTokens"
+msgctxt "Orchard.Tokens.Providers.ShapeTokens"
+msgid "Shape tokens."
+msgstr "Shape token-ek."
+
+#: "Orchard.Tokens.Providers.ShapeTokens"
+msgctxt "Orchard.Tokens.Providers.ShapeTokens"
+msgid "Execute:<shape name>"
+msgstr "Végrehajt:<shape neve>"
+
+#: "Orchard.Tokens.Providers.ShapeTokens"
+msgctxt "Orchard.Tokens.Providers.ShapeTokens"
+msgid "Executes the specified shape."
+msgstr "Megjeleníti a megadott shape-et."
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Text"
+msgstr "Szöveg"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Tokens for text strings"
+msgstr "Szövegek tokenjei"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Limit:<text length>[,<ellipsis>]"
+msgstr "Limit:<szöveghossz>[,<hiányjelzés>]"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Limit text to specified length and append an optional ellipsis text."
+msgstr "Limitálja a szöveg méretét egy megadott értékre és hozzáad egy opcionális hiányjelzést."
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Format:<text format>"
+msgstr "Format:<szövegformázás>"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Optional format specifier (e.g. foo{0}bar). See format strings at <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/az4se3k1.aspx\">Standard Formats</a> and <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx\">Custom Formats</a>"
+msgstr "Opcionális formátumdefiníció (pl. foo{0}bar). A formázó stringekről bővebben olvashat a <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/az4se3k1.aspx\">Standard Formats</a> és <a target=\"_blank\" href=\"http://msdn.microsoft.com/en-us/library/8kb3ddd4.aspx\">Custom Formats</a> oldalakon angol nyelven."
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "TrimEnd:<chars|number>"
+msgstr "TrimEnd:<chars|number>"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Trims the specified characters or number of them from the end of the string."
+msgstr "Levágja a megadott karakereket vagy a megadott számú karaktereket a karakterlánc végéről."
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Url Encode"
+msgstr "URL kódolás"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Encodes a URL string."
+msgstr "Lekódol egy URL stringet."
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Html Encode"
+msgstr "HTML kódolás"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Encodes an HTML string."
+msgstr "Lekódol egy HTML stringet."
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Line Encode"
+msgstr "Sor kódolása"
+
+#: "Orchard.Tokens.Providers.TextTokens"
+msgctxt "Orchard.Tokens.Providers.TextTokens"
+msgid "Replaces new lines with <br /> tags."
+msgstr "Az sortöréseket <br /> tag-gel helyettesíti."
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "User"
+msgstr "Felhasználó"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "User tokens"
+msgstr "Felhasználók tokenjei"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "Name"
+msgstr "Név"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "Email"
+msgstr "E-mail"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "Email Address"
+msgstr "E-mail cím"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "Id"
+msgstr "Id"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "User Id"
+msgstr "Felhasználó Id"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "Content"
+msgstr "Tartalom"
+
+#: "Orchard.Tokens.Providers.UserTokens"
+msgctxt "Orchard.Tokens.Providers.UserTokens"
+msgid "The user's content item"
+msgstr "A felhasználó tartalomeleme"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Global1"
+msgstr "Globális1"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "description of token1"
+msgstr "token1 leírása"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Global2"
+msgstr "Globális2"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "description of token2"
+msgstr "token2 leírása"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Global3"
+msgstr "Globális3"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "description of token3"
+msgstr "token3 leírása"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Current User"
+msgstr "Jelenlegi felhasználó"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "The current user"
+msgstr "A jelenlegi felhasználó"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Name"
+msgstr "Név"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Their user name"
+msgstr "Felhasználónevük"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Birthdate"
+msgstr "Születési dátum"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Date of birth"
+msgstr "Születési dátum"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Now"
+msgstr "Most"
+
+#: "Orchard.Tokens.Tests.TestTokenProvider"
+msgctxt "Orchard.Tokens.Tests.TestTokenProvider"
+msgid "Current system date in short date format. You can chain a .NET DateTime format string to customize."
+msgstr "Aktuális dátum rövid formátumban. Hozzáfűzhet egy .NET DateTime formázó stringet a testreszabáshoz."
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid " Use '-' to remove the tag, leave empty to keep untouched, or use the 'Text' text token for the current value."
+msgstr " Írja be a '-' karaktert, hogy eltávolítsa a tag-et, hagyja üresen, ha nem akar rajta változtatni vagy használja a 'Text' token-t a jelenlegi érték felhasználásához."
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Title"
+msgstr "Cím"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The title field of the RSS item."
+msgstr "Az RSS-feed elem címét tároló mező."
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Link"
+msgstr "Link"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The link field of the RSS item"
+msgstr "Az RSS-feed elem link-mezeje"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Description"
+msgstr "Leírás"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The description field of the RSS item"
+msgstr "Az RSS-feed elem leírása"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Author"
+msgstr "Szerző"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The author field of the RSS item"
+msgstr "Az RSS-feed elem szerző mezeje"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Category"
+msgstr "Kategória"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The category field of the RSS item"
+msgstr "Az RSS-feed elem kategória mezeje"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Enclosure"
+msgstr "Kerítés"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The enclosure field of the RSS item. This is usually a html tag like <img>"
+msgstr "Az RSS-mező elemet körbekerítő mező. Ez általában egy HTML-tag, mint az <img>"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "PubDate"
+msgstr "Publikálás dátuma"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The pubDate field of the RSS item"
+msgstr "Az RSS-feed elem publikálási dátumának mezeje"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "Source"
+msgstr "Forrás"
+
+#: "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgctxt "~/Modules/Orchard.Tokens/Views/DefinitionTemplates/RssPartSettings.cshtml"
+msgid "The source field of the RSS item"
+msgstr "Az RSS-mező elem forrásának mezeje"
+

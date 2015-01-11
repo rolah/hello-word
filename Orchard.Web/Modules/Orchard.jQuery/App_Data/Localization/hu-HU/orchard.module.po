@@ -1,0 +1,211 @@
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "jQuery"
+msgstr "jQuery"
+
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "The Orchard Team"
+msgstr "Az Orchard csapata"
+
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "http://orchardproject.net"
+msgstr "http://orchardproject.net"
+
+msgctxt "~/Modules/Orchard.jQuery/Module.txt"
+msgid "The jQuery module contains the jQuery and related script libraries."
+msgstr "A jQuery modul tartalmazza a jQuery és ahhoz kapcsolódó könyvtárakat."
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Prev"
+msgstr "Előző"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Show the previous month"
+msgstr "Előző hónap megjelenítése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "<<"
+msgstr "<<"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Show the previous year"
+msgstr "Előző év megjelenítése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Next"
+msgstr "Következő"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Show the next month"
+msgstr "Következő hónap megjelenítése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid ">>"
+msgstr ">>"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Show the next year"
+msgstr "Következő év megjelenítése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Current"
+msgstr "Aktuális"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Show the current month"
+msgstr "Aktuális hónap megjelenítése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Today"
+msgstr "Ma"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Show today's month"
+msgstr "Jelenlegi hónap megjelenítése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Clear"
+msgstr "Törlés"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Clear the date field"
+msgstr "Dátum mező törlése"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Done"
+msgstr "Kész"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Close the datepicker"
+msgstr "Dátumválasztó bezárása"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Change the year"
+msgstr "Év változtatása"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Change the month"
+msgstr "Hónap változtatása"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Wk"
+msgstr "Hét"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Week of the year"
+msgstr "A jelenlegi hét"
+
+#: "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/CalendarsPickerLocalization.cshtml"
+msgid "Select a date"
+msgstr "Válasszon dátumot"
+
+#: "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Done"
+msgstr "Kész"
+
+#: "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Prev"
+msgstr "Előző"
+
+#: "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Next"
+msgstr "Köv."
+
+#: "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Today"
+msgstr "Ma"
+
+#: "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/DatePickerLocalization.cshtml"
+msgid "Wk"
+msgstr "Hét"
+
+#: "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgid "Now"
+msgstr "Most"
+
+#: "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgid "Previous field"
+msgstr "Előző mező"
+
+#: "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgid "Next field"
+msgstr "Következő mező"
+
+#: "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgid "Increment"
+msgstr "Növelés"
+
+#: "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimeEntryLocalization.cshtml"
+msgid "Decrement"
+msgstr "Csökkentés"
+
+#: "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Choose time"
+msgstr "Válassza ki az időt"
+
+#: "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Time"
+msgstr "Now"
+
+#: "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Hour"
+msgstr "Óra"
+
+#: "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Minute"
+msgstr "Perc"
+
+#: "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Now"
+msgstr "Most"
+
+#: "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/TimePickerLocalization.cshtml"
+msgid "Done"
+msgstr "Kész"
+
+#: "~/Modules/Orchard.jQuery/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgid "Date"
+msgstr "Dátum"
+
+#: "~/Modules/Orchard.jQuery/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgctxt "~/Modules/Orchard.jQuery/Views/EditorTemplates/DateTimeEditor.cshtml"
+msgid "Time"
+msgstr "Idő"
+
